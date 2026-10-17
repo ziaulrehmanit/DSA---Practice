@@ -1,0 +1,24 @@
+{
+  "platform": "leetcode",
+  "id": "3551",
+  "title": "Minimum Swaps to Sort by Digit Sum",
+  "url": "https://leetcode.com/problems/minimum-swaps-to-sort-by-digit-sum/",
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "Hash Table",
+    "Sorting"
+  ],
+  "firstSolvedAt": "2026-10-17T17:53:51.000Z",
+  "lastSolvedAt": "2026-10-17T17:53:51.000Z",
+  "attempts": [
+    {
+      "sid": "2174782594",
+      "lang": "Python3",
+      "ts": 1792259631000,
+      "file": "solution_20261017_2174782594.py",
+      "runtimeMs": 0,
+      "memoryKb": 40371
+    }
+  ]
+}
