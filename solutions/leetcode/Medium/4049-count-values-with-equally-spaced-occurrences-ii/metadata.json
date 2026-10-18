@@ -1,0 +1,23 @@
+{
+  "platform": "leetcode",
+  "id": "4049",
+  "title": "Count Values With Equally Spaced Occurrences II",
+  "url": "https://leetcode.com/problems/count-values-with-equally-spaced-occurrences-ii/",
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "Hash Table"
+  ],
+  "firstSolvedAt": "2026-09-29T15:10:57.000Z",
+  "lastSolvedAt": "2026-09-29T15:10:57.000Z",
+  "attempts": [
+    {
+      "sid": "2157227335",
+      "lang": "Python3",
+      "ts": 1790694657000,
+      "file": "solution_20260929_2157227335.py",
+      "runtimeMs": 0,
+      "memoryKb": 49074
+    }
+  ]
+}

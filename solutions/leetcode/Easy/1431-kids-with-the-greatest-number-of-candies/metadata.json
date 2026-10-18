@@ -1,0 +1,22 @@
+{
+  "platform": "leetcode",
+  "id": "1431",
+  "title": "Kids With the Greatest Number of Candies",
+  "url": "https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/",
+  "difficulty": "Easy",
+  "tags": [
+    "Array"
+  ],
+  "firstSolvedAt": "2026-10-03T12:11:53.000Z",
+  "lastSolvedAt": "2026-10-03T12:11:53.000Z",
+  "attempts": [
+    {
+      "sid": "2161045413",
+      "lang": "Python3",
+      "ts": 1791029513000,
+      "file": "solution_20261003_2161045413.py",
+      "runtimeMs": 0,
+      "memoryKb": 18988
+    }
+  ]
+}

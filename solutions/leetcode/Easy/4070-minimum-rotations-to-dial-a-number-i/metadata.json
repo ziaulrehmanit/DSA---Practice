@@ -1,0 +1,20 @@
+{
+  "platform": "leetcode",
+  "id": "4070",
+  "title": "Minimum Rotations to Dial a Number I",
+  "url": "https://leetcode.com/problems/minimum-rotations-to-dial-a-number-i/",
+  "difficulty": "Easy",
+  "tags": [],
+  "firstSolvedAt": "2026-10-04T03:34:02.000Z",
+  "lastSolvedAt": "2026-10-04T03:34:02.000Z",
+  "attempts": [
+    {
+      "sid": "2161664853",
+      "lang": "Python3",
+      "ts": 1791084842000,
+      "file": "solution_20261004_2161664853.py",
+      "runtimeMs": 4,
+      "memoryKb": 18766
+    }
+  ]
+}

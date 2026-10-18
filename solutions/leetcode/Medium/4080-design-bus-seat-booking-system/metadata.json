@@ -1,0 +1,20 @@
+{
+  "platform": "leetcode",
+  "id": "4080",
+  "title": "Design Bus Seat Booking System",
+  "url": "https://leetcode.com/problems/design-bus-seat-booking-system/",
+  "difficulty": "Medium",
+  "tags": [],
+  "firstSolvedAt": "2026-10-11T03:52:39.000Z",
+  "lastSolvedAt": "2026-10-11T03:52:39.000Z",
+  "attempts": [
+    {
+      "sid": "2168868349",
+      "lang": "Python3",
+      "ts": 1791690759000,
+      "file": "solution_20261011_2168868349.py",
+      "runtimeMs": 254,
+      "memoryKb": 67566
+    }
+  ]
+}

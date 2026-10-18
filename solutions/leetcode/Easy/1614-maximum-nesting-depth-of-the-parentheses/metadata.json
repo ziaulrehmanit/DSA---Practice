@@ -10,7 +10,7 @@
     "Bracket Sequences"
   ],
   "firstSolvedAt": "2026-08-17T07:11:01.000Z",
-  "lastSolvedAt": "2026-08-17T07:11:01.000Z",
+  "lastSolvedAt": "2026-09-28T14:17:56.000Z",
   "attempts": [
     {
       "sid": "2109823952",
@@ -19,6 +19,14 @@
       "file": "solution_20260817_2109823952.py",
       "runtimeMs": 0,
       "memoryKb": 18734
+    },
+    {
+      "sid": "2156055873",
+      "lang": "Python3",
+      "ts": 1790605076000,
+      "file": "solution_20260928_2156055873.py",
+      "runtimeMs": 0,
+      "memoryKb": 18699
     }
   ]
 }

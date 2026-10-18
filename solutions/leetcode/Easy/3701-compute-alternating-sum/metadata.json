@@ -1,0 +1,23 @@
+{
+  "platform": "leetcode",
+  "id": "3701",
+  "title": "Compute Alternating Sum",
+  "url": "https://leetcode.com/problems/compute-alternating-sum/",
+  "difficulty": "Easy",
+  "tags": [
+    "Array",
+    "Simulation"
+  ],
+  "firstSolvedAt": "2026-10-02T16:01:57.000Z",
+  "lastSolvedAt": "2026-10-02T16:01:57.000Z",
+  "attempts": [
+    {
+      "sid": "2160313211",
+      "lang": "Python3",
+      "ts": 1790956917000,
+      "file": "solution_20261002_2160313211.py",
+      "runtimeMs": 0,
+      "memoryKb": 18859
+    }
+  ]
+}

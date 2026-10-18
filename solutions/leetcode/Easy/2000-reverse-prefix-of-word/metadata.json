@@ -1,0 +1,24 @@
+{
+  "platform": "leetcode",
+  "id": "2000",
+  "title": "Reverse Prefix of Word",
+  "url": "https://leetcode.com/problems/reverse-prefix-of-word/",
+  "difficulty": "Easy",
+  "tags": [
+    "Two Pointers",
+    "String",
+    "Stack"
+  ],
+  "firstSolvedAt": "2026-09-26T12:23:35.000Z",
+  "lastSolvedAt": "2026-09-26T12:23:35.000Z",
+  "attempts": [
+    {
+      "sid": "2153847663",
+      "lang": "Python3",
+      "ts": 1790425415000,
+      "file": "solution_20260926_2153847663.py",
+      "runtimeMs": 0,
+      "memoryKb": 18926
+    }
+  ]
+}

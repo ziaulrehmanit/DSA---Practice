@@ -1,0 +1,31 @@
+{
+  "platform": "leetcode",
+  "id": "2778",
+  "title": "Sum of Squares of Special Elements ",
+  "url": "https://leetcode.com/problems/sum-of-squares-of-special-elements/",
+  "difficulty": "Easy",
+  "tags": [
+    "Array",
+    "Enumeration"
+  ],
+  "firstSolvedAt": "2026-10-11T05:26:57.000Z",
+  "lastSolvedAt": "2026-10-11T05:28:30.000Z",
+  "attempts": [
+    {
+      "sid": "2168939178",
+      "lang": "Python3",
+      "ts": 1791696417000,
+      "file": "solution_20261011_2168939178.py",
+      "runtimeMs": 0,
+      "memoryKb": 18859
+    },
+    {
+      "sid": "2168940343",
+      "lang": "Python3",
+      "ts": 1791696510000,
+      "file": "solution_20261011_2168940343.py",
+      "runtimeMs": 0,
+      "memoryKb": 18789
+    }
+  ]
+}

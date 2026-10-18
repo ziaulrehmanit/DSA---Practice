@@ -1,0 +1,20 @@
+{
+  "platform": "leetcode",
+  "id": "4078",
+  "title": "Three Fibonacci Sum",
+  "url": "https://leetcode.com/problems/three-fibonacci-sum/",
+  "difficulty": "Easy",
+  "tags": [],
+  "firstSolvedAt": "2026-10-11T02:38:39.000Z",
+  "lastSolvedAt": "2026-10-11T02:38:39.000Z",
+  "attempts": [
+    {
+      "sid": "2168746280",
+      "lang": "Python3",
+      "ts": 1791686319000,
+      "file": "solution_20261011_2168746280.py",
+      "runtimeMs": 1,
+      "memoryKb": 18719
+    }
+  ]
+}

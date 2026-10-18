@@ -1,0 +1,24 @@
+{
+  "platform": "leetcode",
+  "id": "20",
+  "title": "Valid Parentheses",
+  "url": "https://leetcode.com/problems/valid-parentheses/",
+  "difficulty": "Easy",
+  "tags": [
+    "String",
+    "Stack",
+    "Bracket Sequences"
+  ],
+  "firstSolvedAt": "2026-10-01T15:38:41.000Z",
+  "lastSolvedAt": "2026-10-01T15:38:41.000Z",
+  "attempts": [
+    {
+      "sid": "2159345132",
+      "lang": "Python3",
+      "ts": 1790869121000,
+      "file": "solution_20261001_2159345132.py",
+      "runtimeMs": 0,
+      "memoryKb": 18898
+    }
+  ]
+}

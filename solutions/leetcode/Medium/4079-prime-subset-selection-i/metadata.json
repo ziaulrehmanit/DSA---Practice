@@ -1,0 +1,20 @@
+{
+  "platform": "leetcode",
+  "id": "4079",
+  "title": "Prime Subset Selection I",
+  "url": "https://leetcode.com/problems/prime-subset-selection-i/",
+  "difficulty": "Medium",
+  "tags": [],
+  "firstSolvedAt": "2026-10-11T02:56:04.000Z",
+  "lastSolvedAt": "2026-10-11T02:56:04.000Z",
+  "attempts": [
+    {
+      "sid": "2168777838",
+      "lang": "Python3",
+      "ts": 1791687364000,
+      "file": "solution_20261011_2168777838.py",
+      "runtimeMs": 2784,
+      "memoryKb": 32504
+    }
+  ]
+}

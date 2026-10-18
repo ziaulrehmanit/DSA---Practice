@@ -1,0 +1,33 @@
+{
+  "platform": "leetcode",
+  "id": "2824",
+  "title": "Count Pairs Whose Sum is Less than Target",
+  "url": "https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target/",
+  "difficulty": "Easy",
+  "tags": [
+    "Array",
+    "Two Pointers",
+    "Binary Search",
+    "Sorting"
+  ],
+  "firstSolvedAt": "2026-10-07T12:24:41.000Z",
+  "lastSolvedAt": "2026-10-07T12:28:17.000Z",
+  "attempts": [
+    {
+      "sid": "2165263347",
+      "lang": "Python3",
+      "ts": 1791375881000,
+      "file": "solution_20261007_2165263347.py",
+      "runtimeMs": 0,
+      "memoryKb": 18742
+    },
+    {
+      "sid": "2165266023",
+      "lang": "Python3",
+      "ts": 1791376097000,
+      "file": "solution_20261007_2165266023.py",
+      "runtimeMs": 0,
+      "memoryKb": 18828
+    }
+  ]
+}

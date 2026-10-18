@@ -1,0 +1,28 @@
+{
+  "platform": "leetcode",
+  "id": "204",
+  "title": "Count Primes",
+  "url": "https://leetcode.com/problems/count-primes/",
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "Math",
+    "Enumeration",
+    "Number Theory",
+    "Primality Test",
+    "Sieve Theory",
+    "Prime Number Sieve"
+  ],
+  "firstSolvedAt": "2026-09-21T15:41:42.000Z",
+  "lastSolvedAt": "2026-09-21T15:41:42.000Z",
+  "attempts": [
+    {
+      "sid": "2148803699",
+      "lang": "Python3",
+      "ts": 1790005302000,
+      "file": "solution_20260921_2148803699.py",
+      "runtimeMs": 9504,
+      "memoryKb": 84090
+    }
+  ]
+}

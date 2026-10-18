@@ -1,0 +1,24 @@
+{
+  "platform": "leetcode",
+  "id": "3194",
+  "title": "Minimum Average of Smallest and Largest Elements",
+  "url": "https://leetcode.com/problems/minimum-average-of-smallest-and-largest-elements/",
+  "difficulty": "Easy",
+  "tags": [
+    "Array",
+    "Two Pointers",
+    "Sorting"
+  ],
+  "firstSolvedAt": "2026-10-09T15:47:42.000Z",
+  "lastSolvedAt": "2026-10-09T15:47:42.000Z",
+  "attempts": [
+    {
+      "sid": "2167429631",
+      "lang": "Python3",
+      "ts": 1791560862000,
+      "file": "solution_20261009_2167429631.py",
+      "runtimeMs": 0,
+      "memoryKb": 19121
+    }
+  ]
+}

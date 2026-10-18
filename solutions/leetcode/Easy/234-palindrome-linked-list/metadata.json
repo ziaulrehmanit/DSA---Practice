@@ -1,0 +1,33 @@
+{
+  "platform": "leetcode",
+  "id": "234",
+  "title": "Palindrome Linked List",
+  "url": "https://leetcode.com/problems/palindrome-linked-list/",
+  "difficulty": "Easy",
+  "tags": [
+    "Linked List",
+    "Two Pointers",
+    "Stack",
+    "Recursion"
+  ],
+  "firstSolvedAt": "2026-10-10T11:29:04.000Z",
+  "lastSolvedAt": "2026-10-10T11:31:29.000Z",
+  "attempts": [
+    {
+      "sid": "2168095644",
+      "lang": "Python3",
+      "ts": 1791631744000,
+      "file": "solution_20261010_2168095644.py",
+      "runtimeMs": 0,
+      "memoryKb": 52445
+    },
+    {
+      "sid": "2168097113",
+      "lang": "Python3",
+      "ts": 1791631889000,
+      "file": "solution_20261010_2168097113.py",
+      "runtimeMs": 0,
+      "memoryKb": 41234
+    }
+  ]
+}
