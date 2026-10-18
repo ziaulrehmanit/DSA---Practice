@@ -1,0 +1,22 @@
+{
+  "platform": "leetcode",
+  "id": "7",
+  "title": "Reverse Integer",
+  "url": "https://leetcode.com/problems/reverse-integer/",
+  "difficulty": "Medium",
+  "tags": [
+    "Math"
+  ],
+  "firstSolvedAt": "2026-02-06T17:09:45.000Z",
+  "lastSolvedAt": "2026-02-06T17:09:45.000Z",
+  "attempts": [
+    {
+      "sid": "1910504106",
+      "lang": "Python3",
+      "ts": 1770397785000,
+      "file": "solution_20260206_1910504106.py",
+      "runtimeMs": 54,
+      "memoryKb": 18801
+    }
+  ]
+}

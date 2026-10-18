@@ -1,0 +1,27 @@
+{
+  "platform": "leetcode",
+  "id": "169",
+  "title": "Majority Element",
+  "url": "https://leetcode.com/problems/majority-element/",
+  "difficulty": "Easy",
+  "tags": [
+    "Array",
+    "Hash Table",
+    "Divide and Conquer",
+    "Sorting",
+    "Counting",
+    "Boyer–Moore Majority Vote Algorithm"
+  ],
+  "firstSolvedAt": "2026-02-16T18:52:16.000Z",
+  "lastSolvedAt": "2026-02-16T18:52:16.000Z",
+  "attempts": [
+    {
+      "sid": "1921419099",
+      "lang": "C++",
+      "ts": 1771267936000,
+      "file": "solution_20260216_1921419099.cpp",
+      "runtimeMs": 0,
+      "memoryKb": 27348
+    }
+  ]
+}

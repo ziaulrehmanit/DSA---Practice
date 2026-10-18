@@ -1,0 +1,25 @@
+{
+  "platform": "leetcode",
+  "id": "509",
+  "title": "Fibonacci Number",
+  "url": "https://leetcode.com/problems/fibonacci-number/",
+  "difficulty": "Easy",
+  "tags": [
+    "Math",
+    "Dynamic Programming",
+    "Recursion",
+    "Memoization"
+  ],
+  "firstSolvedAt": "2026-02-11T11:56:08.000Z",
+  "lastSolvedAt": "2026-02-11T11:56:08.000Z",
+  "attempts": [
+    {
+      "sid": "1915750946",
+      "lang": "Python3",
+      "ts": 1770810968000,
+      "file": "solution_20260211_1915750946.py",
+      "runtimeMs": 38,
+      "memoryKb": 18973
+    }
+  ]
+}

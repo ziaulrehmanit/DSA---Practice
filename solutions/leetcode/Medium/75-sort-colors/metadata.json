@@ -1,0 +1,26 @@
+{
+  "platform": "leetcode",
+  "id": "75",
+  "title": "Sort Colors",
+  "url": "https://leetcode.com/problems/sort-colors/",
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "Two Pointers",
+    "Sorting",
+    "Quicksort",
+    "Bubble Sort"
+  ],
+  "firstSolvedAt": "2026-02-13T16:16:45.000Z",
+  "lastSolvedAt": "2026-02-13T16:16:45.000Z",
+  "attempts": [
+    {
+      "sid": "1918169313",
+      "lang": "Python3",
+      "ts": 1770999405000,
+      "file": "solution_20260213_1918169313.py",
+      "runtimeMs": 0,
+      "memoryKb": 18781
+    }
+  ]
+}

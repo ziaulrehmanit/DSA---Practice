@@ -1,0 +1,23 @@
+{
+  "platform": "leetcode",
+  "id": "27",
+  "title": "Remove Element",
+  "url": "https://leetcode.com/problems/remove-element/",
+  "difficulty": "Easy",
+  "tags": [
+    "Array",
+    "Two Pointers"
+  ],
+  "firstSolvedAt": "2026-02-01T18:28:26.000Z",
+  "lastSolvedAt": "2026-02-01T18:28:26.000Z",
+  "attempts": [
+    {
+      "sid": "1904697891",
+      "lang": "C++",
+      "ts": 1769970506000,
+      "file": "solution_20260201_1904697891.cpp",
+      "runtimeMs": 0,
+      "memoryKb": 11566
+    }
+  ]
+}

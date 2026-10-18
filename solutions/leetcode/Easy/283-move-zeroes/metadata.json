@@ -1,0 +1,23 @@
+{
+  "platform": "leetcode",
+  "id": "283",
+  "title": "Move Zeroes",
+  "url": "https://leetcode.com/problems/move-zeroes/",
+  "difficulty": "Easy",
+  "tags": [
+    "Array",
+    "Two Pointers"
+  ],
+  "firstSolvedAt": "2026-01-29T20:34:20.000Z",
+  "lastSolvedAt": "2026-01-29T20:34:20.000Z",
+  "attempts": [
+    {
+      "sid": "1901376492",
+      "lang": "C++",
+      "ts": 1769718860000,
+      "file": "solution_20260129_1901376492.cpp",
+      "runtimeMs": 0,
+      "memoryKb": 23281
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "platform": "leetcode",
+  "id": "485",
+  "title": "Max Consecutive Ones",
+  "url": "https://leetcode.com/problems/max-consecutive-ones/",
+  "difficulty": "Easy",
+  "tags": [
+    "Array"
+  ],
+  "firstSolvedAt": "2026-02-20T16:33:48.000Z",
+  "lastSolvedAt": "2026-02-20T16:33:48.000Z",
+  "attempts": [
+    {
+      "sid": "1925552888",
+      "lang": "Python3",
+      "ts": 1771605228000,
+      "file": "solution_20260220_1925552888.py",
+      "runtimeMs": 9,
+      "memoryKb": 21488
+    }
+  ]
+}
