@@ -1,0 +1,24 @@
+{
+  "platform": "leetcode",
+  "id": "4030",
+  "title": "Check ASCII Palindromic",
+  "url": "https://leetcode.com/problems/check-ascii-palindromic/",
+  "difficulty": "Easy",
+  "tags": [
+    "Two Pointers",
+    "String",
+    "Bit Manipulation"
+  ],
+  "firstSolvedAt": "2026-08-23T03:01:46.000Z",
+  "lastSolvedAt": "2026-08-23T03:01:46.000Z",
+  "attempts": [
+    {
+      "sid": "2116781075",
+      "lang": "Python3",
+      "ts": 1787454106000,
+      "file": "solution_20260823_2116781075.py",
+      "runtimeMs": 5,
+      "memoryKb": 18836
+    }
+  ]
+}

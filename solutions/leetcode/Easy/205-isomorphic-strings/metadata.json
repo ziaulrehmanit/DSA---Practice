@@ -1,0 +1,23 @@
+{
+  "platform": "leetcode",
+  "id": "205",
+  "title": "Isomorphic Strings",
+  "url": "https://leetcode.com/problems/isomorphic-strings/",
+  "difficulty": "Easy",
+  "tags": [
+    "Hash Table",
+    "String"
+  ],
+  "firstSolvedAt": "2026-08-11T12:03:16.000Z",
+  "lastSolvedAt": "2026-08-11T12:03:16.000Z",
+  "attempts": [
+    {
+      "sid": "2102783486",
+      "lang": "Python3",
+      "ts": 1786449796000,
+      "file": "solution_20260811_2102783486.py",
+      "runtimeMs": 7,
+      "memoryKb": 18727
+    }
+  ]
+}

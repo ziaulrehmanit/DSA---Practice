@@ -1,0 +1,24 @@
+{
+  "platform": "leetcode",
+  "id": "4026",
+  "title": "Maximum Gap Between Stations",
+  "url": "https://leetcode.com/problems/maximum-gap-between-stations/",
+  "difficulty": "Medium",
+  "tags": [
+    "Two Pointers",
+    "String",
+    "Greedy"
+  ],
+  "firstSolvedAt": "2026-08-16T03:21:13.000Z",
+  "lastSolvedAt": "2026-08-16T03:21:13.000Z",
+  "attempts": [
+    {
+      "sid": "2108445564",
+      "lang": "Python3",
+      "ts": 1786850473000,
+      "file": "solution_20260816_2108445564.py",
+      "runtimeMs": 547,
+      "memoryKb": 26895
+    }
+  ]
+}

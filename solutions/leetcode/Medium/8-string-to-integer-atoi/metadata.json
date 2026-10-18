@@ -1,0 +1,22 @@
+{
+  "platform": "leetcode",
+  "id": "8",
+  "title": "String to Integer (atoi)",
+  "url": "https://leetcode.com/problems/string-to-integer-atoi/",
+  "difficulty": "Medium",
+  "tags": [
+    "String"
+  ],
+  "firstSolvedAt": "2026-08-22T12:23:44.000Z",
+  "lastSolvedAt": "2026-08-22T12:23:44.000Z",
+  "attempts": [
+    {
+      "sid": "2116115175",
+      "lang": "Python3",
+      "ts": 1787401424000,
+      "file": "solution_20260822_2116115175.py",
+      "runtimeMs": 3,
+      "memoryKb": 18703
+    }
+  ]
+}

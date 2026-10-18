@@ -1,0 +1,24 @@
+{
+  "platform": "leetcode",
+  "id": "3467",
+  "title": "Transform Array by Parity",
+  "url": "https://leetcode.com/problems/transform-array-by-parity/",
+  "difficulty": "Easy",
+  "tags": [
+    "Array",
+    "Sorting",
+    "Counting"
+  ],
+  "firstSolvedAt": "2026-08-13T14:29:54.000Z",
+  "lastSolvedAt": "2026-08-13T14:29:54.000Z",
+  "attempts": [
+    {
+      "sid": "2105535504",
+      "lang": "Python3",
+      "ts": 1786631394000,
+      "file": "solution_20260813_2105535504.py",
+      "runtimeMs": 0,
+      "memoryKb": 18852
+    }
+  ]
+}

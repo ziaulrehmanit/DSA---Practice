@@ -1,0 +1,33 @@
+{
+  "platform": "leetcode",
+  "id": "240",
+  "title": "Search a 2D Matrix II",
+  "url": "https://leetcode.com/problems/search-a-2d-matrix-ii/",
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "Binary Search",
+    "Divide and Conquer",
+    "Matrix"
+  ],
+  "firstSolvedAt": "2026-08-03T16:26:51.000Z",
+  "lastSolvedAt": "2026-08-04T07:31:39.000Z",
+  "attempts": [
+    {
+      "sid": "2092900149",
+      "lang": "Python3",
+      "ts": 1785774411000,
+      "file": "solution_20260803_2092900149.py",
+      "runtimeMs": 157,
+      "memoryKb": 25223
+    },
+    {
+      "sid": "2093639304",
+      "lang": "Python3",
+      "ts": 1785828699000,
+      "file": "solution_20260804_2093639304.py",
+      "runtimeMs": 152,
+      "memoryKb": 24992
+    }
+  ]
+}

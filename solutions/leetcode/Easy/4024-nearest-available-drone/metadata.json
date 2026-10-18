@@ -1,0 +1,23 @@
+{
+  "platform": "leetcode",
+  "id": "4024",
+  "title": "Nearest Available Drone",
+  "url": "https://leetcode.com/problems/nearest-available-drone/",
+  "difficulty": "Easy",
+  "tags": [
+    "Array",
+    "Enumeration"
+  ],
+  "firstSolvedAt": "2026-08-16T02:39:47.000Z",
+  "lastSolvedAt": "2026-08-16T02:39:47.000Z",
+  "attempts": [
+    {
+      "sid": "2108365483",
+      "lang": "Python3",
+      "ts": 1786847987000,
+      "file": "solution_20260816_2108365483.py",
+      "runtimeMs": 7,
+      "memoryKb": 19070
+    }
+  ]
+}

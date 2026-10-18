@@ -1,0 +1,24 @@
+{
+  "platform": "leetcode",
+  "id": "2958",
+  "title": "Length of Longest Subarray With at Most K Frequency",
+  "url": "https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency/",
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "Hash Table",
+    "Sliding Window"
+  ],
+  "firstSolvedAt": "2026-08-12T05:35:26.000Z",
+  "lastSolvedAt": "2026-08-12T05:35:26.000Z",
+  "attempts": [
+    {
+      "sid": "2103725143",
+      "lang": "Python3",
+      "ts": 1786512926000,
+      "file": "solution_20260812_2103725143.py",
+      "runtimeMs": 247,
+      "memoryKb": 34469
+    }
+  ]
+}

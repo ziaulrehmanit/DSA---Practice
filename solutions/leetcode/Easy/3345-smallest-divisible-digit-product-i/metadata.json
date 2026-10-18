@@ -1,0 +1,23 @@
+{
+  "platform": "leetcode",
+  "id": "3345",
+  "title": "Smallest Divisible Digit Product I",
+  "url": "https://leetcode.com/problems/smallest-divisible-digit-product-i/",
+  "difficulty": "Easy",
+  "tags": [
+    "Math",
+    "Enumeration"
+  ],
+  "firstSolvedAt": "2026-08-06T14:55:58.000Z",
+  "lastSolvedAt": "2026-08-06T14:55:58.000Z",
+  "attempts": [
+    {
+      "sid": "2096835517",
+      "lang": "Python3",
+      "ts": 1786028158000,
+      "file": "solution_20260806_2096835517.py",
+      "runtimeMs": 0,
+      "memoryKb": 18922
+    }
+  ]
+}

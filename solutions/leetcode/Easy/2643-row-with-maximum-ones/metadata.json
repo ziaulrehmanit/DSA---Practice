@@ -1,0 +1,31 @@
+{
+  "platform": "leetcode",
+  "id": "2643",
+  "title": "Row With Maximum Ones",
+  "url": "https://leetcode.com/problems/row-with-maximum-ones/",
+  "difficulty": "Easy",
+  "tags": [
+    "Array",
+    "Matrix"
+  ],
+  "firstSolvedAt": "2026-08-03T14:59:30.000Z",
+  "lastSolvedAt": "2026-08-03T15:01:32.000Z",
+  "attempts": [
+    {
+      "sid": "2092777863",
+      "lang": "Python3",
+      "ts": 1785769170000,
+      "file": "solution_20260803_2092777863.py",
+      "runtimeMs": 31,
+      "memoryKb": 19559
+    },
+    {
+      "sid": "2092780424",
+      "lang": "Python3",
+      "ts": 1785769292000,
+      "file": "solution_20260803_2092780424.py",
+      "runtimeMs": 8,
+      "memoryKb": 19520
+    }
+  ]
+}

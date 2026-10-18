@@ -1,0 +1,27 @@
+{
+  "platform": "leetcode",
+  "id": "877",
+  "title": "Stone Game",
+  "url": "https://leetcode.com/problems/stone-game/",
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "Math",
+    "Dynamic Programming",
+    "Minimax",
+    "Game Theory",
+    "Zero-Sum Game"
+  ],
+  "firstSolvedAt": "2026-08-02T18:10:55.000Z",
+  "lastSolvedAt": "2026-08-02T18:10:55.000Z",
+  "attempts": [
+    {
+      "sid": "2091751743",
+      "lang": "Python3",
+      "ts": 1785694255000,
+      "file": "solution_20260802_2091751743.py",
+      "runtimeMs": 0,
+      "memoryKb": 18895
+    }
+  ]
+}

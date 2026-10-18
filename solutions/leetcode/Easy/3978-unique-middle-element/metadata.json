@@ -1,0 +1,23 @@
+{
+  "platform": "leetcode",
+  "id": "3978",
+  "title": "Unique Middle Element",
+  "url": "https://leetcode.com/problems/unique-middle-element/",
+  "difficulty": "Easy",
+  "tags": [
+    "Array",
+    "Counting"
+  ],
+  "firstSolvedAt": "2026-08-24T16:44:33.000Z",
+  "lastSolvedAt": "2026-08-24T16:44:33.000Z",
+  "attempts": [
+    {
+      "sid": "2118702717",
+      "lang": "Python3",
+      "ts": 1787589873000,
+      "file": "solution_20260824_2118702717.py",
+      "runtimeMs": 0,
+      "memoryKb": 18844
+    }
+  ]
+}

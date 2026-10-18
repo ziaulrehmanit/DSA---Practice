@@ -10,7 +10,7 @@
     "Divide and Conquer"
   ],
   "firstSolvedAt": "2026-07-23T18:28:16.000Z",
-  "lastSolvedAt": "2026-07-23T18:28:16.000Z",
+  "lastSolvedAt": "2026-08-03T09:07:59.000Z",
   "attempts": [
     {
       "sid": "2078770013",
@@ -19,6 +19,14 @@
       "file": "solution_20260723_2078770013.py",
       "runtimeMs": 9,
       "memoryKb": 19223
+    },
+    {
+      "sid": "2092379316",
+      "lang": "Python3",
+      "ts": 1785748079000,
+      "file": "solution_20260803_2092379316.py",
+      "runtimeMs": 1,
+      "memoryKb": 19160
     }
   ]
 }
