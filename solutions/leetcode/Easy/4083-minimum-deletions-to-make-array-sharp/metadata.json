@@ -1,0 +1,20 @@
+{
+  "platform": "leetcode",
+  "id": "4083",
+  "title": "Minimum Deletions to Make Array Sharp",
+  "url": "https://leetcode.com/problems/minimum-deletions-to-make-array-sharp/",
+  "difficulty": "Easy",
+  "tags": [],
+  "firstSolvedAt": "2026-10-18T02:46:03.000Z",
+  "lastSolvedAt": "2026-10-18T02:46:03.000Z",
+  "attempts": [
+    {
+      "sid": "2174998228",
+      "lang": "Python3",
+      "ts": 1792291563000,
+      "file": "solution_20261018_2174998228.py",
+      "runtimeMs": 0,
+      "memoryKb": 18512
+    }
+  ]
+}

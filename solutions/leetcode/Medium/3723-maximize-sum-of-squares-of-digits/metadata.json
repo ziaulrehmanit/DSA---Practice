@@ -1,0 +1,31 @@
+{
+  "platform": "leetcode",
+  "id": "3723",
+  "title": "Maximize Sum of Squares of Digits",
+  "url": "https://leetcode.com/problems/maximize-sum-of-squares-of-digits/",
+  "difficulty": "Medium",
+  "tags": [
+    "Math",
+    "Greedy"
+  ],
+  "firstSolvedAt": "2026-10-14T19:41:49.000Z",
+  "lastSolvedAt": "2026-10-14T19:42:09.000Z",
+  "attempts": [
+    {
+      "sid": "2172485732",
+      "lang": "Python3",
+      "ts": 1792006909000,
+      "file": "solution_20261014_2172485732.py",
+      "runtimeMs": 3,
+      "memoryKb": 20355
+    },
+    {
+      "sid": "2172485921",
+      "lang": "Python3",
+      "ts": 1792006929000,
+      "file": "solution_20261014_2172485921.py",
+      "runtimeMs": 0,
+      "memoryKb": 20457
+    }
+  ]
+}

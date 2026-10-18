@@ -1,0 +1,24 @@
+{
+  "platform": "leetcode",
+  "id": "3727",
+  "title": "Maximum Alternating Sum of Squares",
+  "url": "https://leetcode.com/problems/maximum-alternating-sum-of-squares/",
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "Greedy",
+    "Sorting"
+  ],
+  "firstSolvedAt": "2026-10-13T10:30:14.000Z",
+  "lastSolvedAt": "2026-10-13T10:30:14.000Z",
+  "attempts": [
+    {
+      "sid": "2171078476",
+      "lang": "Python3",
+      "ts": 1791887414000,
+      "file": "solution_20261013_2171078476.py",
+      "runtimeMs": 0,
+      "memoryKb": 32078
+    }
+  ]
+}

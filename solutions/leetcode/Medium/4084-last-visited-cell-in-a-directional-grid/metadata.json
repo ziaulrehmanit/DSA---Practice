@@ -1,0 +1,20 @@
+{
+  "platform": "leetcode",
+  "id": "4084",
+  "title": "Last Visited Cell in a Directional Grid",
+  "url": "https://leetcode.com/problems/last-visited-cell-in-a-directional-grid/",
+  "difficulty": "Medium",
+  "tags": [],
+  "firstSolvedAt": "2026-10-18T03:13:06.000Z",
+  "lastSolvedAt": "2026-10-18T03:13:06.000Z",
+  "attempts": [
+    {
+      "sid": "2175032391",
+      "lang": "Python3",
+      "ts": 1792293186000,
+      "file": "solution_20261018_2175032391.py",
+      "runtimeMs": 451,
+      "memoryKb": 49578
+    }
+  ]
+}
