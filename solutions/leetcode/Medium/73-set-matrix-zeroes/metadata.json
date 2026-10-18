@@ -1,0 +1,24 @@
+{
+  "platform": "leetcode",
+  "id": "73",
+  "title": "Set Matrix Zeroes",
+  "url": "https://leetcode.com/problems/set-matrix-zeroes/",
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "Hash Table",
+    "Matrix"
+  ],
+  "firstSolvedAt": "2026-04-20T18:36:16.000Z",
+  "lastSolvedAt": "2026-04-20T18:36:16.000Z",
+  "attempts": [
+    {
+      "sid": "1983875075",
+      "lang": "Python3",
+      "ts": 1776710176000,
+      "file": "solution_20260420_1983875075.py",
+      "runtimeMs": 3,
+      "memoryKb": 19836
+    }
+  ]
+}

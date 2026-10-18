@@ -1,0 +1,24 @@
+{
+  "platform": "leetcode",
+  "id": "412",
+  "title": "Fizz Buzz",
+  "url": "https://leetcode.com/problems/fizz-buzz/",
+  "difficulty": "Easy",
+  "tags": [
+    "Math",
+    "String",
+    "Simulation"
+  ],
+  "firstSolvedAt": "2026-04-16T16:27:40.000Z",
+  "lastSolvedAt": "2026-04-16T16:27:40.000Z",
+  "attempts": [
+    {
+      "sid": "1980227755",
+      "lang": "Python3",
+      "ts": 1776356860000,
+      "file": "solution_20260416_1980227755.py",
+      "runtimeMs": 0,
+      "memoryKb": 19227
+    }
+  ]
+}

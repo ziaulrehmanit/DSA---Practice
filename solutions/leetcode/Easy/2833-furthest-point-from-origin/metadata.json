@@ -1,0 +1,23 @@
+{
+  "platform": "leetcode",
+  "id": "2833",
+  "title": "Furthest Point From Origin",
+  "url": "https://leetcode.com/problems/furthest-point-from-origin/",
+  "difficulty": "Easy",
+  "tags": [
+    "String",
+    "Counting"
+  ],
+  "firstSolvedAt": "2026-04-24T18:45:52.000Z",
+  "lastSolvedAt": "2026-04-24T18:45:52.000Z",
+  "attempts": [
+    {
+      "sid": "1987244932",
+      "lang": "Python3",
+      "ts": 1777056352000,
+      "file": "solution_20260424_1987244932.py",
+      "runtimeMs": 0,
+      "memoryKb": 18758
+    }
+  ]
+}

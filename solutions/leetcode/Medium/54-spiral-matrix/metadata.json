@@ -1,0 +1,24 @@
+{
+  "platform": "leetcode",
+  "id": "54",
+  "title": "Spiral Matrix",
+  "url": "https://leetcode.com/problems/spiral-matrix/",
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "Matrix",
+    "Simulation"
+  ],
+  "firstSolvedAt": "2026-04-27T18:54:19.000Z",
+  "lastSolvedAt": "2026-04-27T18:54:19.000Z",
+  "attempts": [
+    {
+      "sid": "1989681829",
+      "lang": "Python3",
+      "ts": 1777316059000,
+      "file": "solution_20260427_1989681829.py",
+      "runtimeMs": 0,
+      "memoryKb": 18879
+    }
+  ]
+}

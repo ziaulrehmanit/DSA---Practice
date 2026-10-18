@@ -1,0 +1,39 @@
+{
+  "platform": "leetcode",
+  "id": "541",
+  "title": "Reverse String II",
+  "url": "https://leetcode.com/problems/reverse-string-ii/",
+  "difficulty": "Easy",
+  "tags": [
+    "Two Pointers",
+    "String"
+  ],
+  "firstSolvedAt": "2026-04-17T17:52:18.000Z",
+  "lastSolvedAt": "2026-04-30T19:48:15.000Z",
+  "attempts": [
+    {
+      "sid": "1981167290",
+      "lang": "C++",
+      "ts": 1776448338000,
+      "file": "solution_20260417_1981167290.cpp",
+      "runtimeMs": 0,
+      "memoryKb": 9344
+    },
+    {
+      "sid": "1988041553",
+      "lang": "C++",
+      "ts": 1777142715000,
+      "file": "solution_20260425_1988041553.cpp",
+      "runtimeMs": 0,
+      "memoryKb": 9266
+    },
+    {
+      "sid": "1992092851",
+      "lang": "C++",
+      "ts": 1777578495000,
+      "file": "solution_20260430_1992092851.cpp",
+      "runtimeMs": 0,
+      "memoryKb": 9367
+    }
+  ]
+}

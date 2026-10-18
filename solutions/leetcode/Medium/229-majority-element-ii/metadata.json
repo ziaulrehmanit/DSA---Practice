@@ -1,0 +1,26 @@
+{
+  "platform": "leetcode",
+  "id": "229",
+  "title": "Majority Element II",
+  "url": "https://leetcode.com/problems/majority-element-ii/",
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "Hash Table",
+    "Sorting",
+    "Counting",
+    "Boyer–Moore Majority Vote Algorithm"
+  ],
+  "firstSolvedAt": "2026-05-01T17:23:48.000Z",
+  "lastSolvedAt": "2026-05-01T17:23:48.000Z",
+  "attempts": [
+    {
+      "sid": "1992758372",
+      "lang": "Python3",
+      "ts": 1777656228000,
+      "file": "solution_20260501_1992758372.py",
+      "runtimeMs": 11,
+      "memoryKb": 22828
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "platform": "leetcode",
+  "id": "48",
+  "title": "Rotate Image",
+  "url": "https://leetcode.com/problems/rotate-image/",
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "Math",
+    "Matrix"
+  ],
+  "firstSolvedAt": "2026-04-22T14:57:12.000Z",
+  "lastSolvedAt": "2026-04-23T17:03:33.000Z",
+  "attempts": [
+    {
+      "sid": "1985412261",
+      "lang": "Python3",
+      "ts": 1776869832000,
+      "file": "solution_20260422_1985412261.py",
+      "runtimeMs": 0,
+      "memoryKb": 18859
+    },
+    {
+      "sid": "1986348868",
+      "lang": "Python3",
+      "ts": 1776963813000,
+      "file": "solution_20260423_1986348868.py",
+      "runtimeMs": 0,
+      "memoryKb": 18914
+    }
+  ]
+}

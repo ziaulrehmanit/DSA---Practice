@@ -1,0 +1,23 @@
+{
+  "platform": "leetcode",
+  "id": "118",
+  "title": "Pascal's Triangle",
+  "url": "https://leetcode.com/problems/pascals-triangle/",
+  "difficulty": "Easy",
+  "tags": [
+    "Array",
+    "Dynamic Programming"
+  ],
+  "firstSolvedAt": "2026-04-29T17:10:36.000Z",
+  "lastSolvedAt": "2026-04-29T17:10:36.000Z",
+  "attempts": [
+    {
+      "sid": "1991200903",
+      "lang": "Python3",
+      "ts": 1777482636000,
+      "file": "solution_20260429_1991200903.py",
+      "runtimeMs": 0,
+      "memoryKb": 18754
+    }
+  ]
+}
