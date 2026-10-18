@@ -1,0 +1,23 @@
+{
+  "platform": "leetcode",
+  "id": "1342",
+  "title": "Number of Steps to Reduce a Number to Zero",
+  "url": "https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/",
+  "difficulty": "Easy",
+  "tags": [
+    "Math",
+    "Bit Manipulation"
+  ],
+  "firstSolvedAt": "2026-09-18T14:02:28.000Z",
+  "lastSolvedAt": "2026-09-18T14:02:28.000Z",
+  "attempts": [
+    {
+      "sid": "2145797563",
+      "lang": "Python3",
+      "ts": 1789740148000,
+      "file": "solution_20260918_2145797563.py",
+      "runtimeMs": 0,
+      "memoryKb": 18602
+    }
+  ]
+}

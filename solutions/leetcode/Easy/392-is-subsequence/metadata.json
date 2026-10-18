@@ -1,0 +1,24 @@
+{
+  "platform": "leetcode",
+  "id": "392",
+  "title": "Is Subsequence",
+  "url": "https://leetcode.com/problems/is-subsequence/",
+  "difficulty": "Easy",
+  "tags": [
+    "Two Pointers",
+    "String",
+    "Dynamic Programming"
+  ],
+  "firstSolvedAt": "2026-09-17T17:37:40.000Z",
+  "lastSolvedAt": "2026-09-17T17:37:40.000Z",
+  "attempts": [
+    {
+      "sid": "2145009819",
+      "lang": "Python3",
+      "ts": 1789666660000,
+      "file": "solution_20260917_2145009819.py",
+      "runtimeMs": 0,
+      "memoryKb": 18648
+    }
+  ]
+}

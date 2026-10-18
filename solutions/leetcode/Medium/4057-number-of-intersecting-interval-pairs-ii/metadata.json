@@ -1,0 +1,24 @@
+{
+  "platform": "leetcode",
+  "id": "4057",
+  "title": "Number of Intersecting Interval Pairs II",
+  "url": "https://leetcode.com/problems/number-of-intersecting-interval-pairs-ii/",
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "Binary Search",
+    "Sorting"
+  ],
+  "firstSolvedAt": "2026-09-20T02:58:53.000Z",
+  "lastSolvedAt": "2026-09-20T02:58:53.000Z",
+  "attempts": [
+    {
+      "sid": "2147185707",
+      "lang": "Python3",
+      "ts": 1789873133000,
+      "file": "solution_20260920_2147185707.py",
+      "runtimeMs": 156,
+      "memoryKb": 57516
+    }
+  ]
+}

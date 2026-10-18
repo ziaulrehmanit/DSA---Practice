@@ -9,7 +9,7 @@
     "Math"
   ],
   "firstSolvedAt": "2026-03-23T12:48:39.000Z",
-  "lastSolvedAt": "2026-03-28T21:26:28.000Z",
+  "lastSolvedAt": "2026-09-02T16:56:24.000Z",
   "attempts": [
     {
       "sid": "1956691015",
@@ -34,6 +34,14 @@
       "file": "solution_20260328_1962226601.py",
       "runtimeMs": 0,
       "memoryKb": 18676
+    },
+    {
+      "sid": "2128719786",
+      "lang": "Python3",
+      "ts": 1788368184000,
+      "file": "solution_20260902_2128719786.py",
+      "runtimeMs": 0,
+      "memoryKb": 18715
     }
   ]
 }

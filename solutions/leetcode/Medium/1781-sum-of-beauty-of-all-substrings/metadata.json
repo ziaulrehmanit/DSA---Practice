@@ -1,0 +1,24 @@
+{
+  "platform": "leetcode",
+  "id": "1781",
+  "title": "Sum of Beauty of All Substrings",
+  "url": "https://leetcode.com/problems/sum-of-beauty-of-all-substrings/",
+  "difficulty": "Medium",
+  "tags": [
+    "Hash Table",
+    "String",
+    "Counting"
+  ],
+  "firstSolvedAt": "2026-09-01T14:59:56.000Z",
+  "lastSolvedAt": "2026-09-01T14:59:56.000Z",
+  "attempts": [
+    {
+      "sid": "2127354385",
+      "lang": "Python3",
+      "ts": 1788274796000,
+      "file": "solution_20260901_2127354385.py",
+      "runtimeMs": 1003,
+      "memoryKb": 18668
+    }
+  ]
+}

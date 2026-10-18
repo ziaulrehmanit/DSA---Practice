@@ -1,0 +1,23 @@
+{
+  "platform": "leetcode",
+  "id": "836",
+  "title": "Rectangle Overlap",
+  "url": "https://leetcode.com/problems/rectangle-overlap/",
+  "difficulty": "Easy",
+  "tags": [
+    "Math",
+    "Geometry"
+  ],
+  "firstSolvedAt": "2026-09-14T16:36:59.000Z",
+  "lastSolvedAt": "2026-09-14T16:36:59.000Z",
+  "attempts": [
+    {
+      "sid": "2141775414",
+      "lang": "Python3",
+      "ts": 1789403819000,
+      "file": "solution_20260914_2141775414.py",
+      "runtimeMs": 0,
+      "memoryKb": 18844
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "platform": "leetcode",
+  "id": "1470",
+  "title": "Shuffle the Array",
+  "url": "https://leetcode.com/problems/shuffle-the-array/",
+  "difficulty": "Easy",
+  "tags": [
+    "Array"
+  ],
+  "firstSolvedAt": "2026-09-12T07:31:29.000Z",
+  "lastSolvedAt": "2026-09-12T07:31:29.000Z",
+  "attempts": [
+    {
+      "sid": "2139258062",
+      "lang": "Python3",
+      "ts": 1789198289000,
+      "file": "solution_20260912_2139258062.py",
+      "runtimeMs": 79,
+      "memoryKb": 18895
+    }
+  ]
+}

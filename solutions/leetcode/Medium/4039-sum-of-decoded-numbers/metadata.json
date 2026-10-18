@@ -1,0 +1,24 @@
+{
+  "platform": "leetcode",
+  "id": "4039",
+  "title": "Sum of Decoded Numbers",
+  "url": "https://leetcode.com/problems/sum-of-decoded-numbers/",
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "Math",
+    "Simulation"
+  ],
+  "firstSolvedAt": "2026-08-30T02:56:02.000Z",
+  "lastSolvedAt": "2026-08-30T02:56:02.000Z",
+  "attempts": [
+    {
+      "sid": "2124493142",
+      "lang": "Python3",
+      "ts": 1788058562000,
+      "file": "solution_20260830_2124493142.py",
+      "runtimeMs": 429,
+      "memoryKb": 31406
+    }
+  ]
+}

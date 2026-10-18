@@ -9,7 +9,7 @@
     "Prefix Sum"
   ],
   "firstSolvedAt": "2026-04-19T02:48:29.000Z",
-  "lastSolvedAt": "2026-04-19T02:48:29.000Z",
+  "lastSolvedAt": "2026-09-04T20:00:04.000Z",
   "attempts": [
     {
       "sid": "1982203336",
@@ -18,6 +18,30 @@
       "file": "solution_20260419_1982203336.py",
       "runtimeMs": 12,
       "memoryKb": 18766
+    },
+    {
+      "sid": "2131099131",
+      "lang": "Python3",
+      "ts": 1788551228000,
+      "file": "solution_20260904_2131099131.py",
+      "runtimeMs": 11,
+      "memoryKb": 18742
+    },
+    {
+      "sid": "2131100909",
+      "lang": "Python3",
+      "ts": 1788551409000,
+      "file": "solution_20260904_2131100909.py",
+      "runtimeMs": 3,
+      "memoryKb": 18891
+    },
+    {
+      "sid": "2131106702",
+      "lang": "Python3",
+      "ts": 1788552004000,
+      "file": "solution_20260904_2131106702.py",
+      "runtimeMs": 0,
+      "memoryKb": 18684
     }
   ]
 }

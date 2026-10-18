@@ -1,0 +1,24 @@
+{
+  "platform": "leetcode",
+  "id": "4038",
+  "title": "Count Integers Appearing in a Single Block",
+  "url": "https://leetcode.com/problems/count-integers-appearing-in-a-single-block/",
+  "difficulty": "Easy",
+  "tags": [
+    "Array",
+    "Hash Table",
+    "Counting"
+  ],
+  "firstSolvedAt": "2026-08-30T03:17:25.000Z",
+  "lastSolvedAt": "2026-08-30T03:17:25.000Z",
+  "attempts": [
+    {
+      "sid": "2124533162",
+      "lang": "Python3",
+      "ts": 1788059845000,
+      "file": "solution_20260830_2124533162.py",
+      "runtimeMs": 0,
+      "memoryKb": 18684
+    }
+  ]
+}

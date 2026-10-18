@@ -1,0 +1,24 @@
+{
+  "platform": "leetcode",
+  "id": "219",
+  "title": "Contains Duplicate II",
+  "url": "https://leetcode.com/problems/contains-duplicate-ii/",
+  "difficulty": "Easy",
+  "tags": [
+    "Array",
+    "Hash Table",
+    "Sliding Window"
+  ],
+  "firstSolvedAt": "2026-09-15T15:55:36.000Z",
+  "lastSolvedAt": "2026-09-15T15:55:36.000Z",
+  "attempts": [
+    {
+      "sid": "2142774959",
+      "lang": "Python3",
+      "ts": 1789487736000,
+      "file": "solution_20260915_2142774959.py",
+      "runtimeMs": 46,
+      "memoryKb": 38348
+    }
+  ]
+}

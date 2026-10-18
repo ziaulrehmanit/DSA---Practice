@@ -1,0 +1,23 @@
+{
+  "platform": "leetcode",
+  "id": "168",
+  "title": "Excel Sheet Column Title",
+  "url": "https://leetcode.com/problems/excel-sheet-column-title/",
+  "difficulty": "Easy",
+  "tags": [
+    "Math",
+    "String"
+  ],
+  "firstSolvedAt": "2026-08-29T16:04:16.000Z",
+  "lastSolvedAt": "2026-08-29T16:04:16.000Z",
+  "attempts": [
+    {
+      "sid": "2124089458",
+      "lang": "Python3",
+      "ts": 1788019456000,
+      "file": "solution_20260829_2124089458.py",
+      "runtimeMs": 0,
+      "memoryKb": 18738
+    }
+  ]
+}

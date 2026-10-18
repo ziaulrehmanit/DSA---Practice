@@ -1,0 +1,23 @@
+{
+  "platform": "leetcode",
+  "id": "1480",
+  "title": "Running Sum of 1d Array",
+  "url": "https://leetcode.com/problems/running-sum-of-1d-array/",
+  "difficulty": "Easy",
+  "tags": [
+    "Array",
+    "Prefix Sum"
+  ],
+  "firstSolvedAt": "2026-09-13T17:31:15.000Z",
+  "lastSolvedAt": "2026-09-13T17:31:15.000Z",
+  "attempts": [
+    {
+      "sid": "2140858335",
+      "lang": "Python3",
+      "ts": 1789320675000,
+      "file": "solution_20260913_2140858335.py",
+      "runtimeMs": 0,
+      "memoryKb": 18961
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "platform": "leetcode",
+  "id": "4043",
+  "title": "Count Rotations With Exactly K Equal Adjacent Pairs",
+  "url": "https://leetcode.com/problems/count-rotations-with-exactly-k-equal-adjacent-pairs/",
+  "difficulty": "Easy",
+  "tags": [
+    "String",
+    "Sliding Window",
+    "Enumeration"
+  ],
+  "firstSolvedAt": "2026-09-06T03:15:26.000Z",
+  "lastSolvedAt": "2026-09-06T03:15:26.000Z",
+  "attempts": [
+    {
+      "sid": "2132335848",
+      "lang": "Python3",
+      "ts": 1788664526000,
+      "file": "solution_20260906_2132335848.py",
+      "runtimeMs": 0,
+      "memoryKb": 18750
+    }
+  ]
+}
