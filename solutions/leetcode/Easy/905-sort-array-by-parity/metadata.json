@@ -1,0 +1,24 @@
+{
+  "platform": "leetcode",
+  "id": "905",
+  "title": "Sort Array By Parity",
+  "url": "https://leetcode.com/problems/sort-array-by-parity/",
+  "difficulty": "Easy",
+  "tags": [
+    "Array",
+    "Two Pointers",
+    "Sorting"
+  ],
+  "firstSolvedAt": "2026-05-02T18:47:06.000Z",
+  "lastSolvedAt": "2026-05-02T18:47:06.000Z",
+  "attempts": [
+    {
+      "sid": "1993579141",
+      "lang": "Python3",
+      "ts": 1777747626000,
+      "file": "solution_20260502_1993579141.py",
+      "runtimeMs": 3,
+      "memoryKb": 19383
+    }
+  ]
+}

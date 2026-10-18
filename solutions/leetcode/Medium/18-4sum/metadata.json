@@ -1,0 +1,32 @@
+{
+  "platform": "leetcode",
+  "id": "18",
+  "title": "4Sum",
+  "url": "https://leetcode.com/problems/4sum/",
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "Two Pointers",
+    "Sorting"
+  ],
+  "firstSolvedAt": "2026-05-05T20:33:02.000Z",
+  "lastSolvedAt": "2026-05-09T18:42:57.000Z",
+  "attempts": [
+    {
+      "sid": "1996153471",
+      "lang": "Python3",
+      "ts": 1778013182000,
+      "file": "solution_20260505_1996153471.py",
+      "runtimeMs": 19,
+      "memoryKb": 18844
+    },
+    {
+      "sid": "1999160284",
+      "lang": "Python3",
+      "ts": 1778352177000,
+      "file": "solution_20260509_1999160284.py",
+      "runtimeMs": 19,
+      "memoryKb": 18914
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "platform": "leetcode",
+  "id": "3918",
+  "title": "Sum of Primes Between Number and Its Reverse",
+  "url": "https://leetcode.com/problems/sum-of-primes-between-number-and-its-reverse/",
+  "difficulty": "Medium",
+  "tags": [
+    "Math",
+    "Number Theory"
+  ],
+  "firstSolvedAt": "2026-05-03T03:15:50.000Z",
+  "lastSolvedAt": "2026-05-14T17:43:33.000Z",
+  "attempts": [
+    {
+      "sid": "1993795226",
+      "lang": "Python3",
+      "ts": 1777778150000,
+      "file": "solution_20260503_1993795226.py",
+      "runtimeMs": 79,
+      "memoryKb": 18996
+    },
+    {
+      "sid": "2003198385",
+      "lang": "Python3",
+      "ts": 1778780613000,
+      "file": "solution_20260514_2003198385.py",
+      "runtimeMs": 83,
+      "memoryKb": 18844
+    }
+  ]
+}

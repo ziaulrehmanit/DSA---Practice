@@ -1,0 +1,38 @@
+{
+  "platform": "leetcode",
+  "id": "3917",
+  "title": "Count Indices With Opposite Parity",
+  "url": "https://leetcode.com/problems/count-indices-with-opposite-parity/",
+  "difficulty": "Easy",
+  "tags": [
+    "Array"
+  ],
+  "firstSolvedAt": "2026-05-03T02:49:00.000Z",
+  "lastSolvedAt": "2026-05-12T16:16:25.000Z",
+  "attempts": [
+    {
+      "sid": "1993761729",
+      "lang": "Python3",
+      "ts": 1777776540000,
+      "file": "solution_20260503_1993761729.py",
+      "runtimeMs": 0,
+      "memoryKb": 18879
+    },
+    {
+      "sid": "2000816286",
+      "lang": "Python3",
+      "ts": 1778527141000,
+      "file": "solution_20260511_2000816286.py",
+      "runtimeMs": 2,
+      "memoryKb": 18793
+    },
+    {
+      "sid": "2001487577",
+      "lang": "Python3",
+      "ts": 1778602585000,
+      "file": "solution_20260512_2001487577.py",
+      "runtimeMs": 3,
+      "memoryKb": 18652
+    }
+  ]
+}

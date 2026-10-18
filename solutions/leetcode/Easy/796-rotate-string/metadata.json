@@ -1,0 +1,23 @@
+{
+  "platform": "leetcode",
+  "id": "796",
+  "title": "Rotate String",
+  "url": "https://leetcode.com/problems/rotate-string/",
+  "difficulty": "Easy",
+  "tags": [
+    "String",
+    "String Matching"
+  ],
+  "firstSolvedAt": "2026-05-03T03:47:27.000Z",
+  "lastSolvedAt": "2026-05-03T03:47:27.000Z",
+  "attempts": [
+    {
+      "sid": "1993828969",
+      "lang": "Python3",
+      "ts": 1777780047000,
+      "file": "solution_20260503_1993828969.py",
+      "runtimeMs": 0,
+      "memoryKb": 18809
+    }
+  ]
+}

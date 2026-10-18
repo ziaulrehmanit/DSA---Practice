@@ -1,0 +1,32 @@
+{
+  "platform": "leetcode",
+  "id": "15",
+  "title": "3Sum",
+  "url": "https://leetcode.com/problems/3sum/",
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "Two Pointers",
+    "Sorting"
+  ],
+  "firstSolvedAt": "2026-05-04T18:52:32.000Z",
+  "lastSolvedAt": "2026-05-05T20:13:57.000Z",
+  "attempts": [
+    {
+      "sid": "1995230310",
+      "lang": "Python3",
+      "ts": 1777920752000,
+      "file": "solution_20260504_1995230310.py",
+      "runtimeMs": 480,
+      "memoryKb": 21809
+    },
+    {
+      "sid": "1996145412",
+      "lang": "Python3",
+      "ts": 1778012037000,
+      "file": "solution_20260505_1996145412.py",
+      "runtimeMs": 476,
+      "memoryKb": 21852
+    }
+  ]
+}
