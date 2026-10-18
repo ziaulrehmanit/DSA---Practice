@@ -1,23 +1,24 @@
 # Solutions
 
-**3** problems · **3** accepted submissions
+**4** problems · **4** accepted submissions
 
 | Platform | Problems |
 |---|---:|
+| geeksforgeeks | 2 |
 | leetcode | 1 |
-| geeksforgeeks | 1 |
 | takeuforward | 1 |
 
 | Difficulty | Problems |
 |---|---:|
+| Easy | 2 |
 | Medium | 1 |
-| Easy | 1 |
 | Unrated | 1 |
 
 ## Recent
 
 | Date | Platform | Problem | Difficulty | Attempts |
 |---|---|---|---|---:|
+| 2026-10-18 | geeksforgeeks | [smallest\-divisible\-number\. Smallest Divisible by 1 to n](./geeksforgeeks/Easy/smallest-divisible-number-smallest-divisible-by-1-to-n) | Easy | 1 |
 | 2026-10-18 | takeuforward | [insertion\-at\-the\-kth\-position\-of\-ll\. Insertion at the Kth position of Linked List](./takeuforward/Unrated/insertion-at-the-kth-position-of-ll-insertion-at-the-kth-position-of-linked-list) | Unrated | 1 |
 | 2026-10-17 | geeksforgeeks | [3520\. Print The Kth Digit](./geeksforgeeks/Easy/3520-print-the-kth-digit) | Easy | 1 |
 | 2026-10-17 | leetcode | [3551\. Minimum Swaps to Sort by Digit Sum](./leetcode/Medium/3551-minimum-swaps-to-sort-by-digit-sum) | Medium | 1 |
