@@ -1,0 +1,23 @@
+{
+  "platform": "leetcode",
+  "id": "31",
+  "title": "Next Permutation",
+  "url": "https://leetcode.com/problems/next-permutation/",
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "Two Pointers"
+  ],
+  "firstSolvedAt": "2026-04-01T18:22:57.000Z",
+  "lastSolvedAt": "2026-04-01T18:22:57.000Z",
+  "attempts": [
+    {
+      "sid": "1966155591",
+      "lang": "Python3",
+      "ts": 1775067777000,
+      "file": "solution_20260401_1966155591.py",
+      "runtimeMs": 0,
+      "memoryKb": 18758
+    }
+  ]
+}

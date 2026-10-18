@@ -1,0 +1,23 @@
+{
+  "platform": "leetcode",
+  "id": "3884",
+  "title": "First Matching Character From Both Ends",
+  "url": "https://leetcode.com/problems/first-matching-character-from-both-ends/",
+  "difficulty": "Easy",
+  "tags": [
+    "Two Pointers",
+    "String"
+  ],
+  "firstSolvedAt": "2026-03-29T02:40:08.000Z",
+  "lastSolvedAt": "2026-03-29T02:40:08.000Z",
+  "attempts": [
+    {
+      "sid": "1962351540",
+      "lang": "Python3",
+      "ts": 1774752008000,
+      "file": "solution_20260329_1962351540.py",
+      "runtimeMs": 0,
+      "memoryKb": 18785
+    }
+  ]
+}

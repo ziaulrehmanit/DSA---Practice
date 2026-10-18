@@ -1,0 +1,40 @@
+{
+  "platform": "leetcode",
+  "id": "3731",
+  "title": "Find Missing Elements",
+  "url": "https://leetcode.com/problems/find-missing-elements/",
+  "difficulty": "Easy",
+  "tags": [
+    "Array",
+    "Hash Table",
+    "Sorting"
+  ],
+  "firstSolvedAt": "2026-02-25T19:08:01.000Z",
+  "lastSolvedAt": "2026-02-25T19:12:06.000Z",
+  "attempts": [
+    {
+      "sid": "1931121841",
+      "lang": "Python3",
+      "ts": 1772046481000,
+      "file": "solution_20260225_1931121841.py",
+      "runtimeMs": 5,
+      "memoryKb": 18965
+    },
+    {
+      "sid": "1931124317",
+      "lang": "Python3",
+      "ts": 1772046679000,
+      "file": "solution_20260225_1931124317.py",
+      "runtimeMs": 1,
+      "memoryKb": 18922
+    },
+    {
+      "sid": "1931124891",
+      "lang": "Python3",
+      "ts": 1772046726000,
+      "file": "solution_20260225_1931124891.py",
+      "runtimeMs": 0,
+      "memoryKb": 19066
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "platform": "leetcode",
+  "id": "3875",
+  "title": "Construct Uniform Parity Array I",
+  "url": "https://leetcode.com/problems/construct-uniform-parity-array-i/",
+  "difficulty": "Easy",
+  "tags": [
+    "Array",
+    "Math"
+  ],
+  "firstSolvedAt": "2026-03-23T12:48:39.000Z",
+  "lastSolvedAt": "2026-03-28T21:26:28.000Z",
+  "attempts": [
+    {
+      "sid": "1956691015",
+      "lang": "Python3",
+      "ts": 1774270119000,
+      "file": "solution_20260323_1956691015.py",
+      "runtimeMs": 0,
+      "memoryKb": 18781
+    },
+    {
+      "sid": "1956717464",
+      "lang": "Python3",
+      "ts": 1774272096000,
+      "file": "solution_20260323_1956717464.py",
+      "runtimeMs": 0,
+      "memoryKb": 18855
+    },
+    {
+      "sid": "1962226601",
+      "lang": "Python3",
+      "ts": 1774733188000,
+      "file": "solution_20260328_1962226601.py",
+      "runtimeMs": 0,
+      "memoryKb": 18676
+    }
+  ]
+}

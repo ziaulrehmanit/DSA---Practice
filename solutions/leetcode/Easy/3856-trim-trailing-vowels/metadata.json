@@ -1,0 +1,22 @@
+{
+  "platform": "leetcode",
+  "id": "3856",
+  "title": "Trim Trailing Vowels",
+  "url": "https://leetcode.com/problems/trim-trailing-vowels/",
+  "difficulty": "Easy",
+  "tags": [
+    "String"
+  ],
+  "firstSolvedAt": "2026-03-31T12:25:29.000Z",
+  "lastSolvedAt": "2026-03-31T12:25:29.000Z",
+  "attempts": [
+    {
+      "sid": "1964825424",
+      "lang": "C++",
+      "ts": 1774959929000,
+      "file": "solution_20260331_1964825424.cpp",
+      "runtimeMs": 0,
+      "memoryKb": 8504
+    }
+  ]
+}

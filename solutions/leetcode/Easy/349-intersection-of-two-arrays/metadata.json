@@ -1,0 +1,26 @@
+{
+  "platform": "leetcode",
+  "id": "349",
+  "title": "Intersection of Two Arrays",
+  "url": "https://leetcode.com/problems/intersection-of-two-arrays/",
+  "difficulty": "Easy",
+  "tags": [
+    "Array",
+    "Hash Table",
+    "Two Pointers",
+    "Binary Search",
+    "Sorting"
+  ],
+  "firstSolvedAt": "2026-03-02T18:44:03.000Z",
+  "lastSolvedAt": "2026-03-02T18:44:03.000Z",
+  "attempts": [
+    {
+      "sid": "1936010642",
+      "lang": "Python3",
+      "ts": 1772477043000,
+      "file": "solution_20260302_1936010642.py",
+      "runtimeMs": 0,
+      "memoryKb": 18820
+    }
+  ]
+}
