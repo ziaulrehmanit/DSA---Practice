@@ -1,0 +1,24 @@
+{
+  "platform": "leetcode",
+  "id": "3968",
+  "title": "Maximum Manhattan Distance After All Moves",
+  "url": "https://leetcode.com/problems/maximum-manhattan-distance-after-all-moves/",
+  "difficulty": "Medium",
+  "tags": [
+    "Math",
+    "String",
+    "Counting"
+  ],
+  "firstSolvedAt": "2026-06-21T03:13:14.000Z",
+  "lastSolvedAt": "2026-06-21T03:13:14.000Z",
+  "attempts": [
+    {
+      "sid": "2040457397",
+      "lang": "Python3",
+      "ts": 1782011594000,
+      "file": "solution_20260621_2040457397.py",
+      "runtimeMs": 111,
+      "memoryKb": 19266
+    }
+  ]
+}

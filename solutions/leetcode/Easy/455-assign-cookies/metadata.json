@@ -1,0 +1,34 @@
+{
+  "platform": "leetcode",
+  "id": "455",
+  "title": "Assign Cookies",
+  "url": "https://leetcode.com/problems/assign-cookies/",
+  "difficulty": "Easy",
+  "tags": [
+    "Array",
+    "Two Pointers",
+    "Greedy",
+    "Sorting",
+    "Quicksort"
+  ],
+  "firstSolvedAt": "2026-06-16T18:30:46.000Z",
+  "lastSolvedAt": "2026-06-19T18:11:27.000Z",
+  "attempts": [
+    {
+      "sid": "2035551924",
+      "lang": "Python3",
+      "ts": 1781634646000,
+      "file": "solution_20260616_2035551924.py",
+      "runtimeMs": 24,
+      "memoryKb": 21426
+    },
+    {
+      "sid": "2039058711",
+      "lang": "Python3",
+      "ts": 1781892687000,
+      "file": "solution_20260619_2039058711.py",
+      "runtimeMs": 15,
+      "memoryKb": 21484
+    }
+  ]
+}

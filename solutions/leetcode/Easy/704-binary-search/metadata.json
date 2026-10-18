@@ -9,7 +9,7 @@
     "Binary Search"
   ],
   "firstSolvedAt": "2026-02-19T16:58:21.000Z",
-  "lastSolvedAt": "2026-02-19T16:58:21.000Z",
+  "lastSolvedAt": "2026-06-28T18:42:38.000Z",
   "attempts": [
     {
       "sid": "1924601865",
@@ -18,6 +18,14 @@
       "file": "solution_20260219_1924601865.py",
       "runtimeMs": 0,
       "memoryKb": 20133
+    },
+    {
+      "sid": "2049276505",
+      "lang": "Python3",
+      "ts": 1782672158000,
+      "file": "solution_20260628_2049276505.py",
+      "runtimeMs": 0,
+      "memoryKb": 19941
     }
   ]
 }

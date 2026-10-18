@@ -1,0 +1,24 @@
+{
+  "platform": "leetcode",
+  "id": "821",
+  "title": "Shortest Distance to a Character",
+  "url": "https://leetcode.com/problems/shortest-distance-to-a-character/",
+  "difficulty": "Easy",
+  "tags": [
+    "Array",
+    "Two Pointers",
+    "String"
+  ],
+  "firstSolvedAt": "2026-06-17T18:10:10.000Z",
+  "lastSolvedAt": "2026-06-17T18:10:10.000Z",
+  "attempts": [
+    {
+      "sid": "2036729468",
+      "lang": "Python3",
+      "ts": 1781719810000,
+      "file": "solution_20260617_2036729468.py",
+      "runtimeMs": 27,
+      "memoryKb": 18801
+    }
+  ]
+}

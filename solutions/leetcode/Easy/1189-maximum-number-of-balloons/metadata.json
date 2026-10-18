@@ -1,0 +1,32 @@
+{
+  "platform": "leetcode",
+  "id": "1189",
+  "title": "Maximum Number of Balloons",
+  "url": "https://leetcode.com/problems/maximum-number-of-balloons/",
+  "difficulty": "Easy",
+  "tags": [
+    "Hash Table",
+    "String",
+    "Counting"
+  ],
+  "firstSolvedAt": "2026-06-22T18:30:30.000Z",
+  "lastSolvedAt": "2026-06-22T18:34:16.000Z",
+  "attempts": [
+    {
+      "sid": "2042561896",
+      "lang": "Python3",
+      "ts": 1782153030000,
+      "file": "solution_20260622_2042561896.py",
+      "runtimeMs": 3,
+      "memoryKb": 18887
+    },
+    {
+      "sid": "2042565750",
+      "lang": "Python3",
+      "ts": 1782153256000,
+      "file": "solution_20260622_2042565750.py",
+      "runtimeMs": 0,
+      "memoryKb": 18898
+    }
+  ]
+}

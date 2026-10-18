@@ -1,0 +1,29 @@
+{
+  "platform": "leetcode",
+  "id": "493",
+  "title": "Reverse Pairs",
+  "url": "https://leetcode.com/problems/reverse-pairs/",
+  "difficulty": "Hard",
+  "tags": [
+    "Array",
+    "Binary Search",
+    "Divide and Conquer",
+    "Binary Indexed Tree",
+    "Segment Tree",
+    "Merge Sort",
+    "Ordered Set",
+    "Treap"
+  ],
+  "firstSolvedAt": "2026-06-27T09:01:44.000Z",
+  "lastSolvedAt": "2026-06-27T09:01:44.000Z",
+  "attempts": [
+    {
+      "sid": "2047650531",
+      "lang": "Python3",
+      "ts": 1782550904000,
+      "file": "solution_20260627_2047650531.py",
+      "runtimeMs": 901,
+      "memoryKb": 27969
+    }
+  ]
+}

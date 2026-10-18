@@ -1,0 +1,26 @@
+{
+  "platform": "leetcode",
+  "id": "3969",
+  "title": "Valid Subarrays With Matching Sum Digits I",
+  "url": "https://leetcode.com/problems/valid-subarrays-with-matching-sum-digits-i/",
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "Hash Table",
+    "Sliding Window",
+    "Enumeration",
+    "Prefix Sum"
+  ],
+  "firstSolvedAt": "2026-06-21T03:24:54.000Z",
+  "lastSolvedAt": "2026-06-21T03:24:54.000Z",
+  "attempts": [
+    {
+      "sid": "2040476710",
+      "lang": "Python3",
+      "ts": 1782012294000,
+      "file": "solution_20260621_2040476710.py",
+      "runtimeMs": 6603,
+      "memoryKb": 19098
+    }
+  ]
+}
