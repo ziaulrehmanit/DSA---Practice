@@ -1,0 +1,23 @@
+{
+  "platform": "leetcode",
+  "id": "34",
+  "title": "Find First and Last Position of Element in Sorted Array",
+  "url": "https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/",
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "Binary Search"
+  ],
+  "firstSolvedAt": "2026-07-03T18:58:00.000Z",
+  "lastSolvedAt": "2026-07-03T18:58:00.000Z",
+  "attempts": [
+    {
+      "sid": "2055034219",
+      "lang": "Python3",
+      "ts": 1783105080000,
+      "file": "solution_20260703_2055034219.py",
+      "runtimeMs": 0,
+      "memoryKb": 20305
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "platform": "leetcode",
+  "id": "374",
+  "title": "Guess Number Higher or Lower",
+  "url": "https://leetcode.com/problems/guess-number-higher-or-lower/",
+  "difficulty": "Easy",
+  "tags": [
+    "Binary Search",
+    "Interactive"
+  ],
+  "firstSolvedAt": "2026-07-21T17:53:26.000Z",
+  "lastSolvedAt": "2026-07-21T17:53:26.000Z",
+  "attempts": [
+    {
+      "sid": "2076216114",
+      "lang": "Python3",
+      "ts": 1784656406000,
+      "file": "solution_20260721_2076216114.py",
+      "runtimeMs": 52,
+      "memoryKb": 18746
+    }
+  ]
+}

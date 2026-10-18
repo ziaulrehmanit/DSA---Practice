@@ -1,0 +1,31 @@
+{
+  "platform": "leetcode",
+  "id": "540",
+  "title": "Single Element in a Sorted Array",
+  "url": "https://leetcode.com/problems/single-element-in-a-sorted-array/",
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "Binary Search"
+  ],
+  "firstSolvedAt": "2026-07-04T06:41:47.000Z",
+  "lastSolvedAt": "2026-07-08T14:14:36.000Z",
+  "attempts": [
+    {
+      "sid": "2055378590",
+      "lang": "Python3",
+      "ts": 1783147307000,
+      "file": "solution_20260704_2055378590.py",
+      "runtimeMs": 0,
+      "memoryKb": 26426
+    },
+    {
+      "sid": "2060601359",
+      "lang": "Python3",
+      "ts": 1783520076000,
+      "file": "solution_20260708_2060601359.py",
+      "runtimeMs": 0,
+      "memoryKb": 26391
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "platform": "leetcode",
+  "id": "1346",
+  "title": "Check If N and Its Double Exist",
+  "url": "https://leetcode.com/problems/check-if-n-and-its-double-exist/",
+  "difficulty": "Easy",
+  "tags": [
+    "Array",
+    "Hash Table",
+    "Two Pointers",
+    "Binary Search",
+    "Sorting"
+  ],
+  "firstSolvedAt": "2026-07-31T17:47:01.000Z",
+  "lastSolvedAt": "2026-07-31T18:03:48.000Z",
+  "attempts": [
+    {
+      "sid": "2089140179",
+      "lang": "Python3",
+      "ts": 1785520021000,
+      "file": "solution_20260731_2089140179.py",
+      "runtimeMs": 13,
+      "memoryKb": 18949
+    },
+    {
+      "sid": "2089162049",
+      "lang": "Python3",
+      "ts": 1785521028000,
+      "file": "solution_20260731_2089162049.py",
+      "runtimeMs": 0,
+      "memoryKb": 18707
+    }
+  ]
+}

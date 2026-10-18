@@ -1,0 +1,26 @@
+{
+  "platform": "leetcode",
+  "id": "1979",
+  "title": "Find Greatest Common Divisor of Array",
+  "url": "https://leetcode.com/problems/find-greatest-common-divisor-of-array/",
+  "difficulty": "Easy",
+  "tags": [
+    "Array",
+    "Math",
+    "Number Theory",
+    "Euclidean Algorithm",
+    "Greatest Common Divisor"
+  ],
+  "firstSolvedAt": "2026-07-18T17:09:04.000Z",
+  "lastSolvedAt": "2026-07-18T17:09:04.000Z",
+  "attempts": [
+    {
+      "sid": "2072600989",
+      "lang": "Python3",
+      "ts": 1784394544000,
+      "file": "solution_20260718_2072600989.py",
+      "runtimeMs": 0,
+      "memoryKb": 18883
+    }
+  ]
+}

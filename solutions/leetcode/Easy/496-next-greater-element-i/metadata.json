@@ -1,0 +1,25 @@
+{
+  "platform": "leetcode",
+  "id": "496",
+  "title": "Next Greater Element I",
+  "url": "https://leetcode.com/problems/next-greater-element-i/",
+  "difficulty": "Easy",
+  "tags": [
+    "Array",
+    "Hash Table",
+    "Stack",
+    "Monotonic Stack"
+  ],
+  "firstSolvedAt": "2026-07-30T18:02:07.000Z",
+  "lastSolvedAt": "2026-07-30T18:02:07.000Z",
+  "attempts": [
+    {
+      "sid": "2087908505",
+      "lang": "Python3",
+      "ts": 1785434527000,
+      "file": "solution_20260730_2087908505.py",
+      "runtimeMs": 109,
+      "memoryKb": 18871
+    }
+  ]
+}

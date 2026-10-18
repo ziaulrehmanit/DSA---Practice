@@ -1,0 +1,23 @@
+{
+  "platform": "leetcode",
+  "id": "3982",
+  "title": "Sum of Integers with Maximum Digit Range",
+  "url": "https://leetcode.com/problems/sum-of-integers-with-maximum-digit-range/",
+  "difficulty": "Easy",
+  "tags": [
+    "Array",
+    "Math"
+  ],
+  "firstSolvedAt": "2026-07-05T03:05:43.000Z",
+  "lastSolvedAt": "2026-07-05T03:05:43.000Z",
+  "attempts": [
+    {
+      "sid": "2056401488",
+      "lang": "Python3",
+      "ts": 1783220743000,
+      "file": "solution_20260705_2056401488.py",
+      "runtimeMs": 11,
+      "memoryKb": 18805
+    }
+  ]
+}

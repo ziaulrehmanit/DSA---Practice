@@ -1,0 +1,31 @@
+{
+  "platform": "leetcode",
+  "id": "1283",
+  "title": "Find the Smallest Divisor Given a Threshold",
+  "url": "https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/",
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "Binary Search"
+  ],
+  "firstSolvedAt": "2026-07-14T16:59:35.000Z",
+  "lastSolvedAt": "2026-07-15T09:58:24.000Z",
+  "attempts": [
+    {
+      "sid": "2067650867",
+      "lang": "Python3",
+      "ts": 1784048375000,
+      "file": "solution_20260714_2067650867.py",
+      "runtimeMs": 147,
+      "memoryKb": 23910
+    },
+    {
+      "sid": "2068446066",
+      "lang": "Python3",
+      "ts": 1784109504000,
+      "file": "solution_20260715_2068446066.py",
+      "runtimeMs": 147,
+      "memoryKb": 23844
+    }
+  ]
+}

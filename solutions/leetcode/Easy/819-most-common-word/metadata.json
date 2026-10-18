@@ -1,0 +1,25 @@
+{
+  "platform": "leetcode",
+  "id": "819",
+  "title": "Most Common Word",
+  "url": "https://leetcode.com/problems/most-common-word/",
+  "difficulty": "Easy",
+  "tags": [
+    "Array",
+    "Hash Table",
+    "String",
+    "Counting"
+  ],
+  "firstSolvedAt": "2026-07-29T18:27:09.000Z",
+  "lastSolvedAt": "2026-07-29T18:27:09.000Z",
+  "attempts": [
+    {
+      "sid": "2086585770",
+      "lang": "Python3",
+      "ts": 1785349629000,
+      "file": "solution_20260729_2086585770.py",
+      "runtimeMs": 0,
+      "memoryKb": 18973
+    }
+  ]
+}

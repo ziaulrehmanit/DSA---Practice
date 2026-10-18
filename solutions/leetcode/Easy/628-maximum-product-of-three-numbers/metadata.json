@@ -10,7 +10,7 @@
     "Sorting"
   ],
   "firstSolvedAt": "2026-05-24T17:41:12.000Z",
-  "lastSolvedAt": "2026-05-24T17:41:12.000Z",
+  "lastSolvedAt": "2026-07-26T16:41:06.000Z",
   "attempts": [
     {
       "sid": "2011940503",
@@ -19,6 +19,14 @@
       "file": "solution_20260524_2011940503.py",
       "runtimeMs": 11,
       "memoryKb": 19879
+    },
+    {
+      "sid": "2082311151",
+      "lang": "Python3",
+      "ts": 1785084066000,
+      "file": "solution_20260726_2082311151.py",
+      "runtimeMs": 11,
+      "memoryKb": 19703
     }
   ]
 }

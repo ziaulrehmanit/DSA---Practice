@@ -1,0 +1,25 @@
+{
+  "platform": "leetcode",
+  "id": "3998",
+  "title": "Transform Binary String Using Subsequence Sort",
+  "url": "https://leetcode.com/problems/transform-binary-string-using-subsequence-sort/",
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "Two Pointers",
+    "String",
+    "Greedy"
+  ],
+  "firstSolvedAt": "2026-07-19T03:28:22.000Z",
+  "lastSolvedAt": "2026-07-19T03:28:22.000Z",
+  "attempts": [
+    {
+      "sid": "2072981974",
+      "lang": "Python3",
+      "ts": 1784431702000,
+      "file": "solution_20260719_2072981974.py",
+      "runtimeMs": 610,
+      "memoryKb": 32699
+    }
+  ]
+}
