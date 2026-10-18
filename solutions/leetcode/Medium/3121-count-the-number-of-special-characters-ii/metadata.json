@@ -1,0 +1,23 @@
+{
+  "platform": "leetcode",
+  "id": "3121",
+  "title": "Count the Number of Special Characters II",
+  "url": "https://leetcode.com/problems/count-the-number-of-special-characters-ii/",
+  "difficulty": "Medium",
+  "tags": [
+    "Hash Table",
+    "String"
+  ],
+  "firstSolvedAt": "2026-05-28T03:00:40.000Z",
+  "lastSolvedAt": "2026-05-28T03:00:40.000Z",
+  "attempts": [
+    {
+      "sid": "2015053739",
+      "lang": "Python3",
+      "ts": 1779937240000,
+      "file": "solution_20260528_2015053739.py",
+      "runtimeMs": 266,
+      "memoryKb": 20805
+    }
+  ]
+}

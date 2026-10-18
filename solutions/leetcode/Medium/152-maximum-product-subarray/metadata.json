@@ -1,0 +1,39 @@
+{
+  "platform": "leetcode",
+  "id": "152",
+  "title": "Maximum Product Subarray",
+  "url": "https://leetcode.com/problems/maximum-product-subarray/",
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "Dynamic Programming"
+  ],
+  "firstSolvedAt": "2026-05-21T16:21:31.000Z",
+  "lastSolvedAt": "2026-06-02T17:06:04.000Z",
+  "attempts": [
+    {
+      "sid": "2009194084",
+      "lang": "Python3",
+      "ts": 1779380491000,
+      "file": "solution_20260521_2009194084.py",
+      "runtimeMs": 3,
+      "memoryKb": 19289
+    },
+    {
+      "sid": "2012929673",
+      "lang": "Python3",
+      "ts": 1779734048000,
+      "file": "solution_20260525_2012929673.py",
+      "runtimeMs": 3,
+      "memoryKb": 19309
+    },
+    {
+      "sid": "2020427026",
+      "lang": "Python3",
+      "ts": 1780419964000,
+      "file": "solution_20260602_2020427026.py",
+      "runtimeMs": 3,
+      "memoryKb": 19406
+    }
+  ]
+}

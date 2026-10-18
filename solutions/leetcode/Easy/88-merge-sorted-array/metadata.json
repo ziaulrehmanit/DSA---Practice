@@ -1,0 +1,24 @@
+{
+  "platform": "leetcode",
+  "id": "88",
+  "title": "Merge Sorted Array",
+  "url": "https://leetcode.com/problems/merge-sorted-array/",
+  "difficulty": "Easy",
+  "tags": [
+    "Array",
+    "Two Pointers",
+    "Sorting"
+  ],
+  "firstSolvedAt": "2026-05-18T17:55:11.000Z",
+  "lastSolvedAt": "2026-05-18T17:55:11.000Z",
+  "attempts": [
+    {
+      "sid": "2006625650",
+      "lang": "Python3",
+      "ts": 1779126911000,
+      "file": "solution_20260518_2006625650.py",
+      "runtimeMs": 0,
+      "memoryKb": 18887
+    }
+  ]
+}

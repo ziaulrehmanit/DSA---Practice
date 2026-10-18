@@ -1,0 +1,24 @@
+{
+  "platform": "leetcode",
+  "id": "2126",
+  "title": "Destroying Asteroids",
+  "url": "https://leetcode.com/problems/destroying-asteroids/",
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "Greedy",
+    "Sorting"
+  ],
+  "firstSolvedAt": "2026-05-31T08:52:08.000Z",
+  "lastSolvedAt": "2026-05-31T08:52:08.000Z",
+  "attempts": [
+    {
+      "sid": "2017998131",
+      "lang": "Python3",
+      "ts": 1780217528000,
+      "file": "solution_20260531_2017998131.py",
+      "runtimeMs": 51,
+      "memoryKb": 33219
+    }
+  ]
+}

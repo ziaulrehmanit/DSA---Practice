@@ -1,0 +1,24 @@
+{
+  "platform": "leetcode",
+  "id": "2144",
+  "title": "Minimum Cost of Buying Candies With Discount",
+  "url": "https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount/",
+  "difficulty": "Easy",
+  "tags": [
+    "Array",
+    "Greedy",
+    "Sorting"
+  ],
+  "firstSolvedAt": "2026-06-01T14:18:01.000Z",
+  "lastSolvedAt": "2026-06-01T14:18:01.000Z",
+  "attempts": [
+    {
+      "sid": "2019187776",
+      "lang": "Python3",
+      "ts": 1780323481000,
+      "file": "solution_20260601_2019187776.py",
+      "runtimeMs": 1,
+      "memoryKb": 18910
+    }
+  ]
+}

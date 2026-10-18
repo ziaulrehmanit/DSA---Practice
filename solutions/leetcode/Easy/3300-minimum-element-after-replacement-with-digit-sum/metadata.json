@@ -1,0 +1,23 @@
+{
+  "platform": "leetcode",
+  "id": "3300",
+  "title": "Minimum Element After Replacement With Digit Sum",
+  "url": "https://leetcode.com/problems/minimum-element-after-replacement-with-digit-sum/",
+  "difficulty": "Easy",
+  "tags": [
+    "Array",
+    "Math"
+  ],
+  "firstSolvedAt": "2026-05-29T14:56:37.000Z",
+  "lastSolvedAt": "2026-05-29T14:56:37.000Z",
+  "attempts": [
+    {
+      "sid": "2016521114",
+      "lang": "Python3",
+      "ts": 1780066597000,
+      "file": "solution_20260529_2016521114.py",
+      "runtimeMs": 3,
+      "memoryKb": 18918
+    }
+  ]
+}
