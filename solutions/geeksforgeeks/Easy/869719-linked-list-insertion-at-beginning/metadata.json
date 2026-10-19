@@ -1,0 +1,18 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "869719",
+  "title": "Linked List Insertion At Beginning",
+  "url": "https://www.geeksforgeeks.org/problems/linked-list-insertion-at-beginning/1",
+  "difficulty": "Easy",
+  "tags": [],
+  "firstSolvedAt": "2026-09-08T10:13:43.000Z",
+  "lastSolvedAt": "2026-09-08T10:13:43.000Z",
+  "attempts": [
+    {
+      "sid": "linked-list-insertion-at-beginning-00d9567ad78c",
+      "lang": "Python3",
+      "ts": 1788862423000,
+      "file": "solution_20260908_linkedlistinsertionatbeginning00d9567ad78c.py"
+    }
+  ]
+}

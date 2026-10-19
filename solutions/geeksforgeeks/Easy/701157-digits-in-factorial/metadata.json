@@ -1,0 +1,18 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "701157",
+  "title": "Digits in Factorial",
+  "url": "https://www.geeksforgeeks.org/problems/digits-in-factorial/1",
+  "difficulty": "Easy",
+  "tags": [],
+  "firstSolvedAt": "2026-09-09T11:25:31.000Z",
+  "lastSolvedAt": "2026-09-09T11:25:31.000Z",
+  "attempts": [
+    {
+      "sid": "digits-in-factorial-3aad9116fc59",
+      "lang": "Python3",
+      "ts": 1788953131000,
+      "file": "solution_20260909_digitsinfactorial3aad9116fc59.py"
+    }
+  ]
+}

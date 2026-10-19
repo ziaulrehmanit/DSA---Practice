@@ -1,0 +1,18 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "700959",
+  "title": "String Functions",
+  "url": "https://www.geeksforgeeks.org/problems/string-functions-i/1",
+  "difficulty": "Easy",
+  "tags": [],
+  "firstSolvedAt": "2025-08-24T08:01:08.000Z",
+  "lastSolvedAt": "2025-08-24T08:01:08.000Z",
+  "attempts": [
+    {
+      "sid": "string-functions-i-7f7267da7220",
+      "lang": "Python3",
+      "ts": 1756022468000,
+      "file": "solution_20250824_stringfunctionsi7f7267da7220.py"
+    }
+  ]
+}

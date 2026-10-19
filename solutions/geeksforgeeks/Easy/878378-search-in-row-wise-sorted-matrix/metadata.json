@@ -1,0 +1,18 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "878378",
+  "title": "Search in Row-Wise Sorted Matrix",
+  "url": "https://www.geeksforgeeks.org/problems/search-in-a-row-wise-sorted-matrix/1",
+  "difficulty": "Easy",
+  "tags": [],
+  "firstSolvedAt": "2026-08-03T16:24:16.000Z",
+  "lastSolvedAt": "2026-08-03T16:24:16.000Z",
+  "attempts": [
+    {
+      "sid": "search-in-a-row-wise-sorted-matrix-809b90dbbe32",
+      "lang": "Python3",
+      "ts": 1785774256000,
+      "file": "solution_20260803_searchinarowwisesortedmatrix809b90dbbe32.py"
+    }
+  ]
+}

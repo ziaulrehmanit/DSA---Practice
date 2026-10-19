@@ -1,0 +1,18 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "5209",
+  "title": "Swapping Triangles in Matrix",
+  "url": "https://www.geeksforgeeks.org/problems/swapping-triangles5209/1",
+  "difficulty": "Easy",
+  "tags": [],
+  "firstSolvedAt": "2026-04-22T17:40:49.000Z",
+  "lastSolvedAt": "2026-04-22T17:40:49.000Z",
+  "attempts": [
+    {
+      "sid": "swapping-triangles5209-480cfe81dec9",
+      "lang": "Python3",
+      "ts": 1776879649000,
+      "file": "solution_20260422_swappingtriangles5209480cfe81dec9.py"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "5900",
+  "title": "C++ Switch Case Statement",
+  "url": "https://www.geeksforgeeks.org/problems/c-switch-case-statement5900/1",
+  "difficulty": "Easy",
+  "tags": [],
+  "firstSolvedAt": "2025-11-17T12:08:31.000Z",
+  "lastSolvedAt": "2025-11-17T12:08:31.000Z",
+  "attempts": [
+    {
+      "sid": "c-switch-case-statement5900-c5639aee1bc0",
+      "lang": "Python3",
+      "ts": 1763381311000,
+      "file": "solution_20251117_cswitchcasestatement5900c5639aee1bc0.py"
+    }
+  ]
+}

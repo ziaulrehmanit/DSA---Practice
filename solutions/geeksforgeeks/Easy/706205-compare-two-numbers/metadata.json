@@ -1,0 +1,18 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "706205",
+  "title": "Compare Two Numbers",
+  "url": "https://www.geeksforgeeks.org/problems/compare-two-numbers/1",
+  "difficulty": "Easy",
+  "tags": [],
+  "firstSolvedAt": "2025-11-29T10:42:51.000Z",
+  "lastSolvedAt": "2025-11-29T10:42:51.000Z",
+  "attempts": [
+    {
+      "sid": "compare-two-numbers-6dc310cc545f",
+      "lang": "C++",
+      "ts": 1764412971000,
+      "file": "solution_20251129_comparetwonumbers6dc310cc545f.cpp"
+    }
+  ]
+}

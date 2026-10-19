@@ -1,0 +1,18 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "1317",
+  "title": "K-th of Two Sorted Arrays",
+  "url": "https://www.geeksforgeeks.org/problems/k-th-element-of-two-sorted-array1317/1",
+  "difficulty": "Medium",
+  "tags": [],
+  "firstSolvedAt": "2026-08-03T11:15:01.000Z",
+  "lastSolvedAt": "2026-08-03T11:15:01.000Z",
+  "attempts": [
+    {
+      "sid": "k-th-element-of-two-sorted-array1317-8727cb82966c",
+      "lang": "Python3",
+      "ts": 1785755701000,
+      "file": "solution_20260803_kthelementoftwosortedarray13178727cb82966c.py"
+    }
+  ]
+}

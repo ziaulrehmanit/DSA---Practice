@@ -1,0 +1,18 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "4009",
+  "title": "Largest in Array",
+  "url": "https://www.geeksforgeeks.org/problems/largest-element-in-array4009/1",
+  "difficulty": "Easy",
+  "tags": [],
+  "firstSolvedAt": "2025-08-22T12:37:56.000Z",
+  "lastSolvedAt": "2025-08-22T12:37:56.000Z",
+  "attempts": [
+    {
+      "sid": "largest-element-in-array4009-51877b88878c",
+      "lang": "Python3",
+      "ts": 1755866276000,
+      "file": "solution_20250822_largestelementinarray400951877b88878c.py"
+    }
+  ]
+}

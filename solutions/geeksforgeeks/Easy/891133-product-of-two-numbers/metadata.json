@@ -1,0 +1,18 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "891133",
+  "title": "Product of Two Numbers",
+  "url": "https://www.geeksforgeeks.org/problems/product-of-two-numbers/1",
+  "difficulty": "Easy",
+  "tags": [],
+  "firstSolvedAt": "2026-09-09T11:28:06.000Z",
+  "lastSolvedAt": "2026-09-09T11:28:06.000Z",
+  "attempts": [
+    {
+      "sid": "product-of-two-numbers-3877d4180169",
+      "lang": "Python3",
+      "ts": 1788953286000,
+      "file": "solution_20260909_productoftwonumbers3877d4180169.py"
+    }
+  ]
+}

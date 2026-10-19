@@ -1,0 +1,18 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "0023",
+  "title": "Row with Max 1s in Rowwise Sorted",
+  "url": "https://www.geeksforgeeks.org/problems/row-with-max-1s0023/1",
+  "difficulty": "Medium",
+  "tags": [],
+  "firstSolvedAt": "2026-08-03T15:43:23.000Z",
+  "lastSolvedAt": "2026-08-03T15:43:23.000Z",
+  "attempts": [
+    {
+      "sid": "row-with-max-1s0023-6fa362b2640a",
+      "lang": "Python3",
+      "ts": 1785771803000,
+      "file": "solution_20260803_rowwithmax1s00236fa362b2640a.py"
+    }
+  ]
+}

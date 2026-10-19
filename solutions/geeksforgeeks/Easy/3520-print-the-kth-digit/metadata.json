@@ -1,18 +1,24 @@
 {
   "platform": "geeksforgeeks",
   "id": "3520",
-  "title": "Print The Kth Digit",
+  "title": "Find Kth Digit",
   "url": "https://www.geeksforgeeks.org/problems/print-the-kth-digit3520/1",
   "difficulty": "Easy",
   "tags": [],
   "firstSolvedAt": "2026-10-17T18:02:43.496Z",
-  "lastSolvedAt": "2026-10-17T18:02:43.496Z",
+  "lastSolvedAt": "2026-10-17T18:32:42.000Z",
   "attempts": [
     {
       "sid": "print-the-kth-digit3520-27c2ede29b23",
       "lang": "Python3",
       "ts": 1792260163496,
       "file": "solution_20261017_printthekthdigit352027c2ede29b23.py"
+    },
+    {
+      "sid": "print-the-kth-digit3520-21ed3a3bc510",
+      "lang": "Python3",
+      "ts": 1792261962000,
+      "file": "solution_20261017_printthekthdigit352021ed3a3bc510.py"
     }
   ]
 }

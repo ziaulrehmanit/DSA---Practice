@@ -1,0 +1,18 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "1945",
+  "title": "Remove Consonants",
+  "url": "https://www.geeksforgeeks.org/problems/c-program-to-remove-consonants-from-a-string1945/1",
+  "difficulty": "Easy",
+  "tags": [],
+  "firstSolvedAt": "2026-06-20T17:11:39.000Z",
+  "lastSolvedAt": "2026-06-20T17:11:39.000Z",
+  "attempts": [
+    {
+      "sid": "c-program-to-remove-consonants-from-a-string1945-3eea68f1dcdb",
+      "lang": "Python3",
+      "ts": 1781975499000,
+      "file": "solution_20260620_cprogramtoremoveconsonantsfromastring19453eea68f1dcdb.py"
+    }
+  ]
+}
