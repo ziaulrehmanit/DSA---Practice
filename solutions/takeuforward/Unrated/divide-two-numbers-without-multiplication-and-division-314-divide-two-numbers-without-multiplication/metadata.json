@@ -1,0 +1,18 @@
+{
+  "platform": "takeuforward",
+  "id": "divide-two-numbers-without-multiplication-and-division",
+  "title": "314. Divide two numbers without multiplication and divisionPOTD",
+  "url": "https://takeuforward.org/practice/dsa/divide-two-numbers-without-multiplication-and-division",
+  "difficulty": "Unrated",
+  "tags": [],
+  "firstSolvedAt": "2026-10-19T18:24:21.187Z",
+  "lastSolvedAt": "2026-10-19T18:24:21.187Z",
+  "attempts": [
+    {
+      "sid": "divide-two-numbers-without-multiplication-and-division-bfdcb6a52954",
+      "lang": "Python3",
+      "ts": 1792434261187,
+      "file": "solution_20261019_dividetwonumberswithoutmultiplicationanddivisionbfdcb6a52954.py"
+    }
+  ]
+}
