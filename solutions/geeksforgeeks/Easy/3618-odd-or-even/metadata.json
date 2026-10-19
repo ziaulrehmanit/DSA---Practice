@@ -1,0 +1,18 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "3618",
+  "title": "Odd or Even",
+  "url": "https://www.geeksforgeeks.org/problems/odd-or-even3618/1",
+  "difficulty": "Easy",
+  "tags": [],
+  "firstSolvedAt": "2025-10-11T10:48:27.000Z",
+  "lastSolvedAt": "2025-10-11T10:48:27.000Z",
+  "attempts": [
+    {
+      "sid": "odd-or-even3618-b537aeced074",
+      "lang": "Python3",
+      "ts": 1760179707000,
+      "file": "solution_20251011_oddoreven3618b537aeced074.py"
+    }
+  ]
+}

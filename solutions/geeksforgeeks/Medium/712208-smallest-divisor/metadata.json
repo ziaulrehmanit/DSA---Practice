@@ -1,0 +1,18 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "712208",
+  "title": "Smallest Divisor",
+  "url": "https://www.geeksforgeeks.org/problems/smallest-divisor/1",
+  "difficulty": "Medium",
+  "tags": [],
+  "firstSolvedAt": "2026-07-14T17:33:41.000Z",
+  "lastSolvedAt": "2026-07-14T17:33:41.000Z",
+  "attempts": [
+    {
+      "sid": "smallest-divisor-3c46a8a1089e",
+      "lang": "Python3",
+      "ts": 1784050421000,
+      "file": "solution_20260714_smallestdivisor3c46a8a1089e.py"
+    }
+  ]
+}

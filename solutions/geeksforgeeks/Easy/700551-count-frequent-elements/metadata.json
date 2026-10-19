@@ -1,0 +1,18 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "700551",
+  "title": "Count Frequent Elements",
+  "url": "https://www.geeksforgeeks.org/problems/count-element-occurences/1",
+  "difficulty": "Easy",
+  "tags": [],
+  "firstSolvedAt": "2026-04-30T11:39:06.000Z",
+  "lastSolvedAt": "2026-04-30T11:39:06.000Z",
+  "attempts": [
+    {
+      "sid": "count-element-occurences-2bf7bca3714f",
+      "lang": "Python3",
+      "ts": 1777549146000,
+      "file": "solution_20260430_countelementoccurences2bf7bca3714f.py"
+    }
+  ]
+}

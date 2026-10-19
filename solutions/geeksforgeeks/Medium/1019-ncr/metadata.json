@@ -1,0 +1,18 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "1019",
+  "title": "nCr",
+  "url": "https://www.geeksforgeeks.org/problems/ncr1019/1",
+  "difficulty": "Medium",
+  "tags": [],
+  "firstSolvedAt": "2025-10-27T17:01:19.000Z",
+  "lastSolvedAt": "2025-10-27T17:01:19.000Z",
+  "attempts": [
+    {
+      "sid": "ncr1019-16bb24e99969",
+      "lang": "Python3",
+      "ts": 1761584479000,
+      "file": "solution_20251027_ncr101916bb24e99969.py"
+    }
+  ]
+}
