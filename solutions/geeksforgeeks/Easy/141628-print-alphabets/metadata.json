@@ -1,0 +1,18 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "141628",
+  "title": "Print Alphabets",
+  "url": "https://www.geeksforgeeks.org/problems/print-alphabets--141628/1",
+  "difficulty": "Easy",
+  "tags": [],
+  "firstSolvedAt": "2025-08-24T10:22:48.000Z",
+  "lastSolvedAt": "2025-08-24T10:22:48.000Z",
+  "attempts": [
+    {
+      "sid": "print-alphabets--141628-8cec0fc2e077",
+      "lang": "Python3",
+      "ts": 1756030968000,
+      "file": "solution_20250824_printalphabets1416288cec0fc2e077.py"
+    }
+  ]
+}

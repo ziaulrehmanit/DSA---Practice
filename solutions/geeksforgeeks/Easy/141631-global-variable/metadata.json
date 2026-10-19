@@ -1,0 +1,24 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "141631",
+  "title": "Add - Auto Keyword",
+  "url": "https://www.geeksforgeeks.org/problems/add-auto-keyword--141631/1",
+  "difficulty": "Easy",
+  "tags": [],
+  "firstSolvedAt": "2025-12-26T17:40:11.000Z",
+  "lastSolvedAt": "2025-12-27T15:14:57.000Z",
+  "attempts": [
+    {
+      "sid": "add-auto-keyword--141631-91403ead77b6",
+      "lang": "C++",
+      "ts": 1766770811000,
+      "file": "solution_20251226_addautokeyword14163191403ead77b6.cpp"
+    },
+    {
+      "sid": "global-variable--141631-894405344463",
+      "lang": "C++",
+      "ts": 1766848497000,
+      "file": "solution_20251227_globalvariable141631894405344463.cpp"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "884308",
+  "title": "Median of 2 Sorted Arrays of Same Size",
+  "url": "https://www.geeksforgeeks.org/problems/median-of-2-sorted-arrays-of-same-size/1",
+  "difficulty": "Hard",
+  "tags": [],
+  "firstSolvedAt": "2026-07-23T18:28:07.000Z",
+  "lastSolvedAt": "2026-07-23T18:28:07.000Z",
+  "attempts": [
+    {
+      "sid": "median-of-2-sorted-arrays-of-same-size-ab55a4dcc54e",
+      "lang": "Python3",
+      "ts": 1784831287000,
+      "file": "solution_20260723_medianof2sortedarraysofsamesizeab55a4dcc54e.py"
+    }
+  ]
+}

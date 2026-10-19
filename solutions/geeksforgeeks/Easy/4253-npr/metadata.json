@@ -1,0 +1,18 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "4253",
+  "title": "nPr",
+  "url": "https://www.geeksforgeeks.org/problems/npr4253/1",
+  "difficulty": "Easy",
+  "tags": [],
+  "firstSolvedAt": "2025-12-17T06:36:32.000Z",
+  "lastSolvedAt": "2025-12-17T06:36:32.000Z",
+  "attempts": [
+    {
+      "sid": "npr4253-c6cca95d4645",
+      "lang": "Python3",
+      "ts": 1765953392000,
+      "file": "solution_20251217_npr4253c6cca95d4645.py"
+    }
+  ]
+}

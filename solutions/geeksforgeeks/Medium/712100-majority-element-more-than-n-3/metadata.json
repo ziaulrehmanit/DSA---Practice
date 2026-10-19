@@ -1,0 +1,18 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "712100",
+  "title": "Majority Element - More Than n/3",
+  "url": "https://www.geeksforgeeks.org/problems/majority-vote/1",
+  "difficulty": "Medium",
+  "tags": [],
+  "firstSolvedAt": "2026-05-02T07:57:37.000Z",
+  "lastSolvedAt": "2026-05-02T07:57:37.000Z",
+  "attempts": [
+    {
+      "sid": "majority-vote-ba8d4445a065",
+      "lang": "Python3",
+      "ts": 1777708657000,
+      "file": "solution_20260502_majorityvoteba8d4445a065.py"
+    }
+  ]
+}

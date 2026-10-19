@@ -1,0 +1,18 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "700955",
+  "title": "Slicing in String - Python",
+  "url": "https://www.geeksforgeeks.org/problems/slicing-in-string-python/1",
+  "difficulty": "Easy",
+  "tags": [],
+  "firstSolvedAt": "2025-08-24T09:54:40.000Z",
+  "lastSolvedAt": "2025-08-24T09:54:40.000Z",
+  "attempts": [
+    {
+      "sid": "slicing-in-string-python-57602d386d0a",
+      "lang": "Python3",
+      "ts": 1756029280000,
+      "file": "solution_20250824_slicinginstringpython57602d386d0a.py"
+    }
+  ]
+}

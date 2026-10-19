@@ -1,18 +1,30 @@
 {
   "platform": "geeksforgeeks",
   "id": "1587115620",
-  "title": "Linked List End Insertion",
-  "url": "https://www.geeksforgeeks.org/problems/linked-list-insertion-1587115620/1",
-  "difficulty": "Easy",
+  "title": "Kadane's Algorithm",
+  "url": "https://www.geeksforgeeks.org/problems/kadanes-algorithm-1587115620/1",
+  "difficulty": "Medium",
   "tags": [],
-  "firstSolvedAt": "2026-09-07T12:02:49.000Z",
-  "lastSolvedAt": "2026-09-07T12:02:49.000Z",
+  "firstSolvedAt": "2026-05-14T18:15:55.000Z",
+  "lastSolvedAt": "2026-09-29T21:59:02.000Z",
   "attempts": [
+    {
+      "sid": "kadanes-algorithm-1587115620-9f4e63f4b991",
+      "lang": "Python3",
+      "ts": 1778782555000,
+      "file": "solution_20260514_kadanesalgorithm15871156209f4e63f4b991.py"
+    },
     {
       "sid": "linked-list-insertion-1587115620-4b82f3a7df39",
       "lang": "Python3",
       "ts": 1788782569000,
       "file": "solution_20260907_linkedlistinsertion15871156204b82f3a7df39.py"
+    },
+    {
+      "sid": "maximum-occuring-character-1587115620-2e3c4f961a40",
+      "lang": "Python3",
+      "ts": 1790719142000,
+      "file": "solution_20260929_maximumoccuringcharacter15871156202e3c4f961a40.py"
     }
   ]
 }

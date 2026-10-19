@@ -1,0 +1,18 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "704533",
+  "title": "Less Than",
+  "url": "https://www.geeksforgeeks.org/problems/less-than/1",
+  "difficulty": "Easy",
+  "tags": [],
+  "firstSolvedAt": "2025-08-16T06:43:40.000Z",
+  "lastSolvedAt": "2025-08-16T06:43:40.000Z",
+  "attempts": [
+    {
+      "sid": "less-than-62e4b54c2e10",
+      "lang": "Python3",
+      "ts": 1755326620000,
+      "file": "solution_20250816_lessthan62e4b54c2e10.py"
+    }
+  ]
+}

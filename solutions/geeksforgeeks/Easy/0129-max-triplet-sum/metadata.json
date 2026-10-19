@@ -1,0 +1,18 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "0129",
+  "title": "Max Triplet Sum",
+  "url": "https://www.geeksforgeeks.org/problems/maximum-triplet-sum-in-array0129/1",
+  "difficulty": "Easy",
+  "tags": [],
+  "firstSolvedAt": "2026-07-26T18:36:05.000Z",
+  "lastSolvedAt": "2026-07-26T18:36:05.000Z",
+  "attempts": [
+    {
+      "sid": "maximum-triplet-sum-in-array0129-b1d079c68ba1",
+      "lang": "Python3",
+      "ts": 1785090965000,
+      "file": "solution_20260726_maximumtripletsuminarray0129b1d079c68ba1.py"
+    }
+  ]
+}

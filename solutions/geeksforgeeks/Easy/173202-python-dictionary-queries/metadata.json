@@ -1,0 +1,18 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "173202",
+  "title": "Python Dictionary Queries",
+  "url": "https://www.geeksforgeeks.org/problems/solving-queries--173202/1",
+  "difficulty": "Easy",
+  "tags": [],
+  "firstSolvedAt": "2025-08-03T04:12:44.000Z",
+  "lastSolvedAt": "2025-08-03T04:12:44.000Z",
+  "attempts": [
+    {
+      "sid": "solving-queries--173202-f1b6043876f1",
+      "lang": "Python3",
+      "ts": 1754194364000,
+      "file": "solution_20250803_solvingqueries173202f1b6043876f1.py"
+    }
+  ]
+}

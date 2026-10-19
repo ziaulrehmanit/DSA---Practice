@@ -1,0 +1,18 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "700005",
+  "title": "Reverse Linked List",
+  "url": "https://www.geeksforgeeks.org/problems/reverse-a-linked-list/1",
+  "difficulty": "Easy",
+  "tags": [],
+  "firstSolvedAt": "2026-10-09T16:29:45.000Z",
+  "lastSolvedAt": "2026-10-09T16:29:45.000Z",
+  "attempts": [
+    {
+      "sid": "reverse-a-linked-list-fd13a1af89c5",
+      "lang": "Python3",
+      "ts": 1791563385000,
+      "file": "solution_20261009_reversealinkedlistfd13a1af89c5.py"
+    }
+  ]
+}

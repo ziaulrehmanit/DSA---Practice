@@ -1,0 +1,18 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "710028",
+  "title": "Minimum Sum Subarray",
+  "url": "https://www.geeksforgeeks.org/problems/smallest-sum-contiguous-subarray/1",
+  "difficulty": "Medium",
+  "tags": [],
+  "firstSolvedAt": "2026-05-06T18:10:32.000Z",
+  "lastSolvedAt": "2026-05-06T18:10:32.000Z",
+  "attempts": [
+    {
+      "sid": "smallest-sum-contiguous-subarray-8032f42ba6e5",
+      "lang": "Python3",
+      "ts": 1778091032000,
+      "file": "solution_20260506_smallestsumcontiguoussubarray8032f42ba6e5.py"
+    }
+  ]
+}
