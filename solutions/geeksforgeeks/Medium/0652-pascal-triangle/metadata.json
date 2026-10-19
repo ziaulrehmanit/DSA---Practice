@@ -1,0 +1,18 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "0652",
+  "title": "Pascal Triangle",
+  "url": "https://www.geeksforgeeks.org/problems/pascal-triangle0652/1",
+  "difficulty": "Medium",
+  "tags": [],
+  "firstSolvedAt": "2026-04-30T11:25:28.000Z",
+  "lastSolvedAt": "2026-04-30T11:25:28.000Z",
+  "attempts": [
+    {
+      "sid": "pascal-triangle0652-6ade04dfdaf7",
+      "lang": "Python3",
+      "ts": 1777548328000,
+      "file": "solution_20260430_pascaltriangle06526ade04dfdaf7.py"
+    }
+  ]
+}

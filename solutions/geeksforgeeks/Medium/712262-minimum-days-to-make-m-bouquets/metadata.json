@@ -1,0 +1,18 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "712262",
+  "title": "Minimum Days to Make m Bouquets",
+  "url": "https://www.geeksforgeeks.org/problems/minimum-days-to-make-m-bouquets/1",
+  "difficulty": "Medium",
+  "tags": [],
+  "firstSolvedAt": "2026-07-13T18:02:32.000Z",
+  "lastSolvedAt": "2026-07-13T18:02:32.000Z",
+  "attempts": [
+    {
+      "sid": "minimum-days-to-make-m-bouquets-90b55c3402ba",
+      "lang": "Python3",
+      "ts": 1783965752000,
+      "file": "solution_20260713_minimumdaystomakembouquets90b55c3402ba.py"
+    }
+  ]
+}

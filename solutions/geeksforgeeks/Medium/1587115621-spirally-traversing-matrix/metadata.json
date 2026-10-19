@@ -1,0 +1,18 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "1587115621",
+  "title": "Spirally Traversing Matrix",
+  "url": "https://www.geeksforgeeks.org/problems/spirally-traversing-a-matrix-1587115621/1",
+  "difficulty": "Medium",
+  "tags": [],
+  "firstSolvedAt": "2026-04-27T19:26:03.000Z",
+  "lastSolvedAt": "2026-04-27T19:26:03.000Z",
+  "attempts": [
+    {
+      "sid": "spirally-traversing-a-matrix-1587115621-6443dfb591b7",
+      "lang": "Python3",
+      "ts": 1777317963000,
+      "file": "solution_20260427_spirallytraversingamatrix15871156216443dfb591b7.py"
+    }
+  ]
+}

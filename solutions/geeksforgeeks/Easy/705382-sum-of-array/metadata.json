@@ -1,0 +1,18 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "705382",
+  "title": "Sum of Array",
+  "url": "https://www.geeksforgeeks.org/problems/sum-all-array-elements/1",
+  "difficulty": "Easy",
+  "tags": [],
+  "firstSolvedAt": "2026-02-27T17:50:40.000Z",
+  "lastSolvedAt": "2026-02-27T17:50:40.000Z",
+  "attempts": [
+    {
+      "sid": "sum-all-array-elements-10e1b7346ac4",
+      "lang": "Python3",
+      "ts": 1772214640000,
+      "file": "solution_20260227_sumallarrayelements10e1b7346ac4.py"
+    }
+  ]
+}
