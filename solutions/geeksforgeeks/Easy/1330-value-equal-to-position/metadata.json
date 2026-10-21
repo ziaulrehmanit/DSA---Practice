@@ -1,0 +1,18 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "1330",
+  "title": "Value Equal to Position",
+  "url": "https://www.geeksforgeeks.org/problems/value-equal-to-index-value1330/1",
+  "difficulty": "Easy",
+  "tags": [],
+  "firstSolvedAt": "2026-05-31T09:27:40.000Z",
+  "lastSolvedAt": "2026-05-31T09:27:40.000Z",
+  "attempts": [
+    {
+      "sid": "value-equal-to-index-value1330-eb1e9cbe05f3",
+      "lang": "Python3",
+      "ts": 1780219660000,
+      "file": "solution_20260531_valueequaltoindexvalue1330eb1e9cbe05f3.py"
+    }
+  ]
+}

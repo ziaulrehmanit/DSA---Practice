@@ -1,0 +1,18 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "2550",
+  "title": "Count Zeros in Sorted",
+  "url": "https://www.geeksforgeeks.org/problems/count-the-zeros2550/1",
+  "difficulty": "Easy",
+  "tags": [],
+  "firstSolvedAt": "2026-07-28T18:08:43.000Z",
+  "lastSolvedAt": "2026-07-28T18:08:43.000Z",
+  "attempts": [
+    {
+      "sid": "count-the-zeros2550-219beafd1c6b",
+      "lang": "Python3",
+      "ts": 1785262123000,
+      "file": "solution_20260728_countthezeros2550219beafd1c6b.py"
+    }
+  ]
+}

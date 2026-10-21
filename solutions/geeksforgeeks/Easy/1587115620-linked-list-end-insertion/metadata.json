@@ -1,9 +1,9 @@
 {
   "platform": "geeksforgeeks",
   "id": "1587115620",
-  "title": "Kadane's Algorithm",
-  "url": "https://www.geeksforgeeks.org/problems/kadanes-algorithm-1587115620/1",
-  "difficulty": "Medium",
+  "title": "Array Leaders",
+  "url": "https://www.geeksforgeeks.org/problems/leaders-in-an-array-1587115620/1",
+  "difficulty": "Easy",
   "tags": [],
   "firstSolvedAt": "2026-05-14T18:15:55.000Z",
   "lastSolvedAt": "2026-09-29T21:59:02.000Z",
@@ -13,6 +13,18 @@
       "lang": "Python3",
       "ts": 1778782555000,
       "file": "solution_20260514_kadanesalgorithm15871156209f4e63f4b991.py"
+    },
+    {
+      "sid": "leaders-in-an-array-1587115620-e081a54dca12",
+      "lang": "Python3",
+      "ts": 1778869923000,
+      "file": "solution_20260515_leadersinanarray1587115620e081a54dca12.py"
+    },
+    {
+      "sid": "count-1s-in-binary-array-1587115620-9b30ec9a0b31",
+      "lang": "Python3",
+      "ts": 1785435108000,
+      "file": "solution_20260730_count1sinbinaryarray15871156209b30ec9a0b31.py"
     },
     {
       "sid": "linked-list-insertion-1587115620-4b82f3a7df39",

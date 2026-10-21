@@ -1,0 +1,18 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "700226",
+  "title": "Square Root",
+  "url": "https://www.geeksforgeeks.org/problems/square-root/1",
+  "difficulty": "Easy",
+  "tags": [],
+  "firstSolvedAt": "2026-04-16T17:14:33.000Z",
+  "lastSolvedAt": "2026-04-16T17:14:33.000Z",
+  "attempts": [
+    {
+      "sid": "square-root-931f36f9d599",
+      "lang": "Python3",
+      "ts": 1776359673000,
+      "file": "solution_20260416_squareroot931f36f9d599.py"
+    }
+  ]
+}

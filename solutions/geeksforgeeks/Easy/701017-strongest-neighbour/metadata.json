@@ -1,0 +1,18 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "701017",
+  "title": "Strongest Neighbour",
+  "url": "https://www.geeksforgeeks.org/problems/strongest-neighbour/1",
+  "difficulty": "Easy",
+  "tags": [],
+  "firstSolvedAt": "2026-05-30T06:10:26.000Z",
+  "lastSolvedAt": "2026-05-30T06:10:26.000Z",
+  "attempts": [
+    {
+      "sid": "strongest-neighbour-d12a35f3105a",
+      "lang": "Python3",
+      "ts": 1780121426000,
+      "file": "solution_20260530_strongestneighbourd12a35f3105a.py"
+    }
+  ]
+}

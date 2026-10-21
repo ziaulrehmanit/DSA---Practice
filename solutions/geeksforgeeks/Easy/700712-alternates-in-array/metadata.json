@@ -1,0 +1,18 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "700712",
+  "title": "Alternates in Array",
+  "url": "https://www.geeksforgeeks.org/problems/print-alternate-elements-of-an-array/1",
+  "difficulty": "Easy",
+  "tags": [],
+  "firstSolvedAt": "2026-05-31T09:36:04.000Z",
+  "lastSolvedAt": "2026-05-31T09:36:04.000Z",
+  "attempts": [
+    {
+      "sid": "print-alternate-elements-of-an-array-973e39d12c5c",
+      "lang": "Python3",
+      "ts": 1780220164000,
+      "file": "solution_20260531_printalternateelementsofanarray973e39d12c5c.py"
+    }
+  ]
+}

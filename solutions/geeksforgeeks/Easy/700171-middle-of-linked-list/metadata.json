@@ -1,0 +1,18 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "700171",
+  "title": "Middle of Linked List",
+  "url": "https://www.geeksforgeeks.org/problems/finding-middle-element-in-a-linked-list/1",
+  "difficulty": "Easy",
+  "tags": [],
+  "firstSolvedAt": "2026-09-08T09:57:09.000Z",
+  "lastSolvedAt": "2026-09-08T09:57:09.000Z",
+  "attempts": [
+    {
+      "sid": "finding-middle-element-in-a-linked-list-939c5608692d",
+      "lang": "Python3",
+      "ts": 1788861429000,
+      "file": "solution_20260908_findingmiddleelementinalinkedlist939c5608692d.py"
+    }
+  ]
+}

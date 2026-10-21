@@ -1,0 +1,18 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "1132",
+  "title": "Common in 3 Sorted",
+  "url": "https://www.geeksforgeeks.org/problems/common-elements1132/1",
+  "difficulty": "Easy",
+  "tags": [],
+  "firstSolvedAt": "2026-07-29T18:51:23.000Z",
+  "lastSolvedAt": "2026-07-29T18:51:23.000Z",
+  "attempts": [
+    {
+      "sid": "common-elements1132-f91be00c28dd",
+      "lang": "Python3",
+      "ts": 1785351083000,
+      "file": "solution_20260729_commonelements1132f91be00c28dd.py"
+    }
+  ]
+}
