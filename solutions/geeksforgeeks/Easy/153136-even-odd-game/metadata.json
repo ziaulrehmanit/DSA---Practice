@@ -1,0 +1,24 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "153136",
+  "title": "Even Odd Game",
+  "url": "https://www.geeksforgeeks.org/problems/even-odd-game--153136/1",
+  "difficulty": "Easy",
+  "tags": [],
+  "firstSolvedAt": "2025-07-12T07:32:07.000Z",
+  "lastSolvedAt": "2025-11-02T14:12:35.000Z",
+  "attempts": [
+    {
+      "sid": "even-odd-game--153136-e3e578312aa7",
+      "lang": "Python3",
+      "ts": 1752305527000,
+      "file": "solution_20250712_evenoddgame153136e3e578312aa7.py"
+    },
+    {
+      "sid": "even-odd-game--153136-da60fedd796e",
+      "lang": "C++",
+      "ts": 1762092755000,
+      "file": "solution_20251102_evenoddgame153136da60fedd796e.cpp"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "150919",
+  "title": "AP Term",
+  "url": "https://www.geeksforgeeks.org/problems/ap-term--150919/1",
+  "difficulty": "Easy",
+  "tags": [],
+  "firstSolvedAt": "2025-09-16T18:01:25.000Z",
+  "lastSolvedAt": "2025-09-16T18:01:25.000Z",
+  "attempts": [
+    {
+      "sid": "ap-term--150919-a56ec9f7f272",
+      "lang": "Python3",
+      "ts": 1758045685000,
+      "file": "solution_20250916_apterm150919a56ec9f7f272.py"
+    }
+  ]
+}
