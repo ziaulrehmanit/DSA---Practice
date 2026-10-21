@@ -1,0 +1,18 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "2",
+  "title": "Extend AP",
+  "url": "https://www.geeksforgeeks.org/problems/tuple-2/1",
+  "difficulty": "Medium",
+  "tags": [],
+  "firstSolvedAt": "2025-08-18T10:24:21.000Z",
+  "lastSolvedAt": "2025-08-18T10:24:21.000Z",
+  "attempts": [
+    {
+      "sid": "tuple-2-1a18e2042319",
+      "lang": "Python3",
+      "ts": 1755512661000,
+      "file": "solution_20250818_tuple21a18e2042319.py"
+    }
+  ]
+}

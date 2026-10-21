@@ -1,0 +1,18 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "700796",
+  "title": "Learn to Comment",
+  "url": "https://www.geeksforgeeks.org/problems/learn-to-comment/1",
+  "difficulty": "Easy",
+  "tags": [],
+  "firstSolvedAt": "2025-10-31T15:15:59.000Z",
+  "lastSolvedAt": "2025-10-31T15:15:59.000Z",
+  "attempts": [
+    {
+      "sid": "learn-to-comment-6b44353e52c4",
+      "lang": "C++",
+      "ts": 1761923759000,
+      "file": "solution_20251031_learntocomment6b44353e52c4.cpp"
+    }
+  ]
+}

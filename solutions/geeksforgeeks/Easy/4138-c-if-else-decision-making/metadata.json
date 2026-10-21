@@ -1,0 +1,18 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "4138",
+  "title": "C++ if-else (Decision Making)",
+  "url": "https://www.geeksforgeeks.org/problems/c-if-else-decision-making4138/1",
+  "difficulty": "Easy",
+  "tags": [],
+  "firstSolvedAt": "2025-11-07T16:52:14.000Z",
+  "lastSolvedAt": "2025-11-07T16:52:14.000Z",
+  "attempts": [
+    {
+      "sid": "c-if-else-decision-making4138-6ea7751a5e83",
+      "lang": "C++",
+      "ts": 1762534334000,
+      "file": "solution_20251107_cifelsedecisionmaking41386ea7751a5e83.cpp"
+    }
+  ]
+}

@@ -5,9 +5,15 @@
   "url": "https://www.geeksforgeeks.org/problems/print-alphabets--141628/1",
   "difficulty": "Easy",
   "tags": [],
-  "firstSolvedAt": "2025-08-24T10:22:48.000Z",
+  "firstSolvedAt": "2025-08-19T15:01:44.000Z",
   "lastSolvedAt": "2025-08-24T10:22:48.000Z",
   "attempts": [
+    {
+      "sid": "print-alphabets--141628-f1cd34db0023",
+      "lang": "Python3",
+      "ts": 1755615704000,
+      "file": "solution_20250819_printalphabets141628f1cd34db0023.py"
+    },
     {
       "sid": "print-alphabets--141628-8cec0fc2e077",
       "lang": "Python3",

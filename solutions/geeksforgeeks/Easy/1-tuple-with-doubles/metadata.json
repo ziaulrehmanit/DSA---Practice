@@ -1,0 +1,18 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "1",
+  "title": "Tuple with Doubles",
+  "url": "https://www.geeksforgeeks.org/problems/tuple-1/1",
+  "difficulty": "Easy",
+  "tags": [],
+  "firstSolvedAt": "2025-08-18T04:56:10.000Z",
+  "lastSolvedAt": "2025-08-18T04:56:10.000Z",
+  "attempts": [
+    {
+      "sid": "tuple-1-b430947ada1f",
+      "lang": "Python3",
+      "ts": 1755492970000,
+      "file": "solution_20250818_tuple1b430947ada1f.py"
+    }
+  ]
+}

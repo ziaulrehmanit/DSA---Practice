@@ -1,0 +1,18 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "5728",
+  "title": "Closest to n and Divisible by m",
+  "url": "https://www.geeksforgeeks.org/problems/closest-number5728/1",
+  "difficulty": "Easy",
+  "tags": [],
+  "firstSolvedAt": "2025-10-29T16:42:07.000Z",
+  "lastSolvedAt": "2025-10-29T16:42:07.000Z",
+  "attempts": [
+    {
+      "sid": "closest-number5728-a41fd6ee96ad",
+      "lang": "Python3",
+      "ts": 1761756127000,
+      "file": "solution_20251029_closestnumber5728a41fd6ee96ad.py"
+    }
+  ]
+}
