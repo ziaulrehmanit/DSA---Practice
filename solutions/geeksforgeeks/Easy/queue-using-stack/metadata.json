@@ -1,0 +1,18 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "queue-using-stack",
+  "title": "Queue using Stack",
+  "url": "https://www.geeksforgeeks.org/problems/queue-using-stack/1",
+  "difficulty": "Easy",
+  "tags": [],
+  "firstSolvedAt": "2026-10-21T18:32:37.142Z",
+  "lastSolvedAt": "2026-10-21T18:32:37.142Z",
+  "attempts": [
+    {
+      "sid": "queue-using-stack-a2a3a371f579",
+      "lang": "Python3",
+      "ts": 1792607557142,
+      "file": "solution_20261021_queueusingstacka2a3a371f579.py"
+    }
+  ]
+}
