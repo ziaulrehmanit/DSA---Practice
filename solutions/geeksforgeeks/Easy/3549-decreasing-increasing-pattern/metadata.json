@@ -1,0 +1,18 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "3549",
+  "title": "Decreasing Increasing Pattern",
+  "url": "https://www.geeksforgeeks.org/problems/print-pattern3549/1",
+  "difficulty": "Easy",
+  "tags": [],
+  "firstSolvedAt": "2026-05-12T16:29:43.000Z",
+  "lastSolvedAt": "2026-05-12T16:29:43.000Z",
+  "attempts": [
+    {
+      "sid": "print-pattern3549-770fdad25fdc",
+      "lang": "Python3",
+      "ts": 1778603383000,
+      "file": "solution_20260512_printpattern3549770fdad25fdc.py"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "0055",
+  "title": "Sort Array",
+  "url": "https://www.geeksforgeeks.org/problems/sort-the-array0055/1",
+  "difficulty": "Easy",
+  "tags": [],
+  "firstSolvedAt": "2026-02-13T16:23:29.000Z",
+  "lastSolvedAt": "2026-02-13T16:23:29.000Z",
+  "attempts": [
+    {
+      "sid": "sort-the-array0055-0215dae50d8a",
+      "lang": "Python3",
+      "ts": 1770999809000,
+      "file": "solution_20260213_sortthearray00550215dae50d8a.py"
+    }
+  ]
+}

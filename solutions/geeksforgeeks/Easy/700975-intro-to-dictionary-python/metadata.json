@@ -1,0 +1,18 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "700975",
+  "title": "Intro to Dictionary - Python",
+  "url": "https://www.geeksforgeeks.org/problems/intro-to-dictionary-python/1",
+  "difficulty": "Easy",
+  "tags": [],
+  "firstSolvedAt": "2025-09-09T12:07:45.000Z",
+  "lastSolvedAt": "2025-09-09T12:07:45.000Z",
+  "attempts": [
+    {
+      "sid": "intro-to-dictionary-python-9703be17c6ea",
+      "lang": "Python3",
+      "ts": 1757419665000,
+      "file": "solution_20250909_introtodictionarypython9703be17c6ea.py"
+    }
+  ]
+}

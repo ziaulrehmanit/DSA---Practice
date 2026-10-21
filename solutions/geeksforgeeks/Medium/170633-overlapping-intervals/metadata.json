@@ -1,0 +1,18 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "170633",
+  "title": "Overlapping Intervals",
+  "url": "https://www.geeksforgeeks.org/problems/overlapping-intervals--170633/1",
+  "difficulty": "Medium",
+  "tags": [],
+  "firstSolvedAt": "2026-05-17T18:35:30.000Z",
+  "lastSolvedAt": "2026-05-17T18:35:30.000Z",
+  "attempts": [
+    {
+      "sid": "overlapping-intervals--170633-089a8ca47fff",
+      "lang": "Python3",
+      "ts": 1779042930000,
+      "file": "solution_20260517_overlappingintervals170633089a8ca47fff.py"
+    }
+  ]
+}

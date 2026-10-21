@@ -1,0 +1,18 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "0316",
+  "title": "Reverse Digits",
+  "url": "https://www.geeksforgeeks.org/problems/reverse-digit0316/1",
+  "difficulty": "Easy",
+  "tags": [],
+  "firstSolvedAt": "2026-02-06T17:25:22.000Z",
+  "lastSolvedAt": "2026-02-06T17:25:22.000Z",
+  "attempts": [
+    {
+      "sid": "reverse-digit0316-678ea243f606",
+      "lang": "Python3",
+      "ts": 1770398722000,
+      "file": "solution_20260206_reversedigit0316678ea243f606.py"
+    }
+  ]
+}

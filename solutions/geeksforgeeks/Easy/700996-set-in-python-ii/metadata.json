@@ -1,0 +1,18 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "700996",
+  "title": "Set in Python - II",
+  "url": "https://www.geeksforgeeks.org/problems/set-in-python-ii/1",
+  "difficulty": "Easy",
+  "tags": [],
+  "firstSolvedAt": "2025-09-10T13:35:32.000Z",
+  "lastSolvedAt": "2025-09-10T13:35:32.000Z",
+  "attempts": [
+    {
+      "sid": "set-in-python-ii-019495c97f1a",
+      "lang": "Python3",
+      "ts": 1757511332000,
+      "file": "solution_20250910_setinpythonii019495c97f1a.py"
+    }
+  ]
+}
