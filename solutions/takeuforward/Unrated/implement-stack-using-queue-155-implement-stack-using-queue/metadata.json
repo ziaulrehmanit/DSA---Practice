@@ -1,0 +1,18 @@
+{
+  "platform": "takeuforward",
+  "id": "implement-stack-using-queue",
+  "title": "155. Implement Stack using Queue",
+  "url": "https://takeuforward.org/practice/dsa/implement-stack-using-queue",
+  "difficulty": "Unrated",
+  "tags": [],
+  "firstSolvedAt": "2026-10-21T17:16:29.083Z",
+  "lastSolvedAt": "2026-10-21T17:16:29.083Z",
+  "attempts": [
+    {
+      "sid": "implement-stack-using-queue-781b21444d68",
+      "lang": "Python3",
+      "ts": 1792602989083,
+      "file": "solution_20261021_implementstackusingqueue781b21444d68.py"
+    }
+  ]
+}
