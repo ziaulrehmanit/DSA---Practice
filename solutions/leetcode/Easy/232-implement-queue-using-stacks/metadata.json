@@ -1,0 +1,32 @@
+{
+  "platform": "leetcode",
+  "id": "232",
+  "title": "Implement Queue using Stacks",
+  "url": "https://leetcode.com/problems/implement-queue-using-stacks/",
+  "difficulty": "Easy",
+  "tags": [
+    "Stack",
+    "Design",
+    "Queue"
+  ],
+  "firstSolvedAt": "2026-10-21T17:07:47.000Z",
+  "lastSolvedAt": "2026-10-21T17:13:39.000Z",
+  "attempts": [
+    {
+      "sid": "2178171519",
+      "lang": "Python3",
+      "ts": 1792602467000,
+      "file": "solution_20261021_2178171519.py",
+      "runtimeMs": 0,
+      "memoryKb": 19020
+    },
+    {
+      "sid": "2178177791",
+      "lang": "Python3",
+      "ts": 1792602819000,
+      "file": "solution_20261021_2178177791.py",
+      "runtimeMs": 0,
+      "memoryKb": 18926
+    }
+  ]
+}
