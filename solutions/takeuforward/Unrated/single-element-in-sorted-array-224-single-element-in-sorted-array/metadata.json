@@ -1,0 +1,18 @@
+{
+  "platform": "takeuforward",
+  "id": "single-element-in-sorted-array",
+  "title": "224. Single element in sorted array",
+  "url": "https://takeuforward.org/practice/dsa/single-element-in-sorted-array",
+  "difficulty": "Unrated",
+  "tags": [],
+  "firstSolvedAt": "2026-10-22T16:23:00.987Z",
+  "lastSolvedAt": "2026-10-22T16:23:00.987Z",
+  "attempts": [
+    {
+      "sid": "single-element-in-sorted-array-58ac4f665b33",
+      "lang": "Python3",
+      "ts": 1792686180987,
+      "file": "solution_20261022_singleelementinsortedarray58ac4f665b33.py"
+    }
+  ]
+}
