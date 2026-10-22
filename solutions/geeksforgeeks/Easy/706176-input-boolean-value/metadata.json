@@ -1,0 +1,18 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "706176",
+  "title": "Input Boolean Value",
+  "url": "https://www.geeksforgeeks.org/problems/input-boolean-value/1",
+  "difficulty": "Easy",
+  "tags": [],
+  "firstSolvedAt": "2026-09-19T08:25:35.000Z",
+  "lastSolvedAt": "2026-09-19T08:25:35.000Z",
+  "attempts": [
+    {
+      "sid": "input-boolean-value-94ed5e40cd0e",
+      "lang": "Python3",
+      "ts": 1789806335000,
+      "file": "solution_20260919_inputbooleanvalue94ed5e40cd0e.py"
+    }
+  ]
+}

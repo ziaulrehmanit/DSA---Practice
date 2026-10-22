@@ -1,0 +1,24 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "3857",
+  "title": "Reverse Sum Palindrome",
+  "url": "https://www.geeksforgeeks.org/problems/sum-palindrome3857/1",
+  "difficulty": "Easy",
+  "tags": [],
+  "firstSolvedAt": "2026-08-28T16:50:31.000Z",
+  "lastSolvedAt": "2026-08-29T16:55:45.000Z",
+  "attempts": [
+    {
+      "sid": "sum-palindrome3857-1b8d3c1269a3",
+      "lang": "Python3",
+      "ts": 1787935831000,
+      "file": "solution_20260828_sumpalindrome38571b8d3c1269a3.py"
+    },
+    {
+      "sid": "count-even-substrings3857-c7b82446a804",
+      "lang": "Python3",
+      "ts": 1788022545000,
+      "file": "solution_20260829_countevensubstrings3857c7b82446a804.py"
+    }
+  ]
+}

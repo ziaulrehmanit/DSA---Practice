@@ -1,0 +1,18 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "0915",
+  "title": "Cube Root",
+  "url": "https://www.geeksforgeeks.org/problems/cube-root-of-a-number0915/1",
+  "difficulty": "Easy",
+  "tags": [],
+  "firstSolvedAt": "2026-08-30T14:25:35.000Z",
+  "lastSolvedAt": "2026-08-30T14:25:35.000Z",
+  "attempts": [
+    {
+      "sid": "cube-root-of-a-number0915-36f5ad41a993",
+      "lang": "Python3",
+      "ts": 1788099935000,
+      "file": "solution_20260830_cuberootofanumber091536f5ad41a993.py"
+    }
+  ]
+}

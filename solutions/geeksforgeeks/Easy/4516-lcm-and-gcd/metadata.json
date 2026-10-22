@@ -1,0 +1,18 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "4516",
+  "title": "LCM And GCD",
+  "url": "https://www.geeksforgeeks.org/problems/lcm-and-gcd4516/1",
+  "difficulty": "Easy",
+  "tags": [],
+  "firstSolvedAt": "2026-08-27T18:23:28.000Z",
+  "lastSolvedAt": "2026-08-27T18:23:28.000Z",
+  "attempts": [
+    {
+      "sid": "lcm-and-gcd4516-35f033b1ec33",
+      "lang": "Python3",
+      "ts": 1787855008000,
+      "file": "solution_20260827_lcmandgcd451635f033b1ec33.py"
+    }
+  ]
+}
