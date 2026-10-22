@@ -1,0 +1,18 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "900158",
+  "title": "Sort by Frequency",
+  "url": "https://www.geeksforgeeks.org/problems/sort-string-according-to-increasing-frequency/1",
+  "difficulty": "Medium",
+  "tags": [],
+  "firstSolvedAt": "2026-08-16T18:31:11.000Z",
+  "lastSolvedAt": "2026-08-16T18:31:11.000Z",
+  "attempts": [
+    {
+      "sid": "sort-string-according-to-increasing-frequency-4bac30481964",
+      "lang": "Python3",
+      "ts": 1786905071000,
+      "file": "solution_20260816_sortstringaccordingtoincreasingfrequency4bac30481964.py"
+    }
+  ]
+}

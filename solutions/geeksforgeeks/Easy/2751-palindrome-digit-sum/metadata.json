@@ -1,0 +1,18 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "2751",
+  "title": "Palindrome Digit Sum",
+  "url": "https://www.geeksforgeeks.org/problems/sum-of-digit-is-pallindrome-or-not2751/1",
+  "difficulty": "Easy",
+  "tags": [],
+  "firstSolvedAt": "2026-09-14T17:20:20.000Z",
+  "lastSolvedAt": "2026-09-14T17:20:20.000Z",
+  "attempts": [
+    {
+      "sid": "sum-of-digit-is-pallindrome-or-not2751-661099e87f50",
+      "lang": "Python3",
+      "ts": 1789406420000,
+      "file": "solution_20260914_sumofdigitispallindromeornot2751661099e87f50.py"
+    }
+  ]
+}

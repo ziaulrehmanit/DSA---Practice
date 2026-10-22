@@ -1,0 +1,18 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "141634",
+  "title": "Split Array Largest Sum",
+  "url": "https://www.geeksforgeeks.org/problems/split-array-largest-sum--141634/1",
+  "difficulty": "Hard",
+  "tags": [],
+  "firstSolvedAt": "2026-07-20T14:55:28.000Z",
+  "lastSolvedAt": "2026-07-20T14:55:28.000Z",
+  "attempts": [
+    {
+      "sid": "split-array-largest-sum--141634-8e6b7faddf3e",
+      "lang": "Python3",
+      "ts": 1784559328000,
+      "file": "solution_20260720_splitarraylargestsum1416348e6b7faddf3e.py"
+    }
+  ]
+}

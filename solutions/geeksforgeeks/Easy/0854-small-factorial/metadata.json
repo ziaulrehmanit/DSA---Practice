@@ -1,0 +1,18 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "0854",
+  "title": "Small Factorial",
+  "url": "https://www.geeksforgeeks.org/problems/small-factorial0854/1",
+  "difficulty": "Easy",
+  "tags": [],
+  "firstSolvedAt": "2026-10-22T16:40:12.000Z",
+  "lastSolvedAt": "2026-10-22T16:40:12.000Z",
+  "attempts": [
+    {
+      "sid": "small-factorial0854-a1488f271f86",
+      "lang": "Python3",
+      "ts": 1792687212000,
+      "file": "solution_20261022_smallfactorial0854a1488f271f86.py"
+    }
+  ]
+}

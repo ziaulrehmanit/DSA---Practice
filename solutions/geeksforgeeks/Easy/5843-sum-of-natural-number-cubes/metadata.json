@@ -1,0 +1,18 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "5843",
+  "title": "Sum of Natural Number Cubes",
+  "url": "https://www.geeksforgeeks.org/problems/sum-of-first-n-terms5843/1",
+  "difficulty": "Easy",
+  "tags": [],
+  "firstSolvedAt": "2026-08-14T17:10:38.000Z",
+  "lastSolvedAt": "2026-08-14T17:10:38.000Z",
+  "attempts": [
+    {
+      "sid": "sum-of-first-n-terms5843-bb2e22862182",
+      "lang": "Python3",
+      "ts": 1786727438000,
+      "file": "solution_20260814_sumoffirstnterms5843bb2e22862182.py"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "702124",
+  "title": "Delete Head of Doubly Linked List",
+  "url": "https://www.geeksforgeeks.org/problems/delete-head-of-doubly-linked-list/1",
+  "difficulty": "Easy",
+  "tags": [],
+  "firstSolvedAt": "2026-09-12T07:07:56.000Z",
+  "lastSolvedAt": "2026-09-12T07:07:56.000Z",
+  "attempts": [
+    {
+      "sid": "delete-head-of-doubly-linked-list-aaea585c884a",
+      "lang": "Python3",
+      "ts": 1789196876000,
+      "file": "solution_20260912_deleteheadofdoublylinkedlistaaea585c884a.py"
+    }
+  ]
+}

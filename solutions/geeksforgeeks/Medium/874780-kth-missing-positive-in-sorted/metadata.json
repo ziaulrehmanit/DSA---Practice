@@ -1,0 +1,18 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "874780",
+  "title": "Kth Missing Positive in Sorted",
+  "url": "https://www.geeksforgeeks.org/problems/kth-missing-positive-number-in-a-sorted-array/1",
+  "difficulty": "Medium",
+  "tags": [],
+  "firstSolvedAt": "2026-07-15T19:56:43.000Z",
+  "lastSolvedAt": "2026-07-15T19:56:43.000Z",
+  "attempts": [
+    {
+      "sid": "kth-missing-positive-number-in-a-sorted-array-51654b9a91df",
+      "lang": "Python3",
+      "ts": 1784145403000,
+      "file": "solution_20260715_kthmissingpositivenumberinasortedarray51654b9a91df.py"
+    }
+  ]
+}
