@@ -1,0 +1,18 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "node-at-a-given-index-in-linked-list",
+  "title": "Node at Given Index",
+  "url": "https://www.geeksforgeeks.org/problems/node-at-a-given-index-in-linked-list/1",
+  "difficulty": "Easy",
+  "tags": [],
+  "firstSolvedAt": "2026-10-23T16:16:10.730Z",
+  "lastSolvedAt": "2026-10-23T16:16:10.730Z",
+  "attempts": [
+    {
+      "sid": "node-at-a-given-index-in-linked-list-1c6cf5363d44",
+      "lang": "Python3",
+      "ts": 1792772170730,
+      "file": "solution_20261023_nodeatagivenindexinlinkedlist1c6cf5363d44.py"
+    }
+  ]
+}
