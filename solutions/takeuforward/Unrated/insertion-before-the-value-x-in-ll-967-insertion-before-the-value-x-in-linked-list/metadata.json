@@ -1,0 +1,18 @@
+{
+  "platform": "takeuforward",
+  "id": "insertion-before-the-value-x-in-ll",
+  "title": "967. Insertion before the value X in Linked List",
+  "url": "https://takeuforward.org/practice/dsa/insertion-before-the-value-x-in-ll",
+  "difficulty": "Unrated",
+  "tags": [],
+  "firstSolvedAt": "2026-10-23T16:10:02.383Z",
+  "lastSolvedAt": "2026-10-23T16:10:02.383Z",
+  "attempts": [
+    {
+      "sid": "insertion-before-the-value-x-in-ll-5f2b9d43e807",
+      "lang": "Python3",
+      "ts": 1792771802383,
+      "file": "solution_20261023_insertionbeforethevaluexinll5f2b9d43e807.py"
+    }
+  ]
+}
