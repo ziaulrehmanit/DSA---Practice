@@ -10,7 +10,7 @@
     "Prefix Sum"
   ],
   "firstSolvedAt": "2026-10-23T16:21:37.000Z",
-  "lastSolvedAt": "2026-10-23T16:21:37.000Z",
+  "lastSolvedAt": "2026-10-23T16:21:59.000Z",
   "attempts": [
     {
       "sid": "2179816425",
@@ -19,6 +19,14 @@
       "file": "solution_20261023_2179816425.py",
       "runtimeMs": 6,
       "memoryKb": 21961
+    },
+    {
+      "sid": "2179816717",
+      "lang": "Python3",
+      "ts": 1792772519000,
+      "file": "solution_20261023_2179816717.py",
+      "runtimeMs": 0,
+      "memoryKb": 22012
     }
   ]
 }

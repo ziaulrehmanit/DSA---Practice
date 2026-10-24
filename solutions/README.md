@@ -1,6 +1,6 @@
 # Solutions
 
-**352** problems · **439** accepted submissions
+**352** problems · **440** accepted submissions
 
 | Platform | Problems |
 |---|---:|
@@ -19,7 +19,7 @@
 
 | Date | Platform | Problem | Difficulty | Attempts |
 |---|---|---|---|---:|
-| 2026-10-23 | leetcode | [303\. Range Sum Query \- Immutable](./leetcode/Easy/303-range-sum-query-immutable) | Easy | 1 |
+| 2026-10-23 | leetcode | [303\. Range Sum Query \- Immutable](./leetcode/Easy/303-range-sum-query-immutable) | Easy | 2 |
 | 2026-10-23 | geeksforgeeks | [node\-at\-a\-given\-index\-in\-linked\-list\. Node at Given Index](./geeksforgeeks/Easy/node-at-a-given-index-in-linked-list-node-at-given-index) | Easy | 1 |
 | 2026-10-23 | takeuforward | [insertion\-before\-the\-value\-x\-in\-ll\. 967\. Insertion before the value X in Linked List](./takeuforward/Unrated/insertion-before-the-value-x-in-ll-967-insertion-before-the-value-x-in-linked-list) | Unrated | 1 |
 | 2026-10-22 | geeksforgeeks | [0854\. Small Factorial](./geeksforgeeks/Easy/0854-small-factorial) | Easy | 1 |
