@@ -1,0 +1,18 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "function-with-arguments-1605762259",
+  "title": "Function With Arguments",
+  "url": "https://www.geeksforgeeks.org/problems/function-with-arguments-1605762259/1",
+  "difficulty": "Easy",
+  "tags": [],
+  "firstSolvedAt": "2025-08-02T12:31:21.000Z",
+  "lastSolvedAt": "2025-08-02T12:31:21.000Z",
+  "attempts": [
+    {
+      "sid": "function-with-arguments-1605762259-cd7d2659c540",
+      "lang": "Python3",
+      "ts": 1754137881000,
+      "file": "solution_20250802_functionwitharguments1605762259cd7d2659c540.py"
+    }
+  ]
+}

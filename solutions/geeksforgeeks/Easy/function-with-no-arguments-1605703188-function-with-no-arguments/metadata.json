@@ -1,0 +1,18 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "function-with-no-arguments-1605703188",
+  "title": "Function With No Arguments",
+  "url": "https://www.geeksforgeeks.org/problems/function-with-no-arguments-1605703188/1",
+  "difficulty": "Easy",
+  "tags": [],
+  "firstSolvedAt": "2025-08-02T12:28:09.000Z",
+  "lastSolvedAt": "2025-08-02T12:28:09.000Z",
+  "attempts": [
+    {
+      "sid": "function-with-no-arguments-1605703188-ed4031871c50",
+      "lang": "Python3",
+      "ts": 1754137689000,
+      "file": "solution_20250802_functionwithnoarguments1605703188ed4031871c50.py"
+    }
+  ]
+}

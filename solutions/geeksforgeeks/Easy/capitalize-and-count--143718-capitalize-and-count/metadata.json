@@ -1,0 +1,18 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "capitalize-and-count--143718",
+  "title": "Capitalize and Count",
+  "url": "https://www.geeksforgeeks.org/problems/capitalize-and-count--143718/1",
+  "difficulty": "Easy",
+  "tags": [],
+  "firstSolvedAt": "2025-07-31T03:13:06.000Z",
+  "lastSolvedAt": "2025-07-31T03:13:06.000Z",
+  "attempts": [
+    {
+      "sid": "capitalize-and-count--143718-3ae7a7ec990f",
+      "lang": "Python3",
+      "ts": 1753931586000,
+      "file": "solution_20250731_capitalizeandcount1437183ae7a7ec990f.py"
+    }
+  ]
+}

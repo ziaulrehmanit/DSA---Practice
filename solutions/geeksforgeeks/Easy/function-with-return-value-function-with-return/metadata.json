@@ -1,0 +1,18 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "function-with-return-value",
+  "title": "Function With Return",
+  "url": "https://www.geeksforgeeks.org/problems/function-with-return-value/1",
+  "difficulty": "Easy",
+  "tags": [],
+  "firstSolvedAt": "2025-08-02T12:17:51.000Z",
+  "lastSolvedAt": "2025-08-02T12:17:51.000Z",
+  "attempts": [
+    {
+      "sid": "function-with-return-value-bc5367471dc5",
+      "lang": "Python3",
+      "ts": 1754137071000,
+      "file": "solution_20250802_functionwithreturnvaluebc5367471dc5.py"
+    }
+  ]
+}

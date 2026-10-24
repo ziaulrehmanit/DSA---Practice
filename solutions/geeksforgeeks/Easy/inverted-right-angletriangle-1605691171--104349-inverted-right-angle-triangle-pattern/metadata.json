@@ -1,0 +1,48 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "inverted-right-angletriangle-1605691171--104349",
+  "title": "Inverted Right Angle Triangle Pattern",
+  "url": "https://www.geeksforgeeks.org/problems/inverted-right-angletriangle-1605691171--104349/1",
+  "difficulty": "Easy",
+  "tags": [],
+  "firstSolvedAt": "2025-07-29T11:12:00.000Z",
+  "lastSolvedAt": "2026-05-24T18:18:23.000Z",
+  "attempts": [
+    {
+      "sid": "inverted-right-angletriangle-1605691171--104349-1c12d2f99683",
+      "lang": "Python3",
+      "ts": 1753787520000,
+      "file": "solution_20250729_invertedrightangletriangle16056911711043491c12d2f99683.py"
+    },
+    {
+      "sid": "inverted-right-angletriangle-1605691171--104349-4d4c37e9ba82",
+      "lang": "C++",
+      "ts": 1764932067000,
+      "file": "solution_20251205_invertedrightangletriangle16056911711043494d4c37e9ba82.cpp"
+    },
+    {
+      "sid": "inverted-right-angletriangle-1605691171--104349-4f4d69f96f11",
+      "lang": "Python3",
+      "ts": 1777912407000,
+      "file": "solution_20260504_invertedrightangletriangle16056911711043494f4d69f96f11.py"
+    },
+    {
+      "sid": "inverted-right-angletriangle-1605691171--104349-e021e3f7f39e",
+      "lang": "Python3",
+      "ts": 1777912636000,
+      "file": "solution_20260504_invertedrightangletriangle1605691171104349e021e3f7f39e.py"
+    },
+    {
+      "sid": "inverted-right-angletriangle-1605691171--104349-34a80b658085",
+      "lang": "Python3",
+      "ts": 1778174128000,
+      "file": "solution_20260507_invertedrightangletriangle160569117110434934a80b658085.py"
+    },
+    {
+      "sid": "inverted-right-angletriangle-1605691171--104349-8ecf278806be",
+      "lang": "Python3",
+      "ts": 1779646703000,
+      "file": "solution_20260524_invertedrightangletriangle16056911711043498ecf278806be.py"
+    }
+  ]
+}

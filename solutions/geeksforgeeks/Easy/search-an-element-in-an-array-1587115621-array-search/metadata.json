@@ -1,0 +1,30 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "search-an-element-in-an-array-1587115621",
+  "title": "Array Search",
+  "url": "https://www.geeksforgeeks.org/problems/search-an-element-in-an-array-1587115621/1",
+  "difficulty": "Easy",
+  "tags": [],
+  "firstSolvedAt": "2025-07-31T05:41:09.000Z",
+  "lastSolvedAt": "2026-07-03T18:53:58.000Z",
+  "attempts": [
+    {
+      "sid": "search-an-element-in-an-array-1587115621-cfa3fdc9ca95",
+      "lang": "Python3",
+      "ts": 1753940469000,
+      "file": "solution_20250731_searchanelementinanarray1587115621cfa3fdc9ca95.py"
+    },
+    {
+      "sid": "search-an-element-in-an-array-1587115621-820992792382",
+      "lang": "Python3",
+      "ts": 1771871380000,
+      "file": "solution_20260223_searchanelementinanarray1587115621820992792382.py"
+    },
+    {
+      "sid": "search-an-element-in-an-array-1587115621-d3306121c568",
+      "lang": "Python3",
+      "ts": 1783104838000,
+      "file": "solution_20260703_searchanelementinanarray1587115621d3306121c568.py"
+    }
+  ]
+}
