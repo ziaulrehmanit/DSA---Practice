@@ -1,0 +1,18 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "deletion-at-the-end-of-a-linked-list",
+  "title": "Deletion at End of Linked List",
+  "url": "https://www.geeksforgeeks.org/problems/deletion-at-the-end-of-a-linked-list/1",
+  "difficulty": "Easy",
+  "tags": [],
+  "firstSolvedAt": "2026-09-07T12:46:06.000Z",
+  "lastSolvedAt": "2026-09-07T12:46:06.000Z",
+  "attempts": [
+    {
+      "sid": "deletion-at-the-end-of-a-linked-list-cb06601f26ae",
+      "lang": "Python3",
+      "ts": 1788785166000,
+      "file": "solution_20260907_deletionattheendofalinkedlistcb06601f26ae.py"
+    }
+  ]
+}

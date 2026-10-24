@@ -1,0 +1,18 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "strong-numbers4336",
+  "title": "Strong Numbers",
+  "url": "https://www.geeksforgeeks.org/problems/strong-numbers4336/1",
+  "difficulty": "Easy",
+  "tags": [],
+  "firstSolvedAt": "2026-09-04T18:56:46.000Z",
+  "lastSolvedAt": "2026-09-04T18:56:46.000Z",
+  "attempts": [
+    {
+      "sid": "strong-numbers4336-16da989f5c0c",
+      "lang": "Python3",
+      "ts": 1788548206000,
+      "file": "solution_20260904_strongnumbers433616da989f5c0c.py"
+    }
+  ]
+}

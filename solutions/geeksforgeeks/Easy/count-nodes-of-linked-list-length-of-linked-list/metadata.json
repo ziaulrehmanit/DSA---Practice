@@ -1,0 +1,18 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "count-nodes-of-linked-list",
+  "title": "Length of Linked List",
+  "url": "https://www.geeksforgeeks.org/problems/count-nodes-of-linked-list/1",
+  "difficulty": "Easy",
+  "tags": [],
+  "firstSolvedAt": "2026-09-08T08:10:37.000Z",
+  "lastSolvedAt": "2026-09-08T08:10:37.000Z",
+  "attempts": [
+    {
+      "sid": "count-nodes-of-linked-list-96b7e45de999",
+      "lang": "Python3",
+      "ts": 1788855037000,
+      "file": "solution_20260908_countnodesoflinkedlist96b7e45de999.py"
+    }
+  ]
+}

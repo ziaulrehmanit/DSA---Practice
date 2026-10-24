@@ -1,0 +1,18 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "power-of-four",
+  "title": "Power of Four",
+  "url": "https://www.geeksforgeeks.org/problems/power-of-four/1",
+  "difficulty": "Easy",
+  "tags": [],
+  "firstSolvedAt": "2026-09-05T18:15:19.000Z",
+  "lastSolvedAt": "2026-09-05T18:15:19.000Z",
+  "attempts": [
+    {
+      "sid": "power-of-four-9f1677119e16",
+      "lang": "Python3",
+      "ts": 1788632119000,
+      "file": "solution_20260905_poweroffour9f1677119e16.py"
+    }
+  ]
+}

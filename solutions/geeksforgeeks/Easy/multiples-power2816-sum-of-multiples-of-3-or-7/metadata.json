@@ -1,0 +1,18 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "multiples-power2816",
+  "title": "Sum of Multiples of 3 or 7",
+  "url": "https://www.geeksforgeeks.org/problems/multiples-power2816/1",
+  "difficulty": "Easy",
+  "tags": [],
+  "firstSolvedAt": "2026-09-06T18:05:30.000Z",
+  "lastSolvedAt": "2026-09-06T18:05:30.000Z",
+  "attempts": [
+    {
+      "sid": "multiples-power2816-1ad78542c27f",
+      "lang": "Python3",
+      "ts": 1788717930000,
+      "file": "solution_20260906_multiplespower28161ad78542c27f.py"
+    }
+  ]
+}

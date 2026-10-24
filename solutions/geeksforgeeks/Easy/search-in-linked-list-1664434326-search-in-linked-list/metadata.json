@@ -1,0 +1,18 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "search-in-linked-list-1664434326",
+  "title": "Search in Linked List",
+  "url": "https://www.geeksforgeeks.org/problems/search-in-linked-list-1664434326/1",
+  "difficulty": "Easy",
+  "tags": [],
+  "firstSolvedAt": "2026-09-08T08:09:16.000Z",
+  "lastSolvedAt": "2026-09-08T08:09:16.000Z",
+  "attempts": [
+    {
+      "sid": "search-in-linked-list-1664434326-304bbc3dc7f4",
+      "lang": "Python3",
+      "ts": 1788854956000,
+      "file": "solution_20260908_searchinlinkedlist1664434326304bbc3dc7f4.py"
+    }
+  ]
+}

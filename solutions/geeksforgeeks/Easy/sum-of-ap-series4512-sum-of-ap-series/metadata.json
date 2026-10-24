@@ -1,0 +1,18 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "sum-of-ap-series4512",
+  "title": "Sum of AP series",
+  "url": "https://www.geeksforgeeks.org/problems/sum-of-ap-series4512/1",
+  "difficulty": "Easy",
+  "tags": [],
+  "firstSolvedAt": "2026-09-03T18:49:34.000Z",
+  "lastSolvedAt": "2026-09-03T18:49:34.000Z",
+  "attempts": [
+    {
+      "sid": "sum-of-ap-series4512-d5cf84b75cea",
+      "lang": "Python3",
+      "ts": 1788461374000,
+      "file": "solution_20260903_sumofapseries4512d5cf84b75cea.py"
+    }
+  ]
+}
