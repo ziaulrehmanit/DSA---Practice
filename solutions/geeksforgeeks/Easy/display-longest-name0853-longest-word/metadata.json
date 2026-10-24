@@ -1,0 +1,18 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "display-longest-name0853",
+  "title": "Longest Word",
+  "url": "https://www.geeksforgeeks.org/problems/display-longest-name0853/1",
+  "difficulty": "Easy",
+  "tags": [],
+  "firstSolvedAt": "2026-06-11T08:38:32.000Z",
+  "lastSolvedAt": "2026-06-11T08:38:32.000Z",
+  "attempts": [
+    {
+      "sid": "display-longest-name0853-65c03513cfc3",
+      "lang": "Python3",
+      "ts": 1781167112000,
+      "file": "solution_20260611_displaylongestname085365c03513cfc3.py"
+    }
+  ]
+}

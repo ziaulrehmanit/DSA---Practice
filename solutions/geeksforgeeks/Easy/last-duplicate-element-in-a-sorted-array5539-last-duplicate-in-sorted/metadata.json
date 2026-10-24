@@ -1,0 +1,18 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "last-duplicate-element-in-a-sorted-array5539",
+  "title": "Last Duplicate in Sorted",
+  "url": "https://www.geeksforgeeks.org/problems/last-duplicate-element-in-a-sorted-array5539/1",
+  "difficulty": "Easy",
+  "tags": [],
+  "firstSolvedAt": "2026-06-12T17:37:04.000Z",
+  "lastSolvedAt": "2026-06-12T17:37:04.000Z",
+  "attempts": [
+    {
+      "sid": "last-duplicate-element-in-a-sorted-array5539-2c268ed6fd7b",
+      "lang": "Python3",
+      "ts": 1781285824000,
+      "file": "solution_20260612_lastduplicateelementinasortedarray55392c268ed6fd7b.py"
+    }
+  ]
+}

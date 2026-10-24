@@ -1,0 +1,18 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "floor-in-a-sorted-array-1587115620",
+  "title": "Floor in Sorted Array",
+  "url": "https://www.geeksforgeeks.org/problems/floor-in-a-sorted-array-1587115620/1",
+  "difficulty": "Easy",
+  "tags": [],
+  "firstSolvedAt": "2026-06-22T18:39:22.000Z",
+  "lastSolvedAt": "2026-06-22T18:39:22.000Z",
+  "attempts": [
+    {
+      "sid": "floor-in-a-sorted-array-1587115620-e91ae0541dda",
+      "lang": "Python3",
+      "ts": 1782153562000,
+      "file": "solution_20260622_floorinasortedarray1587115620e91ae0541dda.py"
+    }
+  ]
+}

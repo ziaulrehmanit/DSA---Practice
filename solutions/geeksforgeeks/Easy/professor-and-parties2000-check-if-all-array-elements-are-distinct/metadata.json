@@ -1,0 +1,18 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "professor-and-parties2000",
+  "title": "Check if all array elements are distinct",
+  "url": "https://www.geeksforgeeks.org/problems/professor-and-parties2000/1",
+  "difficulty": "Easy",
+  "tags": [],
+  "firstSolvedAt": "2026-05-31T09:39:29.000Z",
+  "lastSolvedAt": "2026-05-31T09:39:29.000Z",
+  "attempts": [
+    {
+      "sid": "professor-and-parties2000-becabc087842",
+      "lang": "Python3",
+      "ts": 1780220369000,
+      "file": "solution_20260531_professorandparties2000becabc087842.py"
+    }
+  ]
+}

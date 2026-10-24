@@ -1,0 +1,18 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "angle-between-hour-and-minute-hand0545",
+  "title": "Hour and Minute Hands Angle",
+  "url": "https://www.geeksforgeeks.org/problems/angle-between-hour-and-minute-hand0545/1",
+  "difficulty": "Medium",
+  "tags": [],
+  "firstSolvedAt": "2026-06-18T18:17:39.000Z",
+  "lastSolvedAt": "2026-06-18T18:17:39.000Z",
+  "attempts": [
+    {
+      "sid": "angle-between-hour-and-minute-hand0545-7a6d32151980",
+      "lang": "Python3",
+      "ts": 1781806659000,
+      "file": "solution_20260618_anglebetweenhourandminutehand05457a6d32151980.py"
+    }
+  ]
+}
