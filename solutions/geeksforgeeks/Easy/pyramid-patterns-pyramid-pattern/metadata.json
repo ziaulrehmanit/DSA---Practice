@@ -1,0 +1,24 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "pyramid-patterns",
+  "title": "Pyramid Pattern",
+  "url": "https://www.geeksforgeeks.org/problems/pyramid-patterns/1",
+  "difficulty": "Easy",
+  "tags": [],
+  "firstSolvedAt": "2026-05-05T18:36:33.000Z",
+  "lastSolvedAt": "2026-05-18T16:58:37.000Z",
+  "attempts": [
+    {
+      "sid": "pyramid-patterns-47fb52960977",
+      "lang": "Python3",
+      "ts": 1778006193000,
+      "file": "solution_20260505_pyramidpatterns47fb52960977.py"
+    },
+    {
+      "sid": "pyramid-patterns-417a2f0b7069",
+      "lang": "Python3",
+      "ts": 1779123517000,
+      "file": "solution_20260518_pyramidpatterns417a2f0b7069.py"
+    }
+  ]
+}

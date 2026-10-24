@@ -1,0 +1,18 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "triplet-sum-in-array-1587115621",
+  "title": "Triplet Sum in Array",
+  "url": "https://www.geeksforgeeks.org/problems/triplet-sum-in-array-1587115621/1",
+  "difficulty": "Medium",
+  "tags": [],
+  "firstSolvedAt": "2026-05-05T21:16:21.000Z",
+  "lastSolvedAt": "2026-05-05T21:16:21.000Z",
+  "attempts": [
+    {
+      "sid": "triplet-sum-in-array-1587115621-5c4c5efe2e50",
+      "lang": "Python3",
+      "ts": 1778015781000,
+      "file": "solution_20260505_tripletsuminarray15871156215c4c5efe2e50.py"
+    }
+  ]
+}

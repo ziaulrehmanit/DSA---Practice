@@ -1,0 +1,18 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "count-sorted-rows2702",
+  "title": "Count Sorted Rows",
+  "url": "https://www.geeksforgeeks.org/problems/count-sorted-rows2702/1",
+  "difficulty": "Easy",
+  "tags": [],
+  "firstSolvedAt": "2026-04-22T18:26:38.000Z",
+  "lastSolvedAt": "2026-04-22T18:26:38.000Z",
+  "attempts": [
+    {
+      "sid": "count-sorted-rows2702-33666925cbe8",
+      "lang": "Python3",
+      "ts": 1776882398000,
+      "file": "solution_20260422_countsortedrows270233666925cbe8.py"
+    }
+  ]
+}

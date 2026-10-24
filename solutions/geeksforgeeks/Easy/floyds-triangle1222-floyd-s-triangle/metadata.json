@@ -1,0 +1,18 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "floyds-triangle1222",
+  "title": "Floyd's Triangle",
+  "url": "https://www.geeksforgeeks.org/problems/floyds-triangle1222/1",
+  "difficulty": "Easy",
+  "tags": [],
+  "firstSolvedAt": "2026-05-06T15:51:07.000Z",
+  "lastSolvedAt": "2026-05-06T15:51:07.000Z",
+  "attempts": [
+    {
+      "sid": "floyds-triangle1222-381bc39da386",
+      "lang": "Python3",
+      "ts": 1778082667000,
+      "file": "solution_20260506_floydstriangle1222381bc39da386.py"
+    }
+  ]
+}

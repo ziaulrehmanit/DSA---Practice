@@ -1,0 +1,18 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "row-with-minimum-number-of-1s5430",
+  "title": "Row with Minimum 1s",
+  "url": "https://www.geeksforgeeks.org/problems/row-with-minimum-number-of-1s5430/1",
+  "difficulty": "Easy",
+  "tags": [],
+  "firstSolvedAt": "2026-04-22T18:52:28.000Z",
+  "lastSolvedAt": "2026-04-22T18:52:28.000Z",
+  "attempts": [
+    {
+      "sid": "row-with-minimum-number-of-1s5430-71f85c83dd79",
+      "lang": "Python3",
+      "ts": 1776883948000,
+      "file": "solution_20260422_rowwithminimumnumberof1s543071f85c83dd79.py"
+    }
+  ]
+}

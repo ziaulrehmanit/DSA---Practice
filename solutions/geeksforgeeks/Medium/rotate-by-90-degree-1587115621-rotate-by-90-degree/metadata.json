@@ -1,0 +1,18 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "rotate-by-90-degree-1587115621",
+  "title": "Rotate by 90 degree",
+  "url": "https://www.geeksforgeeks.org/problems/rotate-by-90-degree-1587115621/1",
+  "difficulty": "Medium",
+  "tags": [],
+  "firstSolvedAt": "2026-04-22T17:34:35.000Z",
+  "lastSolvedAt": "2026-04-22T17:34:35.000Z",
+  "attempts": [
+    {
+      "sid": "rotate-by-90-degree-1587115621-4b72339f315a",
+      "lang": "Python3",
+      "ts": 1776879275000,
+      "file": "solution_20260422_rotateby90degree15871156214b72339f315a.py"
+    }
+  ]
+}
