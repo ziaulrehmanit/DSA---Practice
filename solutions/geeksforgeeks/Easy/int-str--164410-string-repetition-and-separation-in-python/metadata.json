@@ -1,0 +1,18 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "int-str--164410",
+  "title": "String Repetition and Separation in Python",
+  "url": "https://www.geeksforgeeks.org/problems/int-str--164410/1",
+  "difficulty": "Easy",
+  "tags": [],
+  "firstSolvedAt": "2025-07-04T03:02:46.000Z",
+  "lastSolvedAt": "2025-07-04T03:02:46.000Z",
+  "attempts": [
+    {
+      "sid": "int-str--164410-0c5c47607aa6",
+      "lang": "Python3",
+      "ts": 1751598166000,
+      "file": "solution_20250704_intstr1644100c5c47607aa6.py"
+    }
+  ]
+}

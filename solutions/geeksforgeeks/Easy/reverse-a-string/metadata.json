@@ -5,9 +5,15 @@
   "url": "https://www.geeksforgeeks.org/problems/reverse-a-string/1",
   "difficulty": "Easy",
   "tags": [],
-  "firstSolvedAt": "2025-08-24T10:45:19.000Z",
+  "firstSolvedAt": "2025-07-05T20:12:08.000Z",
   "lastSolvedAt": "2026-03-28T18:45:20.000Z",
   "attempts": [
+    {
+      "sid": "reverse-a-string-822900c29963",
+      "lang": "Python3",
+      "ts": 1751746328000,
+      "file": "solution_20250705_reverseastring822900c29963.py"
+    },
     {
       "sid": "reverse-a-string-3e1948fbedc0",
       "lang": "Python3",

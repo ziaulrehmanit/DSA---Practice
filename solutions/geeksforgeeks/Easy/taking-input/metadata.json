@@ -1,0 +1,36 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "taking-input",
+  "title": "Taking Input",
+  "url": "https://www.geeksforgeeks.org/problems/taking-input/1",
+  "difficulty": "Easy",
+  "tags": [],
+  "firstSolvedAt": "2025-07-04T11:08:15.000Z",
+  "lastSolvedAt": "2025-07-05T21:16:11.000Z",
+  "attempts": [
+    {
+      "sid": "taking-input-c8664baba4e0",
+      "lang": "Python3",
+      "ts": 1751627295000,
+      "file": "solution_20250704_takinginputc8664baba4e0.py"
+    },
+    {
+      "sid": "taking-input-6de2fdfc2c08",
+      "lang": "Python3",
+      "ts": 1751749908000,
+      "file": "solution_20250705_takinginput6de2fdfc2c08.py"
+    },
+    {
+      "sid": "taking-input-ba2dcca672e8",
+      "lang": "Python3",
+      "ts": 1751749972000,
+      "file": "solution_20250705_takinginputba2dcca672e8.py"
+    },
+    {
+      "sid": "taking-input-fdeaa7acf99b",
+      "lang": "Python3",
+      "ts": 1751750171000,
+      "file": "solution_20250705_takinginputfdeaa7acf99b.py"
+    }
+  ]
+}

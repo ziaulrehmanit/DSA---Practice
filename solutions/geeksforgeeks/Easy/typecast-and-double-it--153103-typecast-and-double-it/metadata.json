@@ -1,0 +1,18 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "typecast-and-double-it--153103",
+  "title": "TypeCast And Double It",
+  "url": "https://www.geeksforgeeks.org/problems/typecast-and-double-it--153103/1",
+  "difficulty": "Easy",
+  "tags": [],
+  "firstSolvedAt": "2025-07-02T12:19:36.000Z",
+  "lastSolvedAt": "2025-07-02T12:19:36.000Z",
+  "attempts": [
+    {
+      "sid": "typecast-and-double-it--153103-34c088c37adc",
+      "lang": "Python3",
+      "ts": 1751458776000,
+      "file": "solution_20250702_typecastanddoubleit15310334c088c37adc.py"
+    }
+  ]
+}

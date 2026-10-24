@@ -1,0 +1,24 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "implement-set-in-python--160443",
+  "title": "Implement Set in Python",
+  "url": "https://www.geeksforgeeks.org/problems/implement-set-in-python--160443/1",
+  "difficulty": "Easy",
+  "tags": [],
+  "firstSolvedAt": "2025-07-02T11:47:16.000Z",
+  "lastSolvedAt": "2025-10-24T19:13:48.000Z",
+  "attempts": [
+    {
+      "sid": "implement-set-in-python--160443-3e5047c31852",
+      "lang": "Python3",
+      "ts": 1751456836000,
+      "file": "solution_20250702_implementsetinpython1604433e5047c31852.py"
+    },
+    {
+      "sid": "implement-set-in-python--160443-35c8ed1e23a1",
+      "lang": "Python3",
+      "ts": 1761333228000,
+      "file": "solution_20251024_implementsetinpython16044335c8ed1e23a1.py"
+    }
+  ]
+}
