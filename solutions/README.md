@@ -1,16 +1,16 @@
 # Solutions
 
-**594** problems · **746** accepted submissions
+**596** problems · **748** accepted submissions
 
 | Platform | Problems |
 |---|---:|
-| geeksforgeeks | 376 |
+| geeksforgeeks | 378 |
 | leetcode | 212 |
 | takeuforward | 6 |
 
 | Difficulty | Problems |
 |---|---:|
-| Easy | 453 |
+| Easy | 455 |
 | Medium | 124 |
 | Hard | 11 |
 | Unrated | 6 |

@@ -1,0 +1,18 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "test-if-tuple-is-distinct",
+  "title": "Test if tuple is distinct",
+  "url": "https://www.geeksforgeeks.org/problems/test-if-tuple-is-distinct/1",
+  "difficulty": "Easy",
+  "tags": [],
+  "firstSolvedAt": "2025-07-01T20:11:29.000Z",
+  "lastSolvedAt": "2025-07-01T20:11:29.000Z",
+  "attempts": [
+    {
+      "sid": "test-if-tuple-is-distinct-c64f11fe1d16",
+      "lang": "Python3",
+      "ts": 1751400689000,
+      "file": "solution_20250701_testiftupleisdistinctc64f11fe1d16.py"
+    }
+  ]
+}

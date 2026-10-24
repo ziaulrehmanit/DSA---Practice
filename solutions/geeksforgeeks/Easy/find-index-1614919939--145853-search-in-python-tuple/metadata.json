@@ -1,0 +1,18 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "find-index-1614919939--145853",
+  "title": "Search in Python Tuple",
+  "url": "https://www.geeksforgeeks.org/problems/find-index-1614919939--145853/1",
+  "difficulty": "Easy",
+  "tags": [],
+  "firstSolvedAt": "2025-07-01T20:17:07.000Z",
+  "lastSolvedAt": "2025-07-01T20:17:07.000Z",
+  "attempts": [
+    {
+      "sid": "find-index-1614919939--145853-c68e33337707",
+      "lang": "Python3",
+      "ts": 1751401027000,
+      "file": "solution_20250701_findindex1614919939145853c68e33337707.py"
+    }
+  ]
+}
