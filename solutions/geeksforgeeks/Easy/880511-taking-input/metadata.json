@@ -1,0 +1,18 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "880511",
+  "title": "Taking Input",
+  "url": "https://www.geeksforgeeks.org/problems/taking-input/1",
+  "difficulty": "Easy",
+  "tags": [],
+  "firstSolvedAt": "2025-11-02T13:55:35.000Z",
+  "lastSolvedAt": "2025-11-02T13:55:35.000Z",
+  "attempts": [
+    {
+      "sid": "taking-input-c0d045632ec0",
+      "lang": "C++",
+      "ts": 1762091735000,
+      "file": "solution_20251102_takinginputc0d045632ec0.cpp"
+    }
+  ]
+}

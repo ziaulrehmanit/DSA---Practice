@@ -1,0 +1,18 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "879280",
+  "title": "Special Functions In Python",
+  "url": "https://www.geeksforgeeks.org/problems/special-functions-in-python/1",
+  "difficulty": "Easy",
+  "tags": [],
+  "firstSolvedAt": "2025-10-03T17:28:01.000Z",
+  "lastSolvedAt": "2025-10-03T17:28:01.000Z",
+  "attempts": [
+    {
+      "sid": "special-functions-in-python-586d19b17dd5",
+      "lang": "Python3",
+      "ts": 1759512481000,
+      "file": "solution_20251003_specialfunctionsinpython586d19b17dd5.py"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "135255",
+  "title": "Bitwise Operators",
+  "url": "https://www.geeksforgeeks.org/problems/bitwise-operators-1597314674--135255/1",
+  "difficulty": "Easy",
+  "tags": [],
+  "firstSolvedAt": "2025-10-08T18:40:08.000Z",
+  "lastSolvedAt": "2025-10-08T18:40:08.000Z",
+  "attempts": [
+    {
+      "sid": "bitwise-operators-1597314674--135255-01a74ac05224",
+      "lang": "Python3",
+      "ts": 1759948808000,
+      "file": "solution_20251008_bitwiseoperators159731467413525501a74ac05224.py"
+    }
+  ]
+}

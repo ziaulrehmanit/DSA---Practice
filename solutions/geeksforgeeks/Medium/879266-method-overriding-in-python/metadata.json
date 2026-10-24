@@ -1,0 +1,18 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "879266",
+  "title": "Method Overriding in Python",
+  "url": "https://www.geeksforgeeks.org/problems/method-overriding-in-python/1",
+  "difficulty": "Medium",
+  "tags": [],
+  "firstSolvedAt": "2025-09-30T17:24:16.000Z",
+  "lastSolvedAt": "2025-09-30T17:24:16.000Z",
+  "attempts": [
+    {
+      "sid": "method-overriding-in-python-e232c97478bd",
+      "lang": "Python3",
+      "ts": 1759253056000,
+      "file": "solution_20250930_methodoverridinginpythone232c97478bd.py"
+    }
+  ]
+}

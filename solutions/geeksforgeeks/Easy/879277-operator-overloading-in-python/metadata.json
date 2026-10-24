@@ -1,0 +1,18 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "879277",
+  "title": "Operator Overloading In Python",
+  "url": "https://www.geeksforgeeks.org/problems/operator-overloading-in-python/1",
+  "difficulty": "Easy",
+  "tags": [],
+  "firstSolvedAt": "2025-10-02T10:26:20.000Z",
+  "lastSolvedAt": "2025-10-02T10:26:20.000Z",
+  "attempts": [
+    {
+      "sid": "operator-overloading-in-python-56c03bf0238c",
+      "lang": "Python3",
+      "ts": 1759400780000,
+      "file": "solution_20251002_operatoroverloadinginpython56c03bf0238c.py"
+    }
+  ]
+}

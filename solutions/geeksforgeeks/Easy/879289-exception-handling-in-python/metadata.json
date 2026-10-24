@@ -1,0 +1,18 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "879289",
+  "title": "Exception Handling In Python",
+  "url": "https://www.geeksforgeeks.org/problems/exception-handling-in-python/1",
+  "difficulty": "Easy",
+  "tags": [],
+  "firstSolvedAt": "2025-10-10T13:40:20.000Z",
+  "lastSolvedAt": "2025-10-10T13:40:20.000Z",
+  "attempts": [
+    {
+      "sid": "exception-handling-in-python-19d5b75c5205",
+      "lang": "Python3",
+      "ts": 1760103620000,
+      "file": "solution_20251010_exceptionhandlinginpython19d5b75c5205.py"
+    }
+  ]
+}

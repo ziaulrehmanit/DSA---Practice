@@ -1,0 +1,18 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "879282",
+  "title": "Print ascii value in python",
+  "url": "https://www.geeksforgeeks.org/problems/print-ascii-value-in-python/1",
+  "difficulty": "Easy",
+  "tags": [],
+  "firstSolvedAt": "2025-10-04T17:56:59.000Z",
+  "lastSolvedAt": "2025-10-04T17:56:59.000Z",
+  "attempts": [
+    {
+      "sid": "print-ascii-value-in-python-b08cdf06c2f9",
+      "lang": "Python3",
+      "ts": 1759600619000,
+      "file": "solution_20251004_printasciivalueinpythonb08cdf06c2f9.py"
+    }
+  ]
+}

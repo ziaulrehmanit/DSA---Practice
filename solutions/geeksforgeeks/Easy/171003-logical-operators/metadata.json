@@ -1,0 +1,18 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "171003",
+  "title": "Logical Operators",
+  "url": "https://www.geeksforgeeks.org/problems/logical-operators-1597313687--171003/1",
+  "difficulty": "Easy",
+  "tags": [],
+  "firstSolvedAt": "2025-07-05T17:39:40.000Z",
+  "lastSolvedAt": "2025-07-05T17:39:40.000Z",
+  "attempts": [
+    {
+      "sid": "logical-operators-1597313687--171003-6d446290e39f",
+      "lang": "Python3",
+      "ts": 1751737180000,
+      "file": "solution_20250705_logicaloperators15973136871710036d446290e39f.py"
+    }
+  ]
+}
