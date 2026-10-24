@@ -1,0 +1,48 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "right-angle-triangle-1605685807",
+  "title": "Solid Right Angle Triangle Pattern",
+  "url": "https://www.geeksforgeeks.org/problems/right-angle-triangle-1605685807/1",
+  "difficulty": "Easy",
+  "tags": [],
+  "firstSolvedAt": "2025-12-06T10:55:14.000Z",
+  "lastSolvedAt": "2026-05-25T16:13:49.000Z",
+  "attempts": [
+    {
+      "sid": "right-angle-triangle-1605685807-2b7fe79783ab",
+      "lang": "C++",
+      "ts": 1765018514000,
+      "file": "solution_20251206_rightangletriangle16056858072b7fe79783ab.cpp"
+    },
+    {
+      "sid": "right-angle-triangle-1605685807-0cf70042449b",
+      "lang": "Python3",
+      "ts": 1777834225000,
+      "file": "solution_20260503_rightangletriangle16056858070cf70042449b.py"
+    },
+    {
+      "sid": "right-angle-triangle-1605685807-146b51cbb282",
+      "lang": "Python3",
+      "ts": 1777834372000,
+      "file": "solution_20260503_rightangletriangle1605685807146b51cbb282.py"
+    },
+    {
+      "sid": "right-angle-triangle-1605685807-5ae2a4728806",
+      "lang": "Python3",
+      "ts": 1778082458000,
+      "file": "solution_20260506_rightangletriangle16056858075ae2a4728806.py"
+    },
+    {
+      "sid": "right-angle-triangle-1605685807-4fe9ae59ad71",
+      "lang": "Python3",
+      "ts": 1778174232000,
+      "file": "solution_20260507_rightangletriangle16056858074fe9ae59ad71.py"
+    },
+    {
+      "sid": "right-angle-triangle-1605685807-df94b3f835ba",
+      "lang": "Python3",
+      "ts": 1779725629000,
+      "file": "solution_20260525_rightangletriangle1605685807df94b3f835ba.py"
+    }
+  ]
+}

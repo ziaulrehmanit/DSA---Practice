@@ -1,0 +1,18 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "sort-an-array-of-0s-1s-and-2s4231",
+  "title": "Sort 0s, 1s and 2s",
+  "url": "https://www.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s4231/1",
+  "difficulty": "Medium",
+  "tags": [],
+  "firstSolvedAt": "2025-12-13T07:04:55.000Z",
+  "lastSolvedAt": "2025-12-13T07:04:55.000Z",
+  "attempts": [
+    {
+      "sid": "sort-an-array-of-0s-1s-and-2s4231-d755aed9d247",
+      "lang": "Python3",
+      "ts": 1765609495000,
+      "file": "solution_20251213_sortanarrayof0s1sand2s4231d755aed9d247.py"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "return-size--141631",
+  "title": "Sizes of Data Types",
+  "url": "https://www.geeksforgeeks.org/problems/return-size--141631/1",
+  "difficulty": "Easy",
+  "tags": [],
+  "firstSolvedAt": "2025-11-22T13:08:33.000Z",
+  "lastSolvedAt": "2025-11-22T13:08:33.000Z",
+  "attempts": [
+    {
+      "sid": "return-size--141631-5282a2191fc0",
+      "lang": "C++",
+      "ts": 1763816913000,
+      "file": "solution_20251122_returnsize1416315282a2191fc0.cpp"
+    }
+  ]
+}
