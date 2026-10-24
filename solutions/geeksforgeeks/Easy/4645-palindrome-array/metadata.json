@@ -1,0 +1,18 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "4645",
+  "title": "Palindrome Array",
+  "url": "https://www.geeksforgeeks.org/problems/perfect-arrays4645/1",
+  "difficulty": "Easy",
+  "tags": [],
+  "firstSolvedAt": "2026-10-12T13:50:30.000Z",
+  "lastSolvedAt": "2026-10-12T13:50:30.000Z",
+  "attempts": [
+    {
+      "sid": "perfect-arrays4645-dcffd807e1b0",
+      "lang": "Python3",
+      "ts": 1791813030000,
+      "file": "solution_20261012_perfectarrays4645dcffd807e1b0.py"
+    }
+  ]
+}

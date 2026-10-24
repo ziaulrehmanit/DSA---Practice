@@ -1,0 +1,18 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "5500",
+  "title": "Swap kth elements",
+  "url": "https://www.geeksforgeeks.org/problems/swap-kth-elements5500/1",
+  "difficulty": "Easy",
+  "tags": [],
+  "firstSolvedAt": "2026-08-03T10:52:58.000Z",
+  "lastSolvedAt": "2026-08-03T10:52:58.000Z",
+  "attempts": [
+    {
+      "sid": "swap-kth-elements5500-7453a186c7df",
+      "lang": "Python3",
+      "ts": 1785754378000,
+      "file": "solution_20260803_swapkthelements55007453a186c7df.py"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "4021",
+  "title": "Number and the Digit Sum",
+  "url": "https://www.geeksforgeeks.org/problems/number-and-the-digit-sum4021/1",
+  "difficulty": "Easy",
+  "tags": [],
+  "firstSolvedAt": "2026-10-13T16:21:18.000Z",
+  "lastSolvedAt": "2026-10-13T16:21:18.000Z",
+  "attempts": [
+    {
+      "sid": "number-and-the-digit-sum4021-040f9b10975a",
+      "lang": "Python3",
+      "ts": 1791908478000,
+      "file": "solution_20261013_numberandthedigitsum4021040f9b10975a.py"
+    }
+  ]
+}

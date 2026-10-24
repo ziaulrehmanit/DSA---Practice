@@ -1,8 +1,8 @@
 {
   "platform": "geeksforgeeks",
   "id": "1587115620",
-  "title": "Array Leaders",
-  "url": "https://www.geeksforgeeks.org/problems/leaders-in-an-array-1587115620/1",
+  "title": "Mean And Median of Array",
+  "url": "https://www.geeksforgeeks.org/problems/mean-and-median-1587115620/1",
   "difficulty": "Easy",
   "tags": [],
   "firstSolvedAt": "2026-05-14T18:15:55.000Z",
@@ -25,6 +25,12 @@
       "lang": "Python3",
       "ts": 1785435108000,
       "file": "solution_20260730_count1sinbinaryarray15871156209b30ec9a0b31.py"
+    },
+    {
+      "sid": "mean-and-median-1587115620-5b24ef399775",
+      "lang": "Python3",
+      "ts": 1785750578000,
+      "file": "solution_20260803_meanandmedian15871156205b24ef399775.py"
     },
     {
       "sid": "linked-list-insertion-1587115620-4b82f3a7df39",

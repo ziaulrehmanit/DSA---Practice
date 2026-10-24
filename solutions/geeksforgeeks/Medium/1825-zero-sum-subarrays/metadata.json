@@ -1,0 +1,18 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "1825",
+  "title": "Zero Sum Subarrays",
+  "url": "https://www.geeksforgeeks.org/problems/zero-sum-subarrays1825/1",
+  "difficulty": "Medium",
+  "tags": [],
+  "firstSolvedAt": "2026-04-29T16:27:30.000Z",
+  "lastSolvedAt": "2026-04-29T16:27:30.000Z",
+  "attempts": [
+    {
+      "sid": "zero-sum-subarrays1825-b749d126943d",
+      "lang": "Python3",
+      "ts": 1777480050000,
+      "file": "solution_20260429_zerosumsubarrays1825b749d126943d.py"
+    }
+  ]
+}
