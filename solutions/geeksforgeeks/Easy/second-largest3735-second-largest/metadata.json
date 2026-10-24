@@ -1,0 +1,24 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "second-largest3735",
+  "title": "Second Largest",
+  "url": "https://www.geeksforgeeks.org/problems/second-largest3735/1",
+  "difficulty": "Easy",
+  "tags": [],
+  "firstSolvedAt": "2026-06-25T18:57:06.000Z",
+  "lastSolvedAt": "2026-09-19T23:52:06.000Z",
+  "attempts": [
+    {
+      "sid": "second-largest3735-e385fedd1f75",
+      "lang": "C++",
+      "ts": 1782413826000,
+      "file": "solution_20260625_secondlargest3735e385fedd1f75.cpp"
+    },
+    {
+      "sid": "second-largest3735-3076521491e4",
+      "lang": "Python3",
+      "ts": 1789861926000,
+      "file": "solution_20260919_secondlargest37353076521491e4.py"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "print-square-wall-1605682270",
+  "title": "Print Solid Square",
+  "url": "https://www.geeksforgeeks.org/problems/print-square-wall-1605682270/1",
+  "difficulty": "Easy",
+  "tags": [],
+  "firstSolvedAt": "2025-09-06T10:20:29.000Z",
+  "lastSolvedAt": "2026-09-20T13:12:43.000Z",
+  "attempts": [
+    {
+      "sid": "print-square-wall-1605682270-b33b4a5c914a",
+      "lang": "Python3",
+      "ts": 1757154029000,
+      "file": "solution_20250906_printsquarewall1605682270b33b4a5c914a.py"
+    },
+    {
+      "sid": "print-square-wall-1605682270-ba1fef8b8e08",
+      "lang": "Python3",
+      "ts": 1765298665000,
+      "file": "solution_20251209_printsquarewall1605682270ba1fef8b8e08.py"
+    },
+    {
+      "sid": "print-square-wall-1605682270-47c39eec2dcc",
+      "lang": "C++",
+      "ts": 1765383302000,
+      "file": "solution_20251210_printsquarewall160568227047c39eec2dcc.cpp"
+    },
+    {
+      "sid": "print-square-wall-1605682270-17370b3a0d6a",
+      "lang": "Python3",
+      "ts": 1777834171000,
+      "file": "solution_20260503_printsquarewall160568227017370b3a0d6a.py"
+    },
+    {
+      "sid": "print-square-wall-1605682270-645c2a71c513",
+      "lang": "Python3",
+      "ts": 1789909963000,
+      "file": "solution_20260920_printsquarewall1605682270645c2a71c513.py"
+    }
+  ]
+}

@@ -5,9 +5,21 @@
   "url": "https://www.geeksforgeeks.org/problems/switch-statement/1",
   "difficulty": "Easy",
   "tags": [],
-  "firstSolvedAt": "2026-09-22T10:53:29.000Z",
+  "firstSolvedAt": "2025-11-12T15:16:49.000Z",
   "lastSolvedAt": "2026-09-22T10:53:29.000Z",
   "attempts": [
+    {
+      "sid": "switch-statement-cd29a18e2416",
+      "lang": "C++",
+      "ts": 1762960609000,
+      "file": "solution_20251112_switchstatementcd29a18e2416.cpp"
+    },
+    {
+      "sid": "switch-statement-df219011e1b9",
+      "lang": "C++",
+      "ts": 1764074674000,
+      "file": "solution_20251125_switchstatementdf219011e1b9.cpp"
+    },
     {
       "sid": "switch-statement-ff46d69484c0",
       "lang": "Python3",

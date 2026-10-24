@@ -1,0 +1,18 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "power-of-pow-even-number5440",
+  "title": "Sum of n Even Squares",
+  "url": "https://www.geeksforgeeks.org/problems/power-of-pow-even-number5440/1",
+  "difficulty": "Easy",
+  "tags": [],
+  "firstSolvedAt": "2026-09-21T13:26:18.000Z",
+  "lastSolvedAt": "2026-09-21T13:26:18.000Z",
+  "attempts": [
+    {
+      "sid": "power-of-pow-even-number5440-55e5ba42f6d9",
+      "lang": "Python3",
+      "ts": 1789997178000,
+      "file": "solution_20260921_powerofpowevennumber544055e5ba42f6d9.py"
+    }
+  ]
+}

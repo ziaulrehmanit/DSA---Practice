@@ -1,0 +1,18 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "implement-atoi",
+  "title": "Implement Atoi",
+  "url": "https://www.geeksforgeeks.org/problems/implement-atoi/1",
+  "difficulty": "Medium",
+  "tags": [],
+  "firstSolvedAt": "2026-09-20T00:17:24.000Z",
+  "lastSolvedAt": "2026-09-20T00:17:24.000Z",
+  "attempts": [
+    {
+      "sid": "implement-atoi-f957e2849495",
+      "lang": "Python3",
+      "ts": 1789863444000,
+      "file": "solution_20260920_implementatoif957e2849495.py"
+    }
+  ]
+}
