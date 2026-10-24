@@ -1,0 +1,18 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "longest-common-prefix-in-an-array5129",
+  "title": "Longest Common Prefix of Strings",
+  "url": "https://www.geeksforgeeks.org/problems/longest-common-prefix-in-an-array5129/1",
+  "difficulty": "Easy",
+  "tags": [],
+  "firstSolvedAt": "2026-08-10T16:19:26.000Z",
+  "lastSolvedAt": "2026-08-10T16:19:26.000Z",
+  "attempts": [
+    {
+      "sid": "longest-common-prefix-in-an-array5129-99f7706e0bcd",
+      "lang": "Python3",
+      "ts": 1786378766000,
+      "file": "solution_20260810_longestcommonprefixinanarray512999f7706e0bcd.py"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "reverse-words-in-a-given-string5459",
+  "title": "Reverse Words",
+  "url": "https://www.geeksforgeeks.org/problems/reverse-words-in-a-given-string5459/1",
+  "difficulty": "Easy",
+  "tags": [],
+  "firstSolvedAt": "2026-08-07T12:02:46.000Z",
+  "lastSolvedAt": "2026-08-07T12:02:46.000Z",
+  "attempts": [
+    {
+      "sid": "reverse-words-in-a-given-string5459-1cfe7d12991f",
+      "lang": "Python3",
+      "ts": 1786104166000,
+      "file": "solution_20260807_reversewordsinagivenstring54591cfe7d12991f.py"
+    }
+  ]
+}

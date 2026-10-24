@@ -1,0 +1,18 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "sorting-elements-of-an-array-by-frequency-1587115621",
+  "title": "Sort by Decreasing Frequency",
+  "url": "https://www.geeksforgeeks.org/problems/sorting-elements-of-an-array-by-frequency-1587115621/1",
+  "difficulty": "Medium",
+  "tags": [],
+  "firstSolvedAt": "2026-08-17T07:30:00.000Z",
+  "lastSolvedAt": "2026-08-17T07:30:00.000Z",
+  "attempts": [
+    {
+      "sid": "sorting-elements-of-an-array-by-frequency-1587115621-4bbeacae21cb",
+      "lang": "Python3",
+      "ts": 1786951800000,
+      "file": "solution_20260817_sortingelementsofanarraybyfrequency15871156214bbeacae21cb.py"
+    }
+  ]
+}

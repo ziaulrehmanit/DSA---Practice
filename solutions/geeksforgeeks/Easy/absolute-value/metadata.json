@@ -1,0 +1,18 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "absolute-value",
+  "title": "Absolute Value",
+  "url": "https://www.geeksforgeeks.org/problems/absolute-value/1",
+  "difficulty": "Easy",
+  "tags": [],
+  "firstSolvedAt": "2026-08-20T17:50:46.000Z",
+  "lastSolvedAt": "2026-08-20T17:50:46.000Z",
+  "attempts": [
+    {
+      "sid": "absolute-value-2d5f0bd85dbb",
+      "lang": "Python3",
+      "ts": 1787248246000,
+      "file": "solution_20260820_absolutevalue2d5f0bd85dbb.py"
+    }
+  ]
+}

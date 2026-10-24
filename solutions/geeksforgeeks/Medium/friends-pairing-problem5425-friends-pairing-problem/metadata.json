@@ -1,0 +1,18 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "friends-pairing-problem5425",
+  "title": "Friends Pairing Problem",
+  "url": "https://www.geeksforgeeks.org/problems/friends-pairing-problem5425/1",
+  "difficulty": "Medium",
+  "tags": [],
+  "firstSolvedAt": "2026-08-07T15:57:30.000Z",
+  "lastSolvedAt": "2026-08-07T15:57:30.000Z",
+  "attempts": [
+    {
+      "sid": "friends-pairing-problem5425-e64baa0fc3d3",
+      "lang": "Python3",
+      "ts": 1786118250000,
+      "file": "solution_20260807_friendspairingproblem5425e64baa0fc3d3.py"
+    }
+  ]
+}

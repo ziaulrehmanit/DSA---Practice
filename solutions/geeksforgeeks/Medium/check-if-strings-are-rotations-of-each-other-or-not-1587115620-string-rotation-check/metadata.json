@@ -1,0 +1,18 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "check-if-strings-are-rotations-of-each-other-or-not-1587115620",
+  "title": "String Rotation Check",
+  "url": "https://www.geeksforgeeks.org/problems/check-if-strings-are-rotations-of-each-other-or-not-1587115620/1",
+  "difficulty": "Medium",
+  "tags": [],
+  "firstSolvedAt": "2026-08-12T10:20:44.000Z",
+  "lastSolvedAt": "2026-08-12T10:20:44.000Z",
+  "attempts": [
+    {
+      "sid": "check-if-strings-are-rotations-of-each-other-or-not-1587115620-268b71965cc8",
+      "lang": "Python3",
+      "ts": 1786530044000,
+      "file": "solution_20260812_checkifstringsarerotationsofeachotherornot1587115620268b71965cc8.py"
+    }
+  ]
+}

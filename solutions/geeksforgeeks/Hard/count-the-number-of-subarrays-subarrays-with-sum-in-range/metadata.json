@@ -1,0 +1,18 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "count-the-number-of-subarrays",
+  "title": "Subarrays with Sum in Range",
+  "url": "https://www.geeksforgeeks.org/problems/count-the-number-of-subarrays/1",
+  "difficulty": "Hard",
+  "tags": [],
+  "firstSolvedAt": "2026-08-05T10:49:55.000Z",
+  "lastSolvedAt": "2026-08-05T10:49:55.000Z",
+  "attempts": [
+    {
+      "sid": "count-the-number-of-subarrays-819919ab0e90",
+      "lang": "Python3",
+      "ts": 1785926995000,
+      "file": "solution_20260805_countthenumberofsubarrays819919ab0e90.py"
+    }
+  ]
+}
