@@ -1,0 +1,18 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "merge-two-sorted-arrays-1587115620",
+  "title": "Merge Without Extra Space",
+  "url": "https://www.geeksforgeeks.org/problems/merge-two-sorted-arrays-1587115620/1",
+  "difficulty": "Medium",
+  "tags": [],
+  "firstSolvedAt": "2026-05-19T16:29:47.000Z",
+  "lastSolvedAt": "2026-05-19T16:29:47.000Z",
+  "attempts": [
+    {
+      "sid": "merge-two-sorted-arrays-1587115620-9cb41e536efc",
+      "lang": "Python3",
+      "ts": 1779208187000,
+      "file": "solution_20260519_mergetwosortedarrays15871156209cb41e536efc.py"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "remove-spaces0128",
+  "title": "Remove Spaces",
+  "url": "https://www.geeksforgeeks.org/problems/remove-spaces0128/1",
+  "difficulty": "Easy",
+  "tags": [],
+  "firstSolvedAt": "2026-05-24T18:23:31.000Z",
+  "lastSolvedAt": "2026-05-24T18:23:31.000Z",
+  "attempts": [
+    {
+      "sid": "remove-spaces0128-b7cbc754a278",
+      "lang": "Python3",
+      "ts": 1779647011000,
+      "file": "solution_20260524_removespaces0128b7cbc754a278.py"
+    }
+  ]
+}

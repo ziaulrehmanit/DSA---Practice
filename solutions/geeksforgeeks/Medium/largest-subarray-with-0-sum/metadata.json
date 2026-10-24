@@ -1,0 +1,18 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "largest-subarray-with-0-sum",
+  "title": "Largest Subarray with 0 Sum",
+  "url": "https://www.geeksforgeeks.org/problems/largest-subarray-with-0-sum/1",
+  "difficulty": "Medium",
+  "tags": [],
+  "firstSolvedAt": "2026-05-08T18:50:33.000Z",
+  "lastSolvedAt": "2026-05-08T18:50:33.000Z",
+  "attempts": [
+    {
+      "sid": "largest-subarray-with-0-sum-bb281c61d1aa",
+      "lang": "Python3",
+      "ts": 1778266233000,
+      "file": "solution_20260508_largestsubarraywith0sumbb281c61d1aa.py"
+    }
+  ]
+}

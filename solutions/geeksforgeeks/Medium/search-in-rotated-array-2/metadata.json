@@ -1,0 +1,24 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "search-in-rotated-array-2",
+  "title": "Search in Rotated Array 2",
+  "url": "https://www.geeksforgeeks.org/problems/search-in-rotated-array-2/1",
+  "difficulty": "Medium",
+  "tags": [],
+  "firstSolvedAt": "2026-05-22T17:50:59.000Z",
+  "lastSolvedAt": "2026-07-06T14:06:14.000Z",
+  "attempts": [
+    {
+      "sid": "search-in-rotated-array-2-10cd8b843d9d",
+      "lang": "Python3",
+      "ts": 1779472259000,
+      "file": "solution_20260522_searchinrotatedarray210cd8b843d9d.py"
+    },
+    {
+      "sid": "search-in-rotated-array-2-3beb396fa04d",
+      "lang": "Python3",
+      "ts": 1783346774000,
+      "file": "solution_20260706_searchinrotatedarray23beb396fa04d.py"
+    }
+  ]
+}

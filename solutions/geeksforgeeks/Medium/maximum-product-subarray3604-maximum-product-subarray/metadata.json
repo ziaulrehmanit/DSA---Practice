@@ -1,0 +1,18 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "maximum-product-subarray3604",
+  "title": "Maximum Product Subarray",
+  "url": "https://www.geeksforgeeks.org/problems/maximum-product-subarray3604/1",
+  "difficulty": "Medium",
+  "tags": [],
+  "firstSolvedAt": "2026-05-21T16:03:30.000Z",
+  "lastSolvedAt": "2026-05-21T16:03:30.000Z",
+  "attempts": [
+    {
+      "sid": "maximum-product-subarray3604-3154215016b7",
+      "lang": "Python3",
+      "ts": 1779379410000,
+      "file": "solution_20260521_maximumproductsubarray36043154215016b7.py"
+    }
+  ]
+}

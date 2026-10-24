@@ -1,0 +1,18 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "smaller-and-larger4005",
+  "title": "Smaller and Larger in Sorted",
+  "url": "https://www.geeksforgeeks.org/problems/smaller-and-larger4005/1",
+  "difficulty": "Easy",
+  "tags": [],
+  "firstSolvedAt": "2026-05-29T15:36:32.000Z",
+  "lastSolvedAt": "2026-05-29T15:36:32.000Z",
+  "attempts": [
+    {
+      "sid": "smaller-and-larger4005-4cfc006869fb",
+      "lang": "Python3",
+      "ts": 1780068992000,
+      "file": "solution_20260529_smallerandlarger40054cfc006869fb.py"
+    }
+  ]
+}

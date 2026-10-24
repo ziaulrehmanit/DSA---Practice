@@ -1,0 +1,18 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "find-missing-and-repeating2512",
+  "title": "Missing And Repeating",
+  "url": "https://www.geeksforgeeks.org/problems/find-missing-and-repeating2512/1",
+  "difficulty": "Easy",
+  "tags": [],
+  "firstSolvedAt": "2026-05-19T17:35:58.000Z",
+  "lastSolvedAt": "2026-05-19T17:35:58.000Z",
+  "attempts": [
+    {
+      "sid": "find-missing-and-repeating2512-37241eb5a92a",
+      "lang": "Python3",
+      "ts": 1779212158000,
+      "file": "solution_20260519_findmissingandrepeating251237241eb5a92a.py"
+    }
+  ]
+}
