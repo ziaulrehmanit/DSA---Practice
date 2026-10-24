@@ -1,0 +1,24 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "the-new-line",
+  "title": "Print with New Line",
+  "url": "https://www.geeksforgeeks.org/problems/the-new-line/1",
+  "difficulty": "Easy",
+  "tags": [],
+  "firstSolvedAt": "2025-10-31T15:03:50.000Z",
+  "lastSolvedAt": "2026-09-19T08:23:38.000Z",
+  "attempts": [
+    {
+      "sid": "the-new-line-e64b197f9ba1",
+      "lang": "C++",
+      "ts": 1761923030000,
+      "file": "solution_20251031_thenewlinee64b197f9ba1.cpp"
+    },
+    {
+      "sid": "the-new-line-34be023ffd84",
+      "lang": "Python3",
+      "ts": 1789806218000,
+      "file": "solution_20260919_thenewline34be023ffd84.py"
+    }
+  ]
+}

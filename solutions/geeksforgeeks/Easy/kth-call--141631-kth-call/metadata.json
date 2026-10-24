@@ -1,0 +1,18 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "kth-call--141631",
+  "title": "Kth call",
+  "url": "https://www.geeksforgeeks.org/problems/kth-call--141631/1",
+  "difficulty": "Easy",
+  "tags": [],
+  "firstSolvedAt": "2026-09-19T08:13:02.000Z",
+  "lastSolvedAt": "2026-09-19T08:13:02.000Z",
+  "attempts": [
+    {
+      "sid": "kth-call--141631-942244c0a724",
+      "lang": "Python3",
+      "ts": 1789805582000,
+      "file": "solution_20260919_kthcall141631942244c0a724.py"
+    }
+  ]
+}

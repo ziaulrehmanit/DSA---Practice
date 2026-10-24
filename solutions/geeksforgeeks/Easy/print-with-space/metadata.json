@@ -1,0 +1,30 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "print-with-space",
+  "title": "Print With Space",
+  "url": "https://www.geeksforgeeks.org/problems/print-with-space/1",
+  "difficulty": "Easy",
+  "tags": [],
+  "firstSolvedAt": "2025-07-05T21:14:05.000Z",
+  "lastSolvedAt": "2026-09-19T08:15:56.000Z",
+  "attempts": [
+    {
+      "sid": "print-with-space-d45a92b0c6b3",
+      "lang": "Python3",
+      "ts": 1751750045000,
+      "file": "solution_20250705_printwithspaced45a92b0c6b3.py"
+    },
+    {
+      "sid": "print-with-space-75fec26f68c4",
+      "lang": "Python3",
+      "ts": 1758736478000,
+      "file": "solution_20250924_printwithspace75fec26f68c4.py"
+    },
+    {
+      "sid": "print-with-space-1a859b2c65b6",
+      "lang": "Python3",
+      "ts": 1789805756000,
+      "file": "solution_20260919_printwithspace1a859b2c65b6.py"
+    }
+  ]
+}

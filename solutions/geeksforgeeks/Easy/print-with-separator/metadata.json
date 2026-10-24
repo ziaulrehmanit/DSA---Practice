@@ -1,0 +1,24 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "print-with-separator",
+  "title": "Print With Separator",
+  "url": "https://www.geeksforgeeks.org/problems/print-with-separator/1",
+  "difficulty": "Easy",
+  "tags": [],
+  "firstSolvedAt": "2025-07-10T06:57:13.000Z",
+  "lastSolvedAt": "2025-10-14T16:38:35.000Z",
+  "attempts": [
+    {
+      "sid": "print-with-separator-1ec1dcf54cbf",
+      "lang": "Python3",
+      "ts": 1752130633000,
+      "file": "solution_20250710_printwithseparator1ec1dcf54cbf.py"
+    },
+    {
+      "sid": "print-with-separator-66ceb43c1aeb",
+      "lang": "Python3",
+      "ts": 1760459915000,
+      "file": "solution_20251014_printwithseparator66ceb43c1aeb.py"
+    }
+  ]
+}

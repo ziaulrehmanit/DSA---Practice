@@ -1,0 +1,18 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "scientific-format--141631",
+  "title": "Scientific Format",
+  "url": "https://www.geeksforgeeks.org/problems/scientific-format--141631/1",
+  "difficulty": "Easy",
+  "tags": [],
+  "firstSolvedAt": "2026-09-19T08:30:48.000Z",
+  "lastSolvedAt": "2026-09-19T08:30:48.000Z",
+  "attempts": [
+    {
+      "sid": "scientific-format--141631-3adc8c904839",
+      "lang": "Python3",
+      "ts": 1789806648000,
+      "file": "solution_20260919_scientificformat1416313adc8c904839.py"
+    }
+  ]
+}
