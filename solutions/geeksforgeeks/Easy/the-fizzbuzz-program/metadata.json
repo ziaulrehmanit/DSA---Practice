@@ -1,0 +1,18 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "the-fizzbuzz-program",
+  "title": "The FizzBuzz Program",
+  "url": "https://www.geeksforgeeks.org/problems/the-fizzbuzz-program/1",
+  "difficulty": "Easy",
+  "tags": [],
+  "firstSolvedAt": "2025-09-09T06:59:15.000Z",
+  "lastSolvedAt": "2025-09-09T06:59:15.000Z",
+  "attempts": [
+    {
+      "sid": "the-fizzbuzz-program-8abbe1971f0e",
+      "lang": "Python3",
+      "ts": 1757401155000,
+      "file": "solution_20250909_thefizzbuzzprogram8abbe1971f0e.py"
+    }
+  ]
+}

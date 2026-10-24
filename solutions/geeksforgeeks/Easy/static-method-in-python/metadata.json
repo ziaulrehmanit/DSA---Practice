@@ -1,0 +1,18 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "static-method-in-python",
+  "title": "Static Method In Python",
+  "url": "https://www.geeksforgeeks.org/problems/static-method-in-python/1",
+  "difficulty": "Easy",
+  "tags": [],
+  "firstSolvedAt": "2025-09-22T13:25:31.000Z",
+  "lastSolvedAt": "2025-09-22T13:25:31.000Z",
+  "attempts": [
+    {
+      "sid": "static-method-in-python-33d8f506b358",
+      "lang": "Python3",
+      "ts": 1758547531000,
+      "file": "solution_20250922_staticmethodinpython33d8f506b358.py"
+    }
+  ]
+}

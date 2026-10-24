@@ -1,0 +1,18 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "nth-fibonacci-number1335",
+  "title": "Nth Fibonacci Number",
+  "url": "https://www.geeksforgeeks.org/problems/nth-fibonacci-number1335/1",
+  "difficulty": "Easy",
+  "tags": [],
+  "firstSolvedAt": "2025-09-10T09:36:12.000Z",
+  "lastSolvedAt": "2025-09-10T09:36:12.000Z",
+  "attempts": [
+    {
+      "sid": "nth-fibonacci-number1335-4eda543a7bac",
+      "lang": "Python3",
+      "ts": 1757496972000,
+      "file": "solution_20250910_nthfibonaccinumber13354eda543a7bac.py"
+    }
+  ]
+}

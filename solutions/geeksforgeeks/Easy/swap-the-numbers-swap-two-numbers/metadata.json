@@ -1,0 +1,24 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "swap-the-numbers",
+  "title": "Swap Two Numbers",
+  "url": "https://www.geeksforgeeks.org/problems/swap-the-numbers/1",
+  "difficulty": "Easy",
+  "tags": [],
+  "firstSolvedAt": "2025-09-23T18:56:15.000Z",
+  "lastSolvedAt": "2026-03-05T18:51:08.000Z",
+  "attempts": [
+    {
+      "sid": "swap-the-numbers-8e789ab89cf4",
+      "lang": "Python3",
+      "ts": 1758653775000,
+      "file": "solution_20250923_swapthenumbers8e789ab89cf4.py"
+    },
+    {
+      "sid": "swap-the-numbers-b9ef36cefca7",
+      "lang": "Python3",
+      "ts": 1772736668000,
+      "file": "solution_20260305_swapthenumbersb9ef36cefca7.py"
+    }
+  ]
+}

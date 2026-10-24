@@ -1,0 +1,18 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "check-the-status",
+  "title": "Check Status",
+  "url": "https://www.geeksforgeeks.org/problems/check-the-status/1",
+  "difficulty": "Easy",
+  "tags": [],
+  "firstSolvedAt": "2025-09-08T18:09:07.000Z",
+  "lastSolvedAt": "2025-09-08T18:09:07.000Z",
+  "attempts": [
+    {
+      "sid": "check-the-status-403ee1422a56",
+      "lang": "Python3",
+      "ts": 1757354947000,
+      "file": "solution_20250908_checkthestatus403ee1422a56.py"
+    }
+  ]
+}

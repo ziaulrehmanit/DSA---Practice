@@ -1,0 +1,18 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "next-prime-number",
+  "title": "Next Prime Number",
+  "url": "https://www.geeksforgeeks.org/problems/next-prime-number/1",
+  "difficulty": "Medium",
+  "tags": [],
+  "firstSolvedAt": "2025-09-09T12:02:18.000Z",
+  "lastSolvedAt": "2025-09-09T12:02:18.000Z",
+  "attempts": [
+    {
+      "sid": "next-prime-number-c00a3cb92432",
+      "lang": "Python3",
+      "ts": 1757419338000,
+      "file": "solution_20250909_nextprimenumberc00a3cb92432.py"
+    }
+  ]
+}

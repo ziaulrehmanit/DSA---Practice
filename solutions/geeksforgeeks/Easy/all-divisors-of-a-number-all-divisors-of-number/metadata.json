@@ -1,0 +1,24 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "all-divisors-of-a-number",
+  "title": "All Divisors of Number",
+  "url": "https://www.geeksforgeeks.org/problems/all-divisors-of-a-number/1",
+  "difficulty": "Easy",
+  "tags": [],
+  "firstSolvedAt": "2025-09-12T08:33:09.000Z",
+  "lastSolvedAt": "2026-01-01T15:51:31.000Z",
+  "attempts": [
+    {
+      "sid": "all-divisors-of-a-number-afd33a0948ae",
+      "lang": "Python3",
+      "ts": 1757665989000,
+      "file": "solution_20250912_alldivisorsofanumberafd33a0948ae.py"
+    },
+    {
+      "sid": "all-divisors-of-a-number-85fa861707cd",
+      "lang": "Python3",
+      "ts": 1767282691000,
+      "file": "solution_20260101_alldivisorsofanumber85fa861707cd.py"
+    }
+  ]
+}

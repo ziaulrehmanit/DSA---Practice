@@ -1,0 +1,24 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "palindrome0746",
+  "title": "Palindrome Number",
+  "url": "https://www.geeksforgeeks.org/problems/palindrome0746/1",
+  "difficulty": "Easy",
+  "tags": [],
+  "firstSolvedAt": "2025-09-10T09:36:32.000Z",
+  "lastSolvedAt": "2026-02-07T12:47:29.000Z",
+  "attempts": [
+    {
+      "sid": "palindrome0746-2641af68d82f",
+      "lang": "Python3",
+      "ts": 1757496992000,
+      "file": "solution_20250910_palindrome07462641af68d82f.py"
+    },
+    {
+      "sid": "palindrome0746-2b0f926d8867",
+      "lang": "Python3",
+      "ts": 1770468449000,
+      "file": "solution_20260207_palindrome07462b0f926d8867.py"
+    }
+  ]
+}

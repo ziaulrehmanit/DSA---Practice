@@ -1,0 +1,18 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "middle-of-three2926",
+  "title": "Middle of Three",
+  "url": "https://www.geeksforgeeks.org/problems/middle-of-three2926/1",
+  "difficulty": "Easy",
+  "tags": [],
+  "firstSolvedAt": "2025-09-13T18:55:52.000Z",
+  "lastSolvedAt": "2025-09-13T18:55:52.000Z",
+  "attempts": [
+    {
+      "sid": "middle-of-three2926-fbbc6d8dfab5",
+      "lang": "Python3",
+      "ts": 1757789752000,
+      "file": "solution_20250913_middleofthree2926fbbc6d8dfab5.py"
+    }
+  ]
+}
