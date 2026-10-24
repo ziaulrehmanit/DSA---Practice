@@ -1,0 +1,18 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "count-elements-less-than-or-equal-to-k-in-a-sorted-rotated-array",
+  "title": "Count Less Than or Equal To k in Sorted Rotated",
+  "url": "https://www.geeksforgeeks.org/problems/count-elements-less-than-or-equal-to-k-in-a-sorted-rotated-array/1",
+  "difficulty": "Medium",
+  "tags": [],
+  "firstSolvedAt": "2026-07-05T17:44:59.000Z",
+  "lastSolvedAt": "2026-07-05T17:44:59.000Z",
+  "attempts": [
+    {
+      "sid": "count-elements-less-than-or-equal-to-k-in-a-sorted-rotated-array-f9b83e42ef65",
+      "lang": "Python3",
+      "ts": 1783273499000,
+      "file": "solution_20260705_countelementslessthanorequaltokinasortedrotatedarrayf9b83e42ef65.py"
+    }
+  ]
+}

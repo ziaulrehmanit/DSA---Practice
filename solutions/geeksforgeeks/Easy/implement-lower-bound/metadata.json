@@ -1,0 +1,24 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "implement-lower-bound",
+  "title": "Implement Lower Bound",
+  "url": "https://www.geeksforgeeks.org/problems/implement-lower-bound/1",
+  "difficulty": "Easy",
+  "tags": [],
+  "firstSolvedAt": "2026-06-29T18:27:14.000Z",
+  "lastSolvedAt": "2026-06-29T18:38:09.000Z",
+  "attempts": [
+    {
+      "sid": "implement-lower-bound-8457f4f8a308",
+      "lang": "Python3",
+      "ts": 1782757634000,
+      "file": "solution_20260629_implementlowerbound8457f4f8a308.py"
+    },
+    {
+      "sid": "implement-lower-bound-3f2acb71799f",
+      "lang": "Python3",
+      "ts": 1782758289000,
+      "file": "solution_20260629_implementlowerbound3f2acb71799f.py"
+    }
+  ]
+}

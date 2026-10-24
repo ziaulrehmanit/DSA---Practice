@@ -1,0 +1,18 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "ceil-the-floor2802",
+  "title": "Floor and Ceil in Unsorted",
+  "url": "https://www.geeksforgeeks.org/problems/ceil-the-floor2802/1",
+  "difficulty": "Easy",
+  "tags": [],
+  "firstSolvedAt": "2026-07-02T18:57:35.000Z",
+  "lastSolvedAt": "2026-07-02T18:57:35.000Z",
+  "attempts": [
+    {
+      "sid": "ceil-the-floor2802-21b8e975384c",
+      "lang": "Python3",
+      "ts": 1783018655000,
+      "file": "solution_20260702_ceilthefloor280221b8e975384c.py"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "count-reverse-pairs",
+  "title": "Count Reverse Pairs",
+  "url": "https://www.geeksforgeeks.org/problems/count-reverse-pairs/1",
+  "difficulty": "Hard",
+  "tags": [],
+  "firstSolvedAt": "2026-06-27T17:28:43.000Z",
+  "lastSolvedAt": "2026-06-27T17:28:43.000Z",
+  "attempts": [
+    {
+      "sid": "count-reverse-pairs-a307f3dcf95d",
+      "lang": "Python3",
+      "ts": 1782581323000,
+      "file": "solution_20260627_countreversepairsa307f3dcf95d.py"
+    }
+  ]
+}

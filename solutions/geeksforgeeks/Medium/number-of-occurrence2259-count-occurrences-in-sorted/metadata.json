@@ -1,0 +1,24 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "number-of-occurrence2259",
+  "title": "Count Occurrences in Sorted",
+  "url": "https://www.geeksforgeeks.org/problems/number-of-occurrence2259/1",
+  "difficulty": "Medium",
+  "tags": [],
+  "firstSolvedAt": "2026-07-04T06:30:40.000Z",
+  "lastSolvedAt": "2026-07-04T07:08:11.000Z",
+  "attempts": [
+    {
+      "sid": "number-of-occurrence2259-6ffdb702f7c5",
+      "lang": "Python3",
+      "ts": 1783146640000,
+      "file": "solution_20260704_numberofoccurrence22596ffdb702f7c5.py"
+    },
+    {
+      "sid": "number-of-occurrence2259-3af891d11f45",
+      "lang": "C++",
+      "ts": 1783148891000,
+      "file": "solution_20260704_numberofoccurrence22593af891d11f45.cpp"
+    }
+  ]
+}

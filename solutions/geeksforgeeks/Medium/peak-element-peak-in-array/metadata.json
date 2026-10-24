@@ -1,0 +1,18 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "peak-element",
+  "title": "Peak in Array",
+  "url": "https://www.geeksforgeeks.org/problems/peak-element/1",
+  "difficulty": "Medium",
+  "tags": [],
+  "firstSolvedAt": "2026-07-09T16:29:31.000Z",
+  "lastSolvedAt": "2026-07-09T16:29:31.000Z",
+  "attempts": [
+    {
+      "sid": "peak-element-11975fbaa2a4",
+      "lang": "Python3",
+      "ts": 1783614571000,
+      "file": "solution_20260709_peakelement11975fbaa2a4.py"
+    }
+  ]
+}
