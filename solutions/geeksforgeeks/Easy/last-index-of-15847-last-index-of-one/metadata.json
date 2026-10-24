@@ -1,0 +1,18 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "last-index-of-15847",
+  "title": "Last Index of One",
+  "url": "https://www.geeksforgeeks.org/problems/last-index-of-15847/1",
+  "difficulty": "Easy",
+  "tags": [],
+  "firstSolvedAt": "2026-03-27T18:38:13.000Z",
+  "lastSolvedAt": "2026-03-27T18:38:13.000Z",
+  "attempts": [
+    {
+      "sid": "last-index-of-15847-86d6d0482f38",
+      "lang": "Python3",
+      "ts": 1774636693000,
+      "file": "solution_20260327_lastindexof1584786d6d0482f38.py"
+    }
+  ]
+}

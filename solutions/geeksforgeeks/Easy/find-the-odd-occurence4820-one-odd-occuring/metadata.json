@@ -1,0 +1,24 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "find-the-odd-occurence4820",
+  "title": "One Odd Occuring",
+  "url": "https://www.geeksforgeeks.org/problems/find-the-odd-occurence4820/1",
+  "difficulty": "Easy",
+  "tags": [],
+  "firstSolvedAt": "2026-02-21T18:38:02.000Z",
+  "lastSolvedAt": "2026-02-25T18:45:58.000Z",
+  "attempts": [
+    {
+      "sid": "find-the-odd-occurence4820-fbf8d67696b8",
+      "lang": "Python3",
+      "ts": 1771699082000,
+      "file": "solution_20260221_findtheoddoccurence4820fbf8d67696b8.py"
+    },
+    {
+      "sid": "find-the-odd-occurence4820-cc17d7be60ce",
+      "lang": "Python3",
+      "ts": 1772045158000,
+      "file": "solution_20260225_findtheoddoccurence4820cc17d7be60ce.py"
+    }
+  ]
+}

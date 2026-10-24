@@ -1,0 +1,18 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "reversing-the-vowels5304",
+  "title": "Reverse Vowels",
+  "url": "https://www.geeksforgeeks.org/problems/reversing-the-vowels5304/1",
+  "difficulty": "Easy",
+  "tags": [],
+  "firstSolvedAt": "2026-04-19T17:22:36.000Z",
+  "lastSolvedAt": "2026-04-19T17:22:36.000Z",
+  "attempts": [
+    {
+      "sid": "reversing-the-vowels5304-ef1199f9dc87",
+      "lang": "C++",
+      "ts": 1776619356000,
+      "file": "solution_20260419_reversingthevowels5304ef1199f9dc87.cpp"
+    }
+  ]
+}

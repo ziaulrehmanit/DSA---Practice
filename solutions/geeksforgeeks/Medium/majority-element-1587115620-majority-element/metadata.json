@@ -1,0 +1,18 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "majority-element-1587115620",
+  "title": "Majority Element",
+  "url": "https://www.geeksforgeeks.org/problems/majority-element-1587115620/1",
+  "difficulty": "Medium",
+  "tags": [],
+  "firstSolvedAt": "2026-03-24T15:40:27.000Z",
+  "lastSolvedAt": "2026-03-24T15:40:27.000Z",
+  "attempts": [
+    {
+      "sid": "majority-element-1587115620-e86bdeee616b",
+      "lang": "Python3",
+      "ts": 1774366827000,
+      "file": "solution_20260324_majorityelement1587115620e86bdeee616b.py"
+    }
+  ]
+}

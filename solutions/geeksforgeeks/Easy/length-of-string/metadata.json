@@ -1,0 +1,18 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "length-of-string",
+  "title": "Length of String",
+  "url": "https://www.geeksforgeeks.org/problems/length-of-string/1",
+  "difficulty": "Easy",
+  "tags": [],
+  "firstSolvedAt": "2026-04-20T15:14:51.000Z",
+  "lastSolvedAt": "2026-04-20T15:14:51.000Z",
+  "attempts": [
+    {
+      "sid": "length-of-string-0ac57aebfc82",
+      "lang": "C++",
+      "ts": 1776698091000,
+      "file": "solution_20260420_lengthofstring0ac57aebfc82.cpp"
+    }
+  ]
+}

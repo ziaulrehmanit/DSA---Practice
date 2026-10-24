@@ -1,0 +1,18 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "count-numbers-divisible-by-m1524",
+  "title": "Divisible by M in a Range",
+  "url": "https://www.geeksforgeeks.org/problems/count-numbers-divisible-by-m1524/1",
+  "difficulty": "Easy",
+  "tags": [],
+  "firstSolvedAt": "2026-03-30T15:24:58.000Z",
+  "lastSolvedAt": "2026-03-30T15:24:58.000Z",
+  "attempts": [
+    {
+      "sid": "count-numbers-divisible-by-m1524-84882b83b68d",
+      "lang": "Python3",
+      "ts": 1774884298000,
+      "file": "solution_20260330_countnumbersdivisiblebym152484882b83b68d.py"
+    }
+  ]
+}

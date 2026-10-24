@@ -1,0 +1,18 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "max-length-chain",
+  "title": "Sum Except First and Last",
+  "url": "https://www.geeksforgeeks.org/problems/max-length-chain/1",
+  "difficulty": "Easy",
+  "tags": [],
+  "firstSolvedAt": "2026-03-04T16:45:54.000Z",
+  "lastSolvedAt": "2026-03-04T16:45:54.000Z",
+  "attempts": [
+    {
+      "sid": "max-length-chain-67a49becf036",
+      "lang": "Python3",
+      "ts": 1772642754000,
+      "file": "solution_20260304_maxlengthchain67a49becf036.py"
+    }
+  ]
+}
