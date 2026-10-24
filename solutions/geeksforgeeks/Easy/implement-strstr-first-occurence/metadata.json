@@ -1,0 +1,18 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "implement-strstr",
+  "title": "First Occurence",
+  "url": "https://www.geeksforgeeks.org/problems/implement-strstr/1",
+  "difficulty": "Easy",
+  "tags": [],
+  "firstSolvedAt": "2026-04-16T16:34:29.000Z",
+  "lastSolvedAt": "2026-04-16T16:34:29.000Z",
+  "attempts": [
+    {
+      "sid": "implement-strstr-6924f88a6afc",
+      "lang": "Python3",
+      "ts": 1776357269000,
+      "file": "solution_20260416_implementstrstr6924f88a6afc.py"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "for-loop-2",
+  "title": "Even Positioned Characters",
+  "url": "https://www.geeksforgeeks.org/problems/for-loop-2/1",
+  "difficulty": "Easy",
+  "tags": [],
+  "firstSolvedAt": "2025-09-07T14:03:37.000Z",
+  "lastSolvedAt": "2026-04-25T14:21:11.000Z",
+  "attempts": [
+    {
+      "sid": "for-loop-2-608ab9699294",
+      "lang": "Python3",
+      "ts": 1757253817000,
+      "file": "solution_20250907_forloop2608ab9699294.py"
+    },
+    {
+      "sid": "for-loop-2-897c9b9d7e4a",
+      "lang": "Python3",
+      "ts": 1757254351000,
+      "file": "solution_20250907_forloop2897c9b9d7e4a.py"
+    },
+    {
+      "sid": "for-loop-2-58b2e1f46911",
+      "lang": "Python3",
+      "ts": 1777126871000,
+      "file": "solution_20260425_forloop258b2e1f46911.py"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "prime-number2314",
+  "title": "Prime Number",
+  "url": "https://www.geeksforgeeks.org/problems/prime-number2314/1",
+  "difficulty": "Easy",
+  "tags": [],
+  "firstSolvedAt": "2025-09-06T10:03:52.000Z",
+  "lastSolvedAt": "2025-11-01T13:56:22.000Z",
+  "attempts": [
+    {
+      "sid": "prime-number2314-b513399fedbf",
+      "lang": "Python3",
+      "ts": 1757153032000,
+      "file": "solution_20250906_primenumber2314b513399fedbf.py"
+    },
+    {
+      "sid": "prime-number2314-c742237553a7",
+      "lang": "Python3",
+      "ts": 1760809864000,
+      "file": "solution_20251018_primenumber2314c742237553a7.py"
+    },
+    {
+      "sid": "prime-number2314-a7b087d9acb3",
+      "lang": "C++",
+      "ts": 1762005382000,
+      "file": "solution_20251101_primenumber2314a7b087d9acb3.cpp"
+    }
+  ]
+}

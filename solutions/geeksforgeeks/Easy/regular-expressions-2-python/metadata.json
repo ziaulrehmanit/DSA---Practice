@@ -1,0 +1,18 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "regular-expressions-2-python",
+  "title": "Regular Expressions 2 - Python",
+  "url": "https://www.geeksforgeeks.org/problems/regular-expressions-2-python/1",
+  "difficulty": "Easy",
+  "tags": [],
+  "firstSolvedAt": "2025-08-31T07:53:13.000Z",
+  "lastSolvedAt": "2025-08-31T07:53:13.000Z",
+  "attempts": [
+    {
+      "sid": "regular-expressions-2-python-3ac0c9adb8c4",
+      "lang": "Python3",
+      "ts": 1756626793000,
+      "file": "solution_20250831_regularexpressions2python3ac0c9adb8c4.py"
+    }
+  ]
+}

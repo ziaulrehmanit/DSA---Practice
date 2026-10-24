@@ -1,0 +1,18 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "regex-python",
+  "title": "Regex - Python",
+  "url": "https://www.geeksforgeeks.org/problems/regex-python/1",
+  "difficulty": "Easy",
+  "tags": [],
+  "firstSolvedAt": "2025-08-31T07:41:43.000Z",
+  "lastSolvedAt": "2025-08-31T07:41:43.000Z",
+  "attempts": [
+    {
+      "sid": "regex-python-507bc07c4fe3",
+      "lang": "Python3",
+      "ts": 1756626103000,
+      "file": "solution_20250831_regexpython507bc07c4fe3.py"
+    }
+  ]
+}

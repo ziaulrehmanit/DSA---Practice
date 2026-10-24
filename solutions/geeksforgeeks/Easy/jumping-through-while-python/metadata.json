@@ -1,0 +1,18 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "jumping-through-while-python",
+  "title": "Jumping through While - Python",
+  "url": "https://www.geeksforgeeks.org/problems/jumping-through-while-python/1",
+  "difficulty": "Easy",
+  "tags": [],
+  "firstSolvedAt": "2025-09-07T13:30:57.000Z",
+  "lastSolvedAt": "2025-09-07T13:30:57.000Z",
+  "attempts": [
+    {
+      "sid": "jumping-through-while-python-b713bbb1cbc0",
+      "lang": "Python3",
+      "ts": 1757251857000,
+      "file": "solution_20250907_jumpingthroughwhilepythonb713bbb1cbc0.py"
+    }
+  ]
+}

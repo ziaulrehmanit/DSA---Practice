@@ -1,0 +1,18 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "multiplication-table",
+  "title": "Multiplication Table",
+  "url": "https://www.geeksforgeeks.org/problems/multiplication-table/1",
+  "difficulty": "Easy",
+  "tags": [],
+  "firstSolvedAt": "2025-09-07T13:32:57.000Z",
+  "lastSolvedAt": "2025-09-07T13:32:57.000Z",
+  "attempts": [
+    {
+      "sid": "multiplication-table-2380e2388840",
+      "lang": "Python3",
+      "ts": 1757251977000,
+      "file": "solution_20250907_multiplicationtable2380e2388840.py"
+    }
+  ]
+}

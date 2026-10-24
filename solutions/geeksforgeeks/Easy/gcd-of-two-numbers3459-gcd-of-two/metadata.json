@@ -1,0 +1,30 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "gcd-of-two-numbers3459",
+  "title": "GCD of Two",
+  "url": "https://www.geeksforgeeks.org/problems/gcd-of-two-numbers3459/1",
+  "difficulty": "Easy",
+  "tags": [],
+  "firstSolvedAt": "2025-09-08T12:29:47.000Z",
+  "lastSolvedAt": "2026-02-08T15:41:42.000Z",
+  "attempts": [
+    {
+      "sid": "gcd-of-two-numbers3459-0b1891b9e037",
+      "lang": "Python3",
+      "ts": 1757334587000,
+      "file": "solution_20250908_gcdoftwonumbers34590b1891b9e037.py"
+    },
+    {
+      "sid": "gcd-of-two-numbers3459-3ce5b43edfa9",
+      "lang": "Python3",
+      "ts": 1760683473000,
+      "file": "solution_20251017_gcdoftwonumbers34593ce5b43edfa9.py"
+    },
+    {
+      "sid": "gcd-of-two-numbers3459-9c77cd499b56",
+      "lang": "Python3",
+      "ts": 1770565302000,
+      "file": "solution_20260208_gcdoftwonumbers34599c77cd499b56.py"
+    }
+  ]
+}
