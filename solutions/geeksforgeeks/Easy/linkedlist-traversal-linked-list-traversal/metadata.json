@@ -1,0 +1,18 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "linkedlist-traversal",
+  "title": "Linked List Traversal",
+  "url": "https://www.geeksforgeeks.org/problems/linkedlist-traversal/1",
+  "difficulty": "Easy",
+  "tags": [],
+  "firstSolvedAt": "2026-10-08T15:11:47.000Z",
+  "lastSolvedAt": "2026-10-08T15:11:47.000Z",
+  "attempts": [
+    {
+      "sid": "linkedlist-traversal-7198f8dfec0d",
+      "lang": "Python3",
+      "ts": 1791472307000,
+      "file": "solution_20261008_linkedlisttraversal7198f8dfec0d.py"
+    }
+  ]
+}

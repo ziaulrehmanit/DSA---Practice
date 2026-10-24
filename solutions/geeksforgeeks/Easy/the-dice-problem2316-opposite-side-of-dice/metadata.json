@@ -1,0 +1,18 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "the-dice-problem2316",
+  "title": "Opposite Side of Dice",
+  "url": "https://www.geeksforgeeks.org/problems/the-dice-problem2316/1",
+  "difficulty": "Easy",
+  "tags": [],
+  "firstSolvedAt": "2026-09-26T12:41:39.000Z",
+  "lastSolvedAt": "2026-09-26T12:41:39.000Z",
+  "attempts": [
+    {
+      "sid": "the-dice-problem2316-02530ff283ac",
+      "lang": "Python3",
+      "ts": 1790426499000,
+      "file": "solution_20260926_thediceproblem231602530ff283ac.py"
+    }
+  ]
+}

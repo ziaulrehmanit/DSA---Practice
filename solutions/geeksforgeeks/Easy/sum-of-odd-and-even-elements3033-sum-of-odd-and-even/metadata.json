@@ -1,0 +1,18 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "sum-of-odd-and-even-elements3033",
+  "title": "Sum of Odd and Even",
+  "url": "https://www.geeksforgeeks.org/problems/sum-of-odd-and-even-elements3033/1",
+  "difficulty": "Easy",
+  "tags": [],
+  "firstSolvedAt": "2026-09-23T10:56:16.000Z",
+  "lastSolvedAt": "2026-09-23T10:56:16.000Z",
+  "attempts": [
+    {
+      "sid": "sum-of-odd-and-even-elements3033-dd4c630b6840",
+      "lang": "Python3",
+      "ts": 1790160976000,
+      "file": "solution_20260923_sumofoddandevenelements3033dd4c630b6840.py"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "complete-string--161347",
+  "title": "Complete String",
+  "url": "https://www.geeksforgeeks.org/problems/complete-string--161347/1",
+  "difficulty": "Easy",
+  "tags": [],
+  "firstSolvedAt": "2026-10-11T01:52:29.000Z",
+  "lastSolvedAt": "2026-10-11T01:52:29.000Z",
+  "attempts": [
+    {
+      "sid": "complete-string--161347-cb8ae390a2cc",
+      "lang": "Python3",
+      "ts": 1791683549000,
+      "file": "solution_20261011_completestring161347cb8ae390a2cc.py"
+    }
+  ]
+}

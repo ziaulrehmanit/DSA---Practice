@@ -1,0 +1,18 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "make-strings-anagrams--161347",
+  "title": "Make Strings Anagrams",
+  "url": "https://www.geeksforgeeks.org/problems/make-strings-anagrams--161347/1",
+  "difficulty": "Easy",
+  "tags": [],
+  "firstSolvedAt": "2026-10-11T01:57:36.000Z",
+  "lastSolvedAt": "2026-10-11T01:57:36.000Z",
+  "attempts": [
+    {
+      "sid": "make-strings-anagrams--161347-6fec66c285c2",
+      "lang": "Python3",
+      "ts": 1791683856000,
+      "file": "solution_20261011_makestringsanagrams1613476fec66c285c2.py"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "check-if-linked-list-is-pallindrome",
+  "title": "Palindrome Linked List",
+  "url": "https://www.geeksforgeeks.org/problems/check-if-linked-list-is-pallindrome/1",
+  "difficulty": "Medium",
+  "tags": [],
+  "firstSolvedAt": "2026-10-10T12:00:05.000Z",
+  "lastSolvedAt": "2026-10-10T12:00:05.000Z",
+  "attempts": [
+    {
+      "sid": "check-if-linked-list-is-pallindrome-d9c480e062dc",
+      "lang": "Python3",
+      "ts": 1791633605000,
+      "file": "solution_20261010_checkiflinkedlistispallindromed9c480e062dc.py"
+    }
+  ]
+}

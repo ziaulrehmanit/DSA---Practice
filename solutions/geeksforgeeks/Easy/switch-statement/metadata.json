@@ -1,0 +1,18 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "switch-statement",
+  "title": "Switch Statement",
+  "url": "https://www.geeksforgeeks.org/problems/switch-statement/1",
+  "difficulty": "Easy",
+  "tags": [],
+  "firstSolvedAt": "2026-09-22T10:53:29.000Z",
+  "lastSolvedAt": "2026-09-22T10:53:29.000Z",
+  "attempts": [
+    {
+      "sid": "switch-statement-ff46d69484c0",
+      "lang": "Python3",
+      "ts": 1790074409000,
+      "file": "solution_20260922_switchstatementff46d69484c0.py"
+    }
+  ]
+}

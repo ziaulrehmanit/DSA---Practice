@@ -1,0 +1,24 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "check-if-an-array-is-sorted0701",
+  "title": "Check Sorted Array",
+  "url": "https://www.geeksforgeeks.org/problems/check-if-an-array-is-sorted0701/1",
+  "difficulty": "Easy",
+  "tags": [],
+  "firstSolvedAt": "2026-01-30T18:41:03.000Z",
+  "lastSolvedAt": "2026-10-11T02:11:40.000Z",
+  "attempts": [
+    {
+      "sid": "check-if-an-array-is-sorted0701-80d9a7a25c60",
+      "lang": "C++",
+      "ts": 1769798463000,
+      "file": "solution_20260130_checkifanarrayissorted070180d9a7a25c60.cpp"
+    },
+    {
+      "sid": "check-if-an-array-is-sorted0701-d9897e2ef3f3",
+      "lang": "Python3",
+      "ts": 1791684700000,
+      "file": "solution_20261011_checkifanarrayissorted0701d9897e2ef3f3.py"
+    }
+  ]
+}
