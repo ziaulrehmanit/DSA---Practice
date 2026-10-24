@@ -1,0 +1,24 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "right-angle-triangle-2-1605689820--102106",
+  "title": "Hollow Right Angle Triangle Pattern",
+  "url": "https://www.geeksforgeeks.org/problems/right-angle-triangle-2-1605689820--102106/1",
+  "difficulty": "Easy",
+  "tags": [],
+  "firstSolvedAt": "2025-07-23T04:10:03.000Z",
+  "lastSolvedAt": "2025-12-31T11:06:09.000Z",
+  "attempts": [
+    {
+      "sid": "right-angle-triangle-2-1605689820--102106-38b3e973ce76",
+      "lang": "Python3",
+      "ts": 1753243803000,
+      "file": "solution_20250723_rightangletriangle2160568982010210638b3e973ce76.py"
+    },
+    {
+      "sid": "right-angle-triangle-2-1605689820--102106-639142952dae",
+      "lang": "C++",
+      "ts": 1767179169000,
+      "file": "solution_20251231_rightangletriangle21605689820102106639142952dae.cpp"
+    }
+  ]
+}

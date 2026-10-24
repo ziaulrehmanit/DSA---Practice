@@ -1,0 +1,18 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "print-square--105330",
+  "title": "Print Hollow Square",
+  "url": "https://www.geeksforgeeks.org/problems/print-square--105330/1",
+  "difficulty": "Easy",
+  "tags": [],
+  "firstSolvedAt": "2025-07-23T03:30:33.000Z",
+  "lastSolvedAt": "2025-07-23T03:30:33.000Z",
+  "attempts": [
+    {
+      "sid": "print-square--105330-663084d1960e",
+      "lang": "Python3",
+      "ts": 1753241433000,
+      "file": "solution_20250723_printsquare105330663084d1960e.py"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "last-digit-of-a-number--145429",
+  "title": "Last Digit of Number",
+  "url": "https://www.geeksforgeeks.org/problems/last-digit-of-a-number--145429/1",
+  "difficulty": "Easy",
+  "tags": [],
+  "firstSolvedAt": "2025-07-10T10:35:52.000Z",
+  "lastSolvedAt": "2025-11-02T13:59:46.000Z",
+  "attempts": [
+    {
+      "sid": "last-digit-of-a-number--145429-a47384da0f06",
+      "lang": "Python3",
+      "ts": 1752143752000,
+      "file": "solution_20250710_lastdigitofanumber145429a47384da0f06.py"
+    },
+    {
+      "sid": "last-digit-of-a-number--145429-97a55f598629",
+      "lang": "C++",
+      "ts": 1762091986000,
+      "file": "solution_20251102_lastdigitofanumber14542997a55f598629.cpp"
+    }
+  ]
+}

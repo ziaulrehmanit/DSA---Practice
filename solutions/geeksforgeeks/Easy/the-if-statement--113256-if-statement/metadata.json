@@ -1,0 +1,30 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "the-if-statement--113256",
+  "title": "If Statement",
+  "url": "https://www.geeksforgeeks.org/problems/the-if-statement--113256/1",
+  "difficulty": "Easy",
+  "tags": [],
+  "firstSolvedAt": "2025-07-12T07:13:52.000Z",
+  "lastSolvedAt": "2025-09-25T14:18:05.000Z",
+  "attempts": [
+    {
+      "sid": "the-if-statement--113256-726ff85c991a",
+      "lang": "Python3",
+      "ts": 1752304432000,
+      "file": "solution_20250712_theifstatement113256726ff85c991a.py"
+    },
+    {
+      "sid": "the-if-statement--113256-4bd088831f51",
+      "lang": "Python3",
+      "ts": 1757355667000,
+      "file": "solution_20250908_theifstatement1132564bd088831f51.py"
+    },
+    {
+      "sid": "the-if-statement--113256-d206558b8797",
+      "lang": "Python3",
+      "ts": 1758809885000,
+      "file": "solution_20250925_theifstatement113256d206558b8797.py"
+    }
+  ]
+}

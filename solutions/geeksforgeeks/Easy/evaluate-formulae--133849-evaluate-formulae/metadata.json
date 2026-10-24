@@ -1,0 +1,18 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "evaluate-formulae--133849",
+  "title": "Evaluate Formulae",
+  "url": "https://www.geeksforgeeks.org/problems/evaluate-formulae--133849/1",
+  "difficulty": "Easy",
+  "tags": [],
+  "firstSolvedAt": "2025-07-05T20:15:40.000Z",
+  "lastSolvedAt": "2025-07-05T20:15:40.000Z",
+  "attempts": [
+    {
+      "sid": "evaluate-formulae--133849-92fd7b376b58",
+      "lang": "Python3",
+      "ts": 1751746540000,
+      "file": "solution_20250705_evaluateformulae13384992fd7b376b58.py"
+    }
+  ]
+}
