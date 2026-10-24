@@ -1,0 +1,18 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "prime-factors5052",
+  "title": "Unique Prime Factors in Sorted Order",
+  "url": "https://www.geeksforgeeks.org/problems/prime-factors5052/1",
+  "difficulty": "Easy",
+  "tags": [],
+  "firstSolvedAt": "2025-10-26T17:02:34.000Z",
+  "lastSolvedAt": "2025-10-26T17:02:34.000Z",
+  "attempts": [
+    {
+      "sid": "prime-factors5052-f88c93607c28",
+      "lang": "Python3",
+      "ts": 1761498154000,
+      "file": "solution_20251026_primefactors5052f88c93607c28.py"
+    }
+  ]
+}

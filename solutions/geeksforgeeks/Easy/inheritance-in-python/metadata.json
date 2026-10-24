@@ -1,0 +1,18 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "inheritance-in-python",
+  "title": "Inheritance in Python",
+  "url": "https://www.geeksforgeeks.org/problems/inheritance-in-python/1",
+  "difficulty": "Easy",
+  "tags": [],
+  "firstSolvedAt": "2025-09-27T14:25:48.000Z",
+  "lastSolvedAt": "2025-09-27T14:25:48.000Z",
+  "attempts": [
+    {
+      "sid": "inheritance-in-python-b08c5fa210d2",
+      "lang": "Python3",
+      "ts": 1758983148000,
+      "file": "solution_20250927_inheritanceinpythonb08c5fa210d2.py"
+    }
+  ]
+}

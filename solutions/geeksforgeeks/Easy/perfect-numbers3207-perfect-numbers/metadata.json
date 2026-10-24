@@ -1,0 +1,18 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "perfect-numbers3207",
+  "title": "Perfect Numbers",
+  "url": "https://www.geeksforgeeks.org/problems/perfect-numbers3207/1",
+  "difficulty": "Easy",
+  "tags": [],
+  "firstSolvedAt": "2025-10-20T14:43:04.000Z",
+  "lastSolvedAt": "2025-10-20T14:43:04.000Z",
+  "attempts": [
+    {
+      "sid": "perfect-numbers3207-f43556d7e860",
+      "lang": "Python3",
+      "ts": 1760971384000,
+      "file": "solution_20251020_perfectnumbers3207f43556d7e860.py"
+    }
+  ]
+}

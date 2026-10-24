@@ -1,0 +1,24 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "lcm-of-two-numbers",
+  "title": "LCM of Two Numbers",
+  "url": "https://www.geeksforgeeks.org/problems/lcm-of-two-numbers/1",
+  "difficulty": "Easy",
+  "tags": [],
+  "firstSolvedAt": "2025-10-22T18:49:46.000Z",
+  "lastSolvedAt": "2025-11-19T13:30:21.000Z",
+  "attempts": [
+    {
+      "sid": "lcm-of-two-numbers-ca0f9b2e9bcb",
+      "lang": "Python3",
+      "ts": 1761158986000,
+      "file": "solution_20251022_lcmoftwonumbersca0f9b2e9bcb.py"
+    },
+    {
+      "sid": "lcm-of-two-numbers-0164a63bc421",
+      "lang": "C++",
+      "ts": 1763559021000,
+      "file": "solution_20251119_lcmoftwonumbers0164a63bc421.cpp"
+    }
+  ]
+}

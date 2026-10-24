@@ -1,0 +1,18 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "floor-and-ceil-of-integer-division",
+  "title": "Floor and Ceil of Integer Division",
+  "url": "https://www.geeksforgeeks.org/problems/floor-and-ceil-of-integer-division/1",
+  "difficulty": "Easy",
+  "tags": [],
+  "firstSolvedAt": "2025-10-16T17:07:22.000Z",
+  "lastSolvedAt": "2025-10-16T17:07:22.000Z",
+  "attempts": [
+    {
+      "sid": "floor-and-ceil-of-integer-division-abd8e689c073",
+      "lang": "Python3",
+      "ts": 1760634442000,
+      "file": "solution_20251016_floorandceilofintegerdivisionabd8e689c073.py"
+    }
+  ]
+}

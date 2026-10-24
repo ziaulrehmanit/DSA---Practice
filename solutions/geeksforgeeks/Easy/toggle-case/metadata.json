@@ -1,0 +1,18 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "toggle-case",
+  "title": "Toggle Case",
+  "url": "https://www.geeksforgeeks.org/problems/toggle-case/1",
+  "difficulty": "Easy",
+  "tags": [],
+  "firstSolvedAt": "2025-10-28T18:28:31.000Z",
+  "lastSolvedAt": "2025-10-28T18:28:31.000Z",
+  "attempts": [
+    {
+      "sid": "toggle-case-a68fd575031d",
+      "lang": "Python3",
+      "ts": 1761676111000,
+      "file": "solution_20251028_togglecasea68fd575031d.py"
+    }
+  ]
+}

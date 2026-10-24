@@ -1,0 +1,18 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "decimal-to-binary-1587115620",
+  "title": "Decimal to Binary",
+  "url": "https://www.geeksforgeeks.org/problems/decimal-to-binary-1587115620/1",
+  "difficulty": "Easy",
+  "tags": [],
+  "firstSolvedAt": "2025-10-15T10:58:10.000Z",
+  "lastSolvedAt": "2025-10-15T10:58:10.000Z",
+  "attempts": [
+    {
+      "sid": "decimal-to-binary-1587115620-2206a1fbbe70",
+      "lang": "Python3",
+      "ts": 1760525890000,
+      "file": "solution_20251015_decimaltobinary15871156202206a1fbbe70.py"
+    }
+  ]
+}

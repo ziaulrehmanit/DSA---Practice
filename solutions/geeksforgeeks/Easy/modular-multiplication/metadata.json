@@ -1,0 +1,18 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "modular-multiplication",
+  "title": "Modular Multiplication",
+  "url": "https://www.geeksforgeeks.org/problems/modular-multiplication/1",
+  "difficulty": "Easy",
+  "tags": [],
+  "firstSolvedAt": "2025-10-31T16:54:15.000Z",
+  "lastSolvedAt": "2025-10-31T16:54:15.000Z",
+  "attempts": [
+    {
+      "sid": "modular-multiplication-07594f2399f2",
+      "lang": "Python3",
+      "ts": 1761929655000,
+      "file": "solution_20251031_modularmultiplication07594f2399f2.py"
+    }
+  ]
+}

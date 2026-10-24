@@ -1,0 +1,18 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "sum-of-digits1742",
+  "title": "Sum Of Digits",
+  "url": "https://www.geeksforgeeks.org/problems/sum-of-digits1742/1",
+  "difficulty": "Easy",
+  "tags": [],
+  "firstSolvedAt": "2025-10-21T16:25:23.000Z",
+  "lastSolvedAt": "2025-10-21T16:25:23.000Z",
+  "attempts": [
+    {
+      "sid": "sum-of-digits1742-32dc77ffc5a5",
+      "lang": "Python3",
+      "ts": 1761063923000,
+      "file": "solution_20251021_sumofdigits174232dc77ffc5a5.py"
+    }
+  ]
+}

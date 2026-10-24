@@ -1,0 +1,18 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "multiple-inheritence-in-python",
+  "title": "Multiple inheritence in Python",
+  "url": "https://www.geeksforgeeks.org/problems/multiple-inheritence-in-python/1",
+  "difficulty": "Easy",
+  "tags": [],
+  "firstSolvedAt": "2025-09-28T14:20:25.000Z",
+  "lastSolvedAt": "2025-09-28T14:20:25.000Z",
+  "attempts": [
+    {
+      "sid": "multiple-inheritence-in-python-d0c43d2cec17",
+      "lang": "Python3",
+      "ts": 1759069225000,
+      "file": "solution_20250928_multipleinheritenceinpythond0c43d2cec17.py"
+    }
+  ]
+}
