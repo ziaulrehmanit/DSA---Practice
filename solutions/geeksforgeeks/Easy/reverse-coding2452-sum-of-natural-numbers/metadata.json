@@ -1,0 +1,30 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "reverse-coding2452",
+  "title": "Sum of Natural Numbers",
+  "url": "https://www.geeksforgeeks.org/problems/reverse-coding2452/1",
+  "difficulty": "Easy",
+  "tags": [],
+  "firstSolvedAt": "2025-08-23T06:13:01.000Z",
+  "lastSolvedAt": "2026-02-06T16:36:41.000Z",
+  "attempts": [
+    {
+      "sid": "reverse-coding2452-593ca1af0f9a",
+      "lang": "Python3",
+      "ts": 1755929581000,
+      "file": "solution_20250823_reversecoding2452593ca1af0f9a.py"
+    },
+    {
+      "sid": "reverse-coding2452-39030999498d",
+      "lang": "Python3",
+      "ts": 1757304591000,
+      "file": "solution_20250908_reversecoding245239030999498d.py"
+    },
+    {
+      "sid": "reverse-coding2452-45c3c331a090",
+      "lang": "Python3",
+      "ts": 1770395801000,
+      "file": "solution_20260206_reversecoding245245c3c331a090.py"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "binary-number-to-decimal-number3525",
+  "title": "Binary to Decimal",
+  "url": "https://www.geeksforgeeks.org/problems/binary-number-to-decimal-number3525/1",
+  "difficulty": "Easy",
+  "tags": [],
+  "firstSolvedAt": "2025-08-03T02:25:39.000Z",
+  "lastSolvedAt": "2025-08-03T02:25:39.000Z",
+  "attempts": [
+    {
+      "sid": "binary-number-to-decimal-number3525-f7795984f9af",
+      "lang": "Python3",
+      "ts": 1754187939000,
+      "file": "solution_20250803_binarynumbertodecimalnumber3525f7795984f9af.py"
+    }
+  ]
+}

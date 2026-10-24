@@ -1,0 +1,18 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "prime-factorization",
+  "title": "All Prime Factors in Sorted Order",
+  "url": "https://www.geeksforgeeks.org/problems/prime-factorization/1",
+  "difficulty": "Easy",
+  "tags": [],
+  "firstSolvedAt": "2025-08-15T11:25:19.000Z",
+  "lastSolvedAt": "2025-08-15T11:25:19.000Z",
+  "attempts": [
+    {
+      "sid": "prime-factorization-8100cb0d28a2",
+      "lang": "Python3",
+      "ts": 1755257119000,
+      "file": "solution_20250815_primefactorization8100cb0d28a2.py"
+    }
+  ]
+}

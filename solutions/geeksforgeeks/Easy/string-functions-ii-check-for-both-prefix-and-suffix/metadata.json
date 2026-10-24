@@ -1,0 +1,18 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "string-functions-ii",
+  "title": "Check for Both Prefix and Suffix",
+  "url": "https://www.geeksforgeeks.org/problems/string-functions-ii/1",
+  "difficulty": "Easy",
+  "tags": [],
+  "firstSolvedAt": "2025-08-24T08:04:53.000Z",
+  "lastSolvedAt": "2025-08-24T08:04:53.000Z",
+  "attempts": [
+    {
+      "sid": "string-functions-ii-88f996b6eb64",
+      "lang": "Python3",
+      "ts": 1756022693000,
+      "file": "solution_20250824_stringfunctionsii88f996b6eb64.py"
+    }
+  ]
+}

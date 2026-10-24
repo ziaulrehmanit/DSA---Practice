@@ -1,0 +1,18 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "implement-dictionary-in-python--172954",
+  "title": "Implement Dictionary in Python",
+  "url": "https://www.geeksforgeeks.org/problems/implement-dictionary-in-python--172954/1",
+  "difficulty": "Easy",
+  "tags": [],
+  "firstSolvedAt": "2025-08-02T13:30:52.000Z",
+  "lastSolvedAt": "2025-08-02T13:30:52.000Z",
+  "attempts": [
+    {
+      "sid": "implement-dictionary-in-python--172954-0e99a0ca1934",
+      "lang": "Python3",
+      "ts": 1754141452000,
+      "file": "solution_20250802_implementdictionaryinpython1729540e99a0ca1934.py"
+    }
+  ]
+}

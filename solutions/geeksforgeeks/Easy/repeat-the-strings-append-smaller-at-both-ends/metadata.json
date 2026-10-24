@@ -1,0 +1,18 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "repeat-the-strings",
+  "title": "Append Smaller at Both Ends",
+  "url": "https://www.geeksforgeeks.org/problems/repeat-the-strings/1",
+  "difficulty": "Easy",
+  "tags": [],
+  "firstSolvedAt": "2025-08-24T10:16:12.000Z",
+  "lastSolvedAt": "2025-08-24T10:16:12.000Z",
+  "attempts": [
+    {
+      "sid": "repeat-the-strings-bdb9432eeb19",
+      "lang": "Python3",
+      "ts": 1756030572000,
+      "file": "solution_20250824_repeatthestringsbdb9432eeb19.py"
+    }
+  ]
+}

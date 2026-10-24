@@ -1,0 +1,24 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "calculator--172632",
+  "title": "Calculator",
+  "url": "https://www.geeksforgeeks.org/problems/calculator--172632/1",
+  "difficulty": "Easy",
+  "tags": [],
+  "firstSolvedAt": "2025-08-03T02:43:03.000Z",
+  "lastSolvedAt": "2025-12-16T14:53:55.000Z",
+  "attempts": [
+    {
+      "sid": "calculator--172632-84baeffb4273",
+      "lang": "Python3",
+      "ts": 1754188983000,
+      "file": "solution_20250803_calculator17263284baeffb4273.py"
+    },
+    {
+      "sid": "calculator--172632-e612fe247184",
+      "lang": "Python3",
+      "ts": 1765896835000,
+      "file": "solution_20251216_calculator172632e612fe247184.py"
+    }
+  ]
+}

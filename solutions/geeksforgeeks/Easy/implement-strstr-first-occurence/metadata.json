@@ -5,9 +5,15 @@
   "url": "https://www.geeksforgeeks.org/problems/implement-strstr/1",
   "difficulty": "Easy",
   "tags": [],
-  "firstSolvedAt": "2026-04-16T16:34:29.000Z",
+  "firstSolvedAt": "2025-08-24T10:48:57.000Z",
   "lastSolvedAt": "2026-04-16T16:34:29.000Z",
   "attempts": [
+    {
+      "sid": "implement-strstr-8bbef76d8f7e",
+      "lang": "Python3",
+      "ts": 1756032537000,
+      "file": "solution_20250824_implementstrstr8bbef76d8f7e.py"
+    },
     {
       "sid": "implement-strstr-6924f88a6afc",
       "lang": "Python3",

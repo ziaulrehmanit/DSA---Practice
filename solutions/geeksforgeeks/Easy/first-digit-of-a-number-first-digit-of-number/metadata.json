@@ -1,0 +1,18 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "first-digit-of-a-number",
+  "title": "First Digit of Number",
+  "url": "https://www.geeksforgeeks.org/problems/first-digit-of-a-number/1",
+  "difficulty": "Easy",
+  "tags": [],
+  "firstSolvedAt": "2025-08-05T08:27:45.000Z",
+  "lastSolvedAt": "2025-08-05T08:27:45.000Z",
+  "attempts": [
+    {
+      "sid": "first-digit-of-a-number-c4dfeaf5397f",
+      "lang": "Python3",
+      "ts": 1754382465000,
+      "file": "solution_20250805_firstdigitofanumberc4dfeaf5397f.py"
+    }
+  ]
+}

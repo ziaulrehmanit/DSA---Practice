@@ -1,0 +1,18 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "slice-the-string--141628",
+  "title": "Slice The String",
+  "url": "https://www.geeksforgeeks.org/problems/slice-the-string--141628/1",
+  "difficulty": "Easy",
+  "tags": [],
+  "firstSolvedAt": "2025-08-03T02:05:29.000Z",
+  "lastSolvedAt": "2025-08-03T02:05:29.000Z",
+  "attempts": [
+    {
+      "sid": "slice-the-string--141628-637600b0d959",
+      "lang": "Python3",
+      "ts": 1754186729000,
+      "file": "solution_20250803_slicethestring141628637600b0d959.py"
+    }
+  ]
+}

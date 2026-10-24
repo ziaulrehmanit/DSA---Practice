@@ -1,0 +1,18 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "check-palindrome--141628",
+  "title": "Check Palindrome",
+  "url": "https://www.geeksforgeeks.org/problems/check-palindrome--141628/1",
+  "difficulty": "Easy",
+  "tags": [],
+  "firstSolvedAt": "2025-08-19T14:55:21.000Z",
+  "lastSolvedAt": "2025-08-19T14:55:21.000Z",
+  "attempts": [
+    {
+      "sid": "check-palindrome--141628-88763e0458c9",
+      "lang": "Python3",
+      "ts": 1755615321000,
+      "file": "solution_20250819_checkpalindrome14162888763e0458c9.py"
+    }
+  ]
+}
