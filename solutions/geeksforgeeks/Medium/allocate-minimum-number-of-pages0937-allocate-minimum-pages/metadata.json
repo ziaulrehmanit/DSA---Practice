@@ -1,0 +1,18 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "allocate-minimum-number-of-pages0937",
+  "title": "Allocate Minimum Pages",
+  "url": "https://www.geeksforgeeks.org/problems/allocate-minimum-number-of-pages0937/1",
+  "difficulty": "Medium",
+  "tags": [],
+  "firstSolvedAt": "2026-07-20T14:39:59.000Z",
+  "lastSolvedAt": "2026-07-20T14:39:59.000Z",
+  "attempts": [
+    {
+      "sid": "allocate-minimum-number-of-pages0937-e13eadb17514",
+      "lang": "Python3",
+      "ts": 1784558399000,
+      "file": "solution_20260720_allocateminimumnumberofpages0937e13eadb17514.py"
+    }
+  ]
+}

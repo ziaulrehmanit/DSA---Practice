@@ -1,0 +1,18 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "minimize-max-distance-to-gas-station",
+  "title": "Minimize Max Distance of Adjacent Gas Stations",
+  "url": "https://www.geeksforgeeks.org/problems/minimize-max-distance-to-gas-station/1",
+  "difficulty": "Hard",
+  "tags": [],
+  "firstSolvedAt": "2026-08-01T18:04:16.000Z",
+  "lastSolvedAt": "2026-08-01T18:04:16.000Z",
+  "attempts": [
+    {
+      "sid": "minimize-max-distance-to-gas-station-6793a1dd8e4c",
+      "lang": "Python3",
+      "ts": 1785607456000,
+      "file": "solution_20260801_minimizemaxdistancetogasstation6793a1dd8e4c.py"
+    }
+  ]
+}

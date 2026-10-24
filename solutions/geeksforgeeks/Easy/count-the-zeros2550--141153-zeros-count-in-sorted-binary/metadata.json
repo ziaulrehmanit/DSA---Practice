@@ -1,0 +1,18 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "count-the-zeros2550--141153",
+  "title": "Zeros Count in Sorted Binary",
+  "url": "https://www.geeksforgeeks.org/problems/count-the-zeros2550--141153/1",
+  "difficulty": "Easy",
+  "tags": [],
+  "firstSolvedAt": "2026-07-31T18:13:05.000Z",
+  "lastSolvedAt": "2026-07-31T18:13:05.000Z",
+  "attempts": [
+    {
+      "sid": "count-the-zeros2550--141153-a1049f2e2c65",
+      "lang": "Python3",
+      "ts": 1785521585000,
+      "file": "solution_20260731_countthezeros2550141153a1049f2e2c65.py"
+    }
+  ]
+}

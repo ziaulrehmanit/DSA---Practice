@@ -1,0 +1,18 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "the-painters-partition-problem1535",
+  "title": "Painter's Partition Problem",
+  "url": "https://www.geeksforgeeks.org/problems/the-painters-partition-problem1535/1",
+  "difficulty": "Hard",
+  "tags": [],
+  "firstSolvedAt": "2026-07-20T14:58:55.000Z",
+  "lastSolvedAt": "2026-07-20T14:58:55.000Z",
+  "attempts": [
+    {
+      "sid": "the-painters-partition-problem1535-0fb020b510c6",
+      "lang": "Python3",
+      "ts": 1784559535000,
+      "file": "solution_20260720_thepainterspartitionproblem15350fb020b510c6.py"
+    }
+  ]
+}
