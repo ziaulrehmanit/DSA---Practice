@@ -1,0 +1,18 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "key-pair5616",
+  "title": "Two Sum - Pair with Given Sum",
+  "url": "https://www.geeksforgeeks.org/problems/key-pair5616/1",
+  "difficulty": "Easy",
+  "tags": [],
+  "firstSolvedAt": "2025-10-30T18:16:41.000Z",
+  "lastSolvedAt": "2025-10-30T18:16:41.000Z",
+  "attempts": [
+    {
+      "sid": "key-pair5616-5b978d46487e",
+      "lang": "Python3",
+      "ts": 1761848201000,
+      "file": "solution_20251030_keypair56165b978d46487e.py"
+    }
+  ]
+}

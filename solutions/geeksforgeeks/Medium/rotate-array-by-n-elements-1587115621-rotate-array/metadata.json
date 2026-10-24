@@ -1,0 +1,24 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "rotate-array-by-n-elements-1587115621",
+  "title": "Rotate Array",
+  "url": "https://www.geeksforgeeks.org/problems/rotate-array-by-n-elements-1587115621/1",
+  "difficulty": "Medium",
+  "tags": [],
+  "firstSolvedAt": "2026-02-22T18:45:56.000Z",
+  "lastSolvedAt": "2026-02-22T18:46:32.000Z",
+  "attempts": [
+    {
+      "sid": "rotate-array-by-n-elements-1587115621-cf9c4f1f6deb",
+      "lang": "Python3",
+      "ts": 1771785956000,
+      "file": "solution_20260222_rotatearraybynelements1587115621cf9c4f1f6deb.py"
+    },
+    {
+      "sid": "rotate-array-by-n-elements-1587115621-61b389cb0f16",
+      "lang": "Python3",
+      "ts": 1771785992000,
+      "file": "solution_20260222_rotatearraybynelements158711562161b389cb0f16.py"
+    }
+  ]
+}

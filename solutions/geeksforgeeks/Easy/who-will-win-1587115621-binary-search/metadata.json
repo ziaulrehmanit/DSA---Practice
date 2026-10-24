@@ -1,0 +1,18 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "who-will-win-1587115621",
+  "title": "Binary Search",
+  "url": "https://www.geeksforgeeks.org/problems/who-will-win-1587115621/1",
+  "difficulty": "Easy",
+  "tags": [],
+  "firstSolvedAt": "2026-02-16T18:57:11.000Z",
+  "lastSolvedAt": "2026-02-16T18:57:11.000Z",
+  "attempts": [
+    {
+      "sid": "who-will-win-1587115621-653b78b9b14c",
+      "lang": "Python3",
+      "ts": 1771268231000,
+      "file": "solution_20260216_whowillwin1587115621653b78b9b14c.py"
+    }
+  ]
+}

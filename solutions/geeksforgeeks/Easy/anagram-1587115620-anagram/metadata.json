@@ -1,0 +1,18 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "anagram-1587115620",
+  "title": "Anagram",
+  "url": "https://www.geeksforgeeks.org/problems/anagram-1587115620/1",
+  "difficulty": "Easy",
+  "tags": [],
+  "firstSolvedAt": "2026-02-12T18:50:02.000Z",
+  "lastSolvedAt": "2026-02-12T18:50:02.000Z",
+  "attempts": [
+    {
+      "sid": "anagram-1587115620-f5fe15a37b8c",
+      "lang": "Python3",
+      "ts": 1770922202000,
+      "file": "solution_20260212_anagram1587115620f5fe15a37b8c.py"
+    }
+  ]
+}

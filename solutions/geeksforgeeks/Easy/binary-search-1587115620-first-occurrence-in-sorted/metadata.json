@@ -1,0 +1,18 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "binary-search-1587115620",
+  "title": "First Occurrence in Sorted",
+  "url": "https://www.geeksforgeeks.org/problems/binary-search-1587115620/1",
+  "difficulty": "Easy",
+  "tags": [],
+  "firstSolvedAt": "2026-02-19T17:45:30.000Z",
+  "lastSolvedAt": "2026-02-19T17:45:30.000Z",
+  "attempts": [
+    {
+      "sid": "binary-search-1587115620-e8a14645ba6d",
+      "lang": "Python3",
+      "ts": 1771523130000,
+      "file": "solution_20260219_binarysearch1587115620e8a14645ba6d.py"
+    }
+  ]
+}
