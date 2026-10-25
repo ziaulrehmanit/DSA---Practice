@@ -1,0 +1,24 @@
+{
+  "platform": "leetcode",
+  "id": "231",
+  "title": "Power of Two",
+  "url": "https://leetcode.com/problems/power-of-two/",
+  "difficulty": "Easy",
+  "tags": [
+    "Math",
+    "Bit Manipulation",
+    "Recursion"
+  ],
+  "firstSolvedAt": "2026-10-25T18:28:26.000Z",
+  "lastSolvedAt": "2026-10-25T18:28:26.000Z",
+  "attempts": [
+    {
+      "sid": "2181656446",
+      "lang": "Python3",
+      "ts": 1792952906000,
+      "file": "solution_20261025_2181656446.py",
+      "runtimeMs": 0,
+      "memoryKb": 18672
+    }
+  ]
+}
