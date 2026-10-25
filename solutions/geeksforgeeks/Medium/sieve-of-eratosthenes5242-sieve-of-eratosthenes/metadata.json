@@ -1,0 +1,18 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "sieve-of-eratosthenes5242",
+  "title": "Sieve of Eratosthenes",
+  "url": "https://www.geeksforgeeks.org/problems/sieve-of-eratosthenes5242/1",
+  "difficulty": "Medium",
+  "tags": [],
+  "firstSolvedAt": "2026-10-25T18:12:04.946Z",
+  "lastSolvedAt": "2026-10-25T18:12:04.946Z",
+  "attempts": [
+    {
+      "sid": "sieve-of-eratosthenes5242-6cf4820bfbb4",
+      "lang": "Python3",
+      "ts": 1792951924946,
+      "file": "solution_20261025_sieveoferatosthenes52426cf4820bfbb4.py"
+    }
+  ]
+}
