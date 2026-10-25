@@ -1,0 +1,18 @@
+{
+  "platform": "takeuforward",
+  "id": "print-all-primes-till-n",
+  "title": "836. Print all primes till N",
+  "url": "https://takeuforward.org/practice/dsa/print-all-primes-till-n",
+  "difficulty": "Unrated",
+  "tags": [],
+  "firstSolvedAt": "2026-10-25T18:10:54.975Z",
+  "lastSolvedAt": "2026-10-25T18:10:54.975Z",
+  "attempts": [
+    {
+      "sid": "print-all-primes-till-n-96af41df8a34",
+      "lang": "Python3",
+      "ts": 1792951854975,
+      "file": "solution_20261025_printallprimestilln96af41df8a34.py"
+    }
+  ]
+}
