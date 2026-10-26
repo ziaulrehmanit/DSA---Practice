@@ -1,0 +1,18 @@
+{
+  "platform": "takeuforward",
+  "id": "implement-queue-using-linkedlist",
+  "title": "894. Implement queue using Linkedlist",
+  "url": "https://takeuforward.org/practice/dsa/implement-queue-using-linkedlist",
+  "difficulty": "Unrated",
+  "tags": [],
+  "firstSolvedAt": "2026-10-26T17:00:04.131Z",
+  "lastSolvedAt": "2026-10-26T17:00:04.131Z",
+  "attempts": [
+    {
+      "sid": "implement-queue-using-linkedlist-b47a1adc3d0c",
+      "lang": "Python3",
+      "ts": 1793034004131,
+      "file": "solution_20261026_implementqueueusinglinkedlistb47a1adc3d0c.py"
+    }
+  ]
+}
