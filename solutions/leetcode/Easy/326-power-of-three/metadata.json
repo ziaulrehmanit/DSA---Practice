@@ -1,0 +1,23 @@
+{
+  "platform": "leetcode",
+  "id": "326",
+  "title": "Power of Three",
+  "url": "https://leetcode.com/problems/power-of-three/",
+  "difficulty": "Easy",
+  "tags": [
+    "Math",
+    "Recursion"
+  ],
+  "firstSolvedAt": "2026-10-26T17:04:23.000Z",
+  "lastSolvedAt": "2026-10-26T17:04:23.000Z",
+  "attempts": [
+    {
+      "sid": "2182434892",
+      "lang": "Python3",
+      "ts": 1793034263000,
+      "file": "solution_20261026_2182434892.py",
+      "runtimeMs": 0,
+      "memoryKb": 18676
+    }
+  ]
+}
