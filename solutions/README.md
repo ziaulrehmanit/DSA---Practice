@@ -1,6 +1,6 @@
 # Solutions
 
-**603** problems · **755** accepted submissions
+**603** problems · **756** accepted submissions
 
 | Platform | Problems |
 |---|---:|
@@ -19,7 +19,7 @@
 
 | Date | Platform | Problem | Difficulty | Attempts |
 |---|---|---|---|---:|
-| 2026-10-26 | leetcode | [326\. Power of Three](./leetcode/Easy/326-power-of-three) | Easy | 1 |
+| 2026-10-26 | leetcode | [326\. Power of Three](./leetcode/Easy/326-power-of-three) | Easy | 2 |
 | 2026-10-26 | takeuforward | [implement\-queue\-using\-linkedlist\. 894\. Implement queue using Linkedlist](./takeuforward/Unrated/implement-queue-using-linkedlist-894-implement-queue-using-linkedlist) | Unrated | 1 |
 | 2026-10-26 | geeksforgeeks | [implement\-queue\-using\-linked\-list\. BEST C\+\+ SOLUTION](./geeksforgeeks/Easy/implement-queue-using-linked-list-best-c-solution) | Easy | 1 |
 | 2026-10-25 | leetcode | [231\. Power of Two](./leetcode/Easy/231-power-of-two) | Easy | 1 |
