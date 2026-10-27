@@ -1,0 +1,18 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "parenthesis-checker2744",
+  "title": "Easy C++/Java Code with Explaination with Complexity Analysis",
+  "url": "https://www.geeksforgeeks.org/problems/parenthesis-checker2744/1",
+  "difficulty": "Easy",
+  "tags": [],
+  "firstSolvedAt": "2026-10-27T02:19:23.436Z",
+  "lastSolvedAt": "2026-10-27T02:19:23.436Z",
+  "attempts": [
+    {
+      "sid": "parenthesis-checker2744-f747b9521aac",
+      "lang": "Python3",
+      "ts": 1793067563436,
+      "file": "solution_20261027_parenthesischecker2744f747b9521aac.py"
+    }
+  ]
+}
