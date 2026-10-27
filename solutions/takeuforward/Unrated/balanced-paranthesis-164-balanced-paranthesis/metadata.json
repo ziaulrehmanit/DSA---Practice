@@ -1,0 +1,18 @@
+{
+  "platform": "takeuforward",
+  "id": "balanced-paranthesis",
+  "title": "164. Balanced Paranthesis",
+  "url": "https://takeuforward.org/practice/dsa/balanced-paranthesis",
+  "difficulty": "Unrated",
+  "tags": [],
+  "firstSolvedAt": "2026-10-27T02:16:29.922Z",
+  "lastSolvedAt": "2026-10-27T02:16:29.922Z",
+  "attempts": [
+    {
+      "sid": "balanced-paranthesis-2d5b4a138bca",
+      "lang": "Python3",
+      "ts": 1793067389922,
+      "file": "solution_20261027_balancedparanthesis2d5b4a138bca.py"
+    }
+  ]
+}
