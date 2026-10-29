@@ -1,0 +1,18 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "check-a-integer-is-power-of-3-or-not3850",
+  "title": "Check Power of 3",
+  "url": "https://www.geeksforgeeks.org/problems/check-a-integer-is-power-of-3-or-not3850/1",
+  "difficulty": "Easy",
+  "tags": [],
+  "firstSolvedAt": "2026-10-29T13:11:30.498Z",
+  "lastSolvedAt": "2026-10-29T13:11:30.498Z",
+  "attempts": [
+    {
+      "sid": "check-a-integer-is-power-of-3-or-not3850-22a5464f6d93",
+      "lang": "Python3",
+      "ts": 1793279490498,
+      "file": "solution_20261029_checkaintegerispowerof3ornot385022a5464f6d93.py"
+    }
+  ]
+}
