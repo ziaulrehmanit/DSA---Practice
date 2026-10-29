@@ -1,0 +1,23 @@
+{
+  "platform": "leetcode",
+  "id": "191",
+  "title": "Number of 1 Bits",
+  "url": "https://leetcode.com/problems/number-of-1-bits/",
+  "difficulty": "Easy",
+  "tags": [
+    "Divide and Conquer",
+    "Bit Manipulation"
+  ],
+  "firstSolvedAt": "2026-10-29T13:16:47.000Z",
+  "lastSolvedAt": "2026-10-29T13:16:47.000Z",
+  "attempts": [
+    {
+      "sid": "2184727244",
+      "lang": "Python3",
+      "ts": 1793279807000,
+      "file": "solution_20261029_2184727244.py",
+      "runtimeMs": 0,
+      "memoryKb": 18582
+    }
+  ]
+}
