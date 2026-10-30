@@ -1,0 +1,23 @@
+{
+  "platform": "leetcode",
+  "id": "2574",
+  "title": "Left and Right Sum Differences",
+  "url": "https://leetcode.com/problems/left-and-right-sum-differences/",
+  "difficulty": "Easy",
+  "tags": [
+    "Array",
+    "Prefix Sum"
+  ],
+  "firstSolvedAt": "2026-10-30T18:28:22.000Z",
+  "lastSolvedAt": "2026-10-30T18:28:22.000Z",
+  "attempts": [
+    {
+      "sid": "2185740570",
+      "lang": "Python3",
+      "ts": 1793384902000,
+      "file": "solution_20261030_2185740570.py",
+      "runtimeMs": 0,
+      "memoryKb": 18754
+    }
+  ]
+}
