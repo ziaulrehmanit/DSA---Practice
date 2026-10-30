@@ -1,0 +1,18 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "nth-even-fibonacci-number1119",
+  "title": "Nth Even Fibonacci",
+  "url": "https://www.geeksforgeeks.org/problems/nth-even-fibonacci-number1119/1",
+  "difficulty": "Easy",
+  "tags": [],
+  "firstSolvedAt": "2026-10-30T18:25:38.660Z",
+  "lastSolvedAt": "2026-10-30T18:25:38.660Z",
+  "attempts": [
+    {
+      "sid": "nth-even-fibonacci-number1119-a6c1c139366c",
+      "lang": "Python3",
+      "ts": 1793384738660,
+      "file": "solution_20261030_nthevenfibonaccinumber1119a6c1c139366c.py"
+    }
+  ]
+}
