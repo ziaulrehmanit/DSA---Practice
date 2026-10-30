@@ -1,0 +1,18 @@
+{
+  "platform": "takeuforward",
+  "id": "maximum-product-of-three-numbers",
+  "title": "285. Maximum Product of Three NumbersPOTD",
+  "url": "https://takeuforward.org/practice/dsa/maximum-product-of-three-numbers",
+  "difficulty": "Unrated",
+  "tags": [],
+  "firstSolvedAt": "2026-10-30T02:20:21.017Z",
+  "lastSolvedAt": "2026-10-30T02:20:21.017Z",
+  "attempts": [
+    {
+      "sid": "maximum-product-of-three-numbers-69dab87565b0",
+      "lang": "Python3",
+      "ts": 1793326821017,
+      "file": "solution_20261030_maximumproductofthreenumbers69dab87565b0.py"
+    }
+  ]
+}
