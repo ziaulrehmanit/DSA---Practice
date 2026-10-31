@@ -1,0 +1,18 @@
+{
+  "platform": "takeuforward",
+  "id": "finding-equilibrium-index-in-an-array",
+  "title": "283. Finding Equilibrium Index in an Array",
+  "url": "https://takeuforward.org/practice/dsa/finding-equilibrium-index-in-an-array",
+  "difficulty": "Unrated",
+  "tags": [],
+  "firstSolvedAt": "2026-10-31T18:29:24.012Z",
+  "lastSolvedAt": "2026-10-31T18:29:24.012Z",
+  "attempts": [
+    {
+      "sid": "finding-equilibrium-index-in-an-array-0a25b5db9c4f",
+      "lang": "Python3",
+      "ts": 1793471364012,
+      "file": "solution_20261031_findingequilibriumindexinanarray0a25b5db9c4f.py"
+    }
+  ]
+}
