@@ -1,0 +1,25 @@
+{
+  "platform": "leetcode",
+  "id": "645",
+  "title": "Set Mismatch",
+  "url": "https://leetcode.com/problems/set-mismatch/",
+  "difficulty": "Easy",
+  "tags": [
+    "Array",
+    "Hash Table",
+    "Bit Manipulation",
+    "Sorting"
+  ],
+  "firstSolvedAt": "2026-10-31T10:48:44.000Z",
+  "lastSolvedAt": "2026-10-31T10:48:44.000Z",
+  "attempts": [
+    {
+      "sid": "2186124276",
+      "lang": "Python3",
+      "ts": 1793443724000,
+      "file": "solution_20261031_2186124276.py",
+      "runtimeMs": 0,
+      "memoryKb": 20207
+    }
+  ]
+}
