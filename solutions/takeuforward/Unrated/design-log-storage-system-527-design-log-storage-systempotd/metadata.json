@@ -1,0 +1,18 @@
+{
+  "platform": "takeuforward",
+  "id": "design-log-storage-system",
+  "title": "527. Design Log Storage SystemPOTD",
+  "url": "https://takeuforward.org/practice/dsa/design-log-storage-system",
+  "difficulty": "Unrated",
+  "tags": [],
+  "firstSolvedAt": "2026-11-01T16:57:07.148Z",
+  "lastSolvedAt": "2026-11-01T16:57:07.148Z",
+  "attempts": [
+    {
+      "sid": "design-log-storage-system-dd646e85cdde",
+      "lang": "Python3",
+      "ts": 1793552227148,
+      "file": "solution_20261101_designlogstoragesystemdd646e85cdde.py"
+    }
+  ]
+}
