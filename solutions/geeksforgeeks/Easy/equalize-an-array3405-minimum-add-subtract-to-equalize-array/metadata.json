@@ -1,0 +1,18 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "equalize-an-array3405",
+  "title": "Minimum Add/Subtract to Equalize Array",
+  "url": "https://www.geeksforgeeks.org/problems/equalize-an-array3405/1",
+  "difficulty": "Easy",
+  "tags": [],
+  "firstSolvedAt": "2026-11-02T19:14:14.563Z",
+  "lastSolvedAt": "2026-11-02T19:14:14.563Z",
+  "attempts": [
+    {
+      "sid": "equalize-an-array3405-d0e3be207947",
+      "lang": "Python3",
+      "ts": 1793646854563,
+      "file": "solution_20261102_equalizeanarray3405d0e3be207947.py"
+    }
+  ]
+}
