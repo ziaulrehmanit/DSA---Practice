@@ -1,0 +1,18 @@
+{
+  "platform": "takeuforward",
+  "id": "delete-kth-element-of-dll",
+  "title": "888. Delete Kth Element of Doubly Linked List",
+  "url": "https://takeuforward.org/practice/dsa/delete-kth-element-of-dll",
+  "difficulty": "Unrated",
+  "tags": [],
+  "firstSolvedAt": "2026-11-02T16:28:29.908Z",
+  "lastSolvedAt": "2026-11-02T16:28:29.908Z",
+  "attempts": [
+    {
+      "sid": "delete-kth-element-of-dll-2d3835a32c42",
+      "lang": "Python3",
+      "ts": 1793636909908,
+      "file": "solution_20261102_deletekthelementofdll2d3835a32c42.py"
+    }
+  ]
+}
