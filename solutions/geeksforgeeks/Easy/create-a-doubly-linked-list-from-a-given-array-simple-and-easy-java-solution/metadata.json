@@ -1,0 +1,18 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "create-a-doubly-linked-list-from-a-given-array",
+  "title": "Simple and Easy JAVA Solution ::",
+  "url": "https://www.geeksforgeeks.org/problems/create-a-doubly-linked-list-from-a-given-array/1",
+  "difficulty": "Easy",
+  "tags": [],
+  "firstSolvedAt": "2026-11-02T16:19:38.645Z",
+  "lastSolvedAt": "2026-11-02T16:19:38.645Z",
+  "attempts": [
+    {
+      "sid": "create-a-doubly-linked-list-from-a-given-array-c70d5b8f16f0",
+      "lang": "Python3",
+      "ts": 1793636378645,
+      "file": "solution_20261102_createadoublylinkedlistfromagivenarrayc70d5b8f16f0.py"
+    }
+  ]
+}
