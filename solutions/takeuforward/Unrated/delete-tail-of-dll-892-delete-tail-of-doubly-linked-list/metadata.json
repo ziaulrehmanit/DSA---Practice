@@ -1,0 +1,18 @@
+{
+  "platform": "takeuforward",
+  "id": "delete-tail-of-dll",
+  "title": "892. Delete Tail of Doubly Linked List",
+  "url": "https://takeuforward.org/practice/dsa/delete-tail-of-dll",
+  "difficulty": "Unrated",
+  "tags": [],
+  "firstSolvedAt": "2026-11-02T16:23:43.579Z",
+  "lastSolvedAt": "2026-11-02T16:23:43.579Z",
+  "attempts": [
+    {
+      "sid": "delete-tail-of-dll-4c17c7a7d805",
+      "lang": "Python3",
+      "ts": 1793636623579,
+      "file": "solution_20261102_deletetailofdll4c17c7a7d805.py"
+    }
+  ]
+}
