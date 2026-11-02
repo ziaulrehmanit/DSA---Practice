@@ -1,0 +1,24 @@
+{
+  "platform": "leetcode",
+  "id": "462",
+  "title": "Minimum Moves to Equal Array Elements II",
+  "url": "https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/",
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "Math",
+    "Sorting"
+  ],
+  "firstSolvedAt": "2026-11-02T18:59:00.000Z",
+  "lastSolvedAt": "2026-11-02T18:59:00.000Z",
+  "attempts": [
+    {
+      "sid": "2188049134",
+      "lang": "Python3",
+      "ts": 1793645940000,
+      "file": "solution_20261102_2188049134.py",
+      "runtimeMs": 0,
+      "memoryKb": 19992
+    }
+  ]
+}
