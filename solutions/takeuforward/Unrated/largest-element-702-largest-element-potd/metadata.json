@@ -1,0 +1,18 @@
+{
+  "platform": "takeuforward",
+  "id": "largest-element",
+  "title": "702. Largest Element POTD",
+  "url": "https://takeuforward.org/practice/dsa/largest-element",
+  "difficulty": "Unrated",
+  "tags": [],
+  "firstSolvedAt": "2026-11-02T17:09:33.539Z",
+  "lastSolvedAt": "2026-11-02T17:09:33.539Z",
+  "attempts": [
+    {
+      "sid": "largest-element-72808df3450f",
+      "lang": "Python3",
+      "ts": 1793639373539,
+      "file": "solution_20261102_largestelement72808df3450f.py"
+    }
+  ]
+}
