@@ -1,0 +1,18 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "minimum-operation-to-make-equal",
+  "title": "Python solution, we need to make every element `a` perform `a - min(arr)` operations:",
+  "url": "https://www.geeksforgeeks.org/problems/minimum-operation-to-make-equal/1",
+  "difficulty": "Medium",
+  "tags": [],
+  "firstSolvedAt": "2026-11-02T17:15:48.329Z",
+  "lastSolvedAt": "2026-11-02T17:15:48.329Z",
+  "attempts": [
+    {
+      "sid": "minimum-operation-to-make-equal-be49cf962aad",
+      "lang": "Python3",
+      "ts": 1793639748329,
+      "file": "solution_20261102_minimumoperationtomakeequalbe49cf962aad.py"
+    }
+  ]
+}
