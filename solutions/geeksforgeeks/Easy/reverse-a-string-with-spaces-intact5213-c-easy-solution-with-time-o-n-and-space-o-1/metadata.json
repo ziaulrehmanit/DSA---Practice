@@ -1,0 +1,18 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "reverse-a-string-with-spaces-intact5213",
+  "title": "# c++ easy solution with time o(n) and space o(1)",
+  "url": "https://www.geeksforgeeks.org/problems/reverse-a-string-with-spaces-intact5213/1",
+  "difficulty": "Easy",
+  "tags": [],
+  "firstSolvedAt": "2026-11-04T17:39:29.409Z",
+  "lastSolvedAt": "2026-11-04T17:39:29.409Z",
+  "attempts": [
+    {
+      "sid": "reverse-a-string-with-spaces-intact5213-db8eb2820b35",
+      "lang": "Python3",
+      "ts": 1793813969409,
+      "file": "solution_20261104_reverseastringwithspacesintact5213db8eb2820b35.py"
+    }
+  ]
+}
