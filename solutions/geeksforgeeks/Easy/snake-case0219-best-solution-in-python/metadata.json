@@ -1,0 +1,18 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "snake-case0219",
+  "title": "# Best solution in Python.",
+  "url": "https://www.geeksforgeeks.org/problems/snake-case0219/1",
+  "difficulty": "Easy",
+  "tags": [],
+  "firstSolvedAt": "2026-11-05T16:50:54.705Z",
+  "lastSolvedAt": "2026-11-05T16:50:54.705Z",
+  "attempts": [
+    {
+      "sid": "snake-case0219-72ba8228a4e5",
+      "lang": "Python3",
+      "ts": 1793897454705,
+      "file": "solution_20261105_snakecase021972ba8228a4e5.py"
+    }
+  ]
+}
