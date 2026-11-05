@@ -1,0 +1,18 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "convert-a-list-of-characters-into-a-string5142",
+  "title": "Concatenate List of Characters",
+  "url": "https://www.geeksforgeeks.org/problems/convert-a-list-of-characters-into-a-string5142/1",
+  "difficulty": "Easy",
+  "tags": [],
+  "firstSolvedAt": "2026-11-05T16:35:45.508Z",
+  "lastSolvedAt": "2026-11-05T16:35:45.508Z",
+  "attempts": [
+    {
+      "sid": "convert-a-list-of-characters-into-a-string5142-22f28be110b8",
+      "lang": "Python3",
+      "ts": 1793896545508,
+      "file": "solution_20261105_convertalistofcharactersintoastring514222f28be110b8.py"
+    }
+  ]
+}
