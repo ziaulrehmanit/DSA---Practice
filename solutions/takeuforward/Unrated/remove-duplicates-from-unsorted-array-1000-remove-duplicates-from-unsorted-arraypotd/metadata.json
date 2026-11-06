@@ -1,0 +1,18 @@
+{
+  "platform": "takeuforward",
+  "id": "remove-duplicates-from-unsorted-array",
+  "title": "1000. Remove Duplicates from Unsorted ArrayPOTD",
+  "url": "https://takeuforward.org/practice/dsa/remove-duplicates-from-unsorted-array",
+  "difficulty": "Unrated",
+  "tags": [],
+  "firstSolvedAt": "2026-11-06T14:43:45.816Z",
+  "lastSolvedAt": "2026-11-06T14:43:45.816Z",
+  "attempts": [
+    {
+      "sid": "remove-duplicates-from-unsorted-array-66a4b8c15b19",
+      "lang": "Python3",
+      "ts": 1793976225816,
+      "file": "solution_20261106_removeduplicatesfromunsortedarray66a4b8c15b19.py"
+    }
+  ]
+}
