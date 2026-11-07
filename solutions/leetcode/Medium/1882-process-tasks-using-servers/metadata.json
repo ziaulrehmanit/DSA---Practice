@@ -1,0 +1,23 @@
+{
+  "platform": "leetcode",
+  "id": "1882",
+  "title": "Process Tasks Using Servers",
+  "url": "https://leetcode.com/problems/process-tasks-using-servers/",
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "Heap (Priority Queue)"
+  ],
+  "firstSolvedAt": "2026-11-07T17:44:44.000Z",
+  "lastSolvedAt": "2026-11-07T17:44:44.000Z",
+  "attempts": [
+    {
+      "sid": "2191485798",
+      "lang": "Python3",
+      "ts": 1794073484000,
+      "file": "solution_20261107_2191485798.py",
+      "runtimeMs": 0,
+      "memoryKb": 63238
+    }
+  ]
+}
