@@ -1,0 +1,27 @@
+{
+  "platform": "leetcode",
+  "id": "1267",
+  "title": "Count Servers that Communicate",
+  "url": "https://leetcode.com/problems/count-servers-that-communicate/",
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Union-Find",
+    "Matrix",
+    "Counting"
+  ],
+  "firstSolvedAt": "2026-11-08T09:47:28.000Z",
+  "lastSolvedAt": "2026-11-08T09:47:28.000Z",
+  "attempts": [
+    {
+      "sid": "2191852106",
+      "lang": "Python3",
+      "ts": 1794131248000,
+      "file": "solution_20261108_2191852106.py",
+      "runtimeMs": 15,
+      "memoryKb": 21066
+    }
+  ]
+}
