@@ -1,6 +1,6 @@
 # Solutions
 
-**644** problems · **800** accepted submissions
+**644** problems · **801** accepted submissions
 
 | Platform | Problems |
 |---|---:|
@@ -19,7 +19,7 @@
 
 | Date | Platform | Problem | Difficulty | Attempts |
 |---|---|---|---|---:|
-| 2026-11-08 | leetcode | [1267\. Count Servers that Communicate](./leetcode/Medium/1267-count-servers-that-communicate) | Medium | 1 |
+| 2026-11-08 | leetcode | [1267\. Count Servers that Communicate](./leetcode/Medium/1267-count-servers-that-communicate) | Medium | 2 |
 | 2026-11-08 | takeuforward | [check\-if\-a\-number\-is\-odd\-or\-not\. 717\. Check if a Number is Odd or NotPOTD](./takeuforward/Unrated/check-if-a-number-is-odd-or-not-717-check-if-a-number-is-odd-or-notpotd) | Unrated | 1 |
 | 2026-11-08 | geeksforgeeks | [find\-the\-minimum\-time0253\. C\+\+ Solution \|\| Easy Approach and Step by Step Explanation](./geeksforgeeks/Easy/find-the-minimum-time0253-c-solution-easy-approach-and-step-by-step-explanation) | Easy | 1 |
 | 2026-11-07 | leetcode | [1882\. Process Tasks Using Servers](./leetcode/Medium/1882-process-tasks-using-servers) | Medium | 1 |
