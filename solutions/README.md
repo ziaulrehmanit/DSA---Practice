@@ -1,6 +1,6 @@
 # Solutions
 
-**648** problems · **805** accepted submissions
+**648** problems · **806** accepted submissions
 
 | Platform | Problems |
 |---|---:|
@@ -19,7 +19,7 @@
 
 | Date | Platform | Problem | Difficulty | Attempts |
 |---|---|---|---|---:|
-| 2026-11-09 | leetcode | [575\. Distribute Candies](./leetcode/Easy/575-distribute-candies) | Easy | 1 |
+| 2026-11-09 | leetcode | [575\. Distribute Candies](./leetcode/Easy/575-distribute-candies) | Easy | 2 |
 | 2026-11-09 | takeuforward | [binary\-tree\-longest\-consecutive\-sequence\-ii\. 436\. Binary Tree Longest Consecutive Sequence IIPOTD](./takeuforward/Unrated/binary-tree-longest-consecutive-sequence-ii-436-binary-tree-longest-consecutive-sequence-iipotd) | Unrated | 1 |
 | 2026-11-09 | takeuforward | [reverse\-a\-string\-i\. 294\. Reverse a String I](./takeuforward/Unrated/reverse-a-string-i-294-reverse-a-string-i) | Unrated | 1 |
 | 2026-11-09 | takeuforward | [factorial\-of\-a\-given\-number\-ii\. 921\. Factorial of a Given Number](./takeuforward/Unrated/factorial-of-a-given-number-ii-921-factorial-of-a-given-number) | Unrated | 1 |
