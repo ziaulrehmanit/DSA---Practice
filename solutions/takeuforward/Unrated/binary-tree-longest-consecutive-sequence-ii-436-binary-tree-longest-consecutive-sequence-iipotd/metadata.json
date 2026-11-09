@@ -1,0 +1,18 @@
+{
+  "platform": "takeuforward",
+  "id": "binary-tree-longest-consecutive-sequence-ii",
+  "title": "436. Binary Tree Longest Consecutive Sequence IIPOTD",
+  "url": "https://takeuforward.org/practice/dsa/binary-tree-longest-consecutive-sequence-ii",
+  "difficulty": "Unrated",
+  "tags": [],
+  "firstSolvedAt": "2026-11-09T12:38:00.975Z",
+  "lastSolvedAt": "2026-11-09T12:38:00.975Z",
+  "attempts": [
+    {
+      "sid": "binary-tree-longest-consecutive-sequence-ii-ddecc535431c",
+      "lang": "Python3",
+      "ts": 1794227880975,
+      "file": "solution_20261109_binarytreelongestconsecutivesequenceiiddecc535431c.py"
+    }
+  ]
+}
