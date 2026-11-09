@@ -1,0 +1,18 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "count-the-characters1821",
+  "title": "C++ Solution  ||  Easy Approach and Step by Step Explanation",
+  "url": "https://www.geeksforgeeks.org/problems/count-the-characters1821/1",
+  "difficulty": "Easy",
+  "tags": [],
+  "firstSolvedAt": "2026-11-09T16:20:13.303Z",
+  "lastSolvedAt": "2026-11-09T16:20:13.303Z",
+  "attempts": [
+    {
+      "sid": "count-the-characters1821-ab608d7419b9",
+      "lang": "Python3",
+      "ts": 1794241213303,
+      "file": "solution_20261109_countthecharacters1821ab608d7419b9.py"
+    }
+  ]
+}
