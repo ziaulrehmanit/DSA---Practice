@@ -1,0 +1,18 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "first-element-to-occur-k-times5150",
+  "title": "C++ Solution  ||  Easy Approach and Step by Step Explanation",
+  "url": "https://www.geeksforgeeks.org/problems/first-element-to-occur-k-times5150/1",
+  "difficulty": "Easy",
+  "tags": [],
+  "firstSolvedAt": "2026-11-10T16:50:26.815Z",
+  "lastSolvedAt": "2026-11-10T16:50:26.815Z",
+  "attempts": [
+    {
+      "sid": "first-element-to-occur-k-times5150-8e0ac2a95770",
+      "lang": "Python3",
+      "ts": 1794329426815,
+      "file": "solution_20261110_firstelementtooccurktimes51508e0ac2a95770.py"
+    }
+  ]
+}
