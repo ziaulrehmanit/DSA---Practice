@@ -1,6 +1,6 @@
 # Solutions
 
-**652** problems · **810** accepted submissions
+**652** problems · **811** accepted submissions
 
 | Platform | Problems |
 |---|---:|
@@ -19,7 +19,7 @@
 
 | Date | Platform | Problem | Difficulty | Attempts |
 |---|---|---|---|---:|
-| 2026-11-10 | leetcode | [3693\. Climbing Stairs II](./leetcode/Medium/3693-climbing-stairs-ii) | Medium | 1 |
+| 2026-11-10 | leetcode | [3693\. Climbing Stairs II](./leetcode/Medium/3693-climbing-stairs-ii) | Medium | 2 |
 | 2026-11-10 | geeksforgeeks | [first\-element\-to\-occur\-k\-times5150\. C\+\+ Solution \|\| Easy Approach and Step by Step Explanation](./geeksforgeeks/Easy/first-element-to-occur-k-times5150-c-solution-easy-approach-and-step-by-step-explanation) | Easy | 1 |
 | 2026-11-10 | takeuforward | [bst\-iterator\. 230\. BST iteratorPOTD](./takeuforward/Unrated/bst-iterator-230-bst-iteratorpotd) | Unrated | 1 |
 | 2026-11-09 | geeksforgeeks | [count\-the\-characters1821\. C\+\+ Solution \|\| Easy Approach and Step by Step Explanation](./geeksforgeeks/Easy/count-the-characters1821-c-solution-easy-approach-and-step-by-step-explanation) | Easy | 1 |

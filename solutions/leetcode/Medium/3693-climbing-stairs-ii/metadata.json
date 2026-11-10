@@ -9,7 +9,7 @@
     "Dynamic Programming"
   ],
   "firstSolvedAt": "2026-11-10T17:12:20.000Z",
-  "lastSolvedAt": "2026-11-10T17:12:20.000Z",
+  "lastSolvedAt": "2026-11-10T17:13:21.000Z",
   "attempts": [
     {
       "sid": "2193344720",
@@ -18,6 +18,14 @@
       "file": "solution_20261110_2193344720.py",
       "runtimeMs": 345,
       "memoryKb": 32664
+    },
+    {
+      "sid": "2193345448",
+      "lang": "Python3",
+      "ts": 1794330801000,
+      "file": "solution_20261110_2193345448.py",
+      "runtimeMs": 0,
+      "memoryKb": 32480
     }
   ]
 }
