@@ -1,0 +1,18 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "kth-distance3757",
+  "title": "Python Optimal Approach",
+  "url": "https://www.geeksforgeeks.org/problems/kth-distance3757/1",
+  "difficulty": "Easy",
+  "tags": [],
+  "firstSolvedAt": "2026-11-11T18:06:50.793Z",
+  "lastSolvedAt": "2026-11-11T18:06:50.793Z",
+  "attempts": [
+    {
+      "sid": "kth-distance3757-ec5b51ee0ba8",
+      "lang": "Python3",
+      "ts": 1794420410793,
+      "file": "solution_20261111_kthdistance3757ec5b51ee0ba8.py"
+    }
+  ]
+}
