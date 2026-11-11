@@ -1,0 +1,23 @@
+{
+  "platform": "leetcode",
+  "id": "3190",
+  "title": "Find Minimum Operations to Make All Elements Divisible by Three",
+  "url": "https://leetcode.com/problems/find-minimum-operations-to-make-all-elements-divisible-by-three/",
+  "difficulty": "Easy",
+  "tags": [
+    "Array",
+    "Math"
+  ],
+  "firstSolvedAt": "2026-11-11T18:48:15.000Z",
+  "lastSolvedAt": "2026-11-11T18:48:15.000Z",
+  "attempts": [
+    {
+      "sid": "2194121967",
+      "lang": "Python3",
+      "ts": 1794422895000,
+      "file": "solution_20261111_2194121967.py",
+      "runtimeMs": 0,
+      "memoryKb": 18809
+    }
+  ]
+}
