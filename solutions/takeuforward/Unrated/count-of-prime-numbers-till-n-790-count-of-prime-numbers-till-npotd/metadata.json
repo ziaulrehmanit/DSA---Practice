@@ -1,0 +1,18 @@
+{
+  "platform": "takeuforward",
+  "id": "count-of-prime-numbers-till-n",
+  "title": "790. Count of Prime Numbers till NPOTD",
+  "url": "https://takeuforward.org/practice/dsa/count-of-prime-numbers-till-n",
+  "difficulty": "Unrated",
+  "tags": [],
+  "firstSolvedAt": "2026-11-11T18:04:40.422Z",
+  "lastSolvedAt": "2026-11-11T18:04:40.422Z",
+  "attempts": [
+    {
+      "sid": "count-of-prime-numbers-till-n-4dd95b740d73",
+      "lang": "Python3",
+      "ts": 1794420280422,
+      "file": "solution_20261111_countofprimenumberstilln4dd95b740d73.py"
+    }
+  ]
+}
