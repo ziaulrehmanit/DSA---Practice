@@ -1,0 +1,18 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "find-the-closest-element-in-bst",
+  "title": "Closest in BST",
+  "url": "https://www.geeksforgeeks.org/problems/find-the-closest-element-in-bst/1",
+  "difficulty": "Medium",
+  "tags": [],
+  "firstSolvedAt": "2026-11-12T16:14:08.668Z",
+  "lastSolvedAt": "2026-11-12T16:14:08.668Z",
+  "attempts": [
+    {
+      "sid": "find-the-closest-element-in-bst-9cb87ebf42f4",
+      "lang": "Python3",
+      "ts": 1794500048668,
+      "file": "solution_20261112_findtheclosestelementinbst9cb87ebf42f4.py"
+    }
+  ]
+}
