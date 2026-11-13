@@ -1,0 +1,18 @@
+{
+  "platform": "takeuforward",
+  "id": "convert-min-heap-to-max-heap",
+  "title": "824. Convert Min Heap to Max HeapPOTD",
+  "url": "https://takeuforward.org/practice/dsa/convert-min-heap-to-max-heap",
+  "difficulty": "Unrated",
+  "tags": [],
+  "firstSolvedAt": "2026-11-13T16:15:21.803Z",
+  "lastSolvedAt": "2026-11-13T16:15:21.803Z",
+  "attempts": [
+    {
+      "sid": "convert-min-heap-to-max-heap-3c96eff22323",
+      "lang": "Python3",
+      "ts": 1794586521803,
+      "file": "solution_20261113_convertminheaptomaxheap3c96eff22323.py"
+    }
+  ]
+}
