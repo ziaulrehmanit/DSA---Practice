@@ -1,0 +1,18 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "print-common-nodes-in-bst",
+  "title": "75 DAYS GFG POTD ARTICLE CHALLENGE DAY 51/75 DAYS",
+  "url": "https://www.geeksforgeeks.org/problems/print-common-nodes-in-bst/1",
+  "difficulty": "Medium",
+  "tags": [],
+  "firstSolvedAt": "2026-11-13T16:01:22.055Z",
+  "lastSolvedAt": "2026-11-13T16:01:22.055Z",
+  "attempts": [
+    {
+      "sid": "print-common-nodes-in-bst-774d6da4f849",
+      "lang": "Python3",
+      "ts": 1794585682055,
+      "file": "solution_20261113_printcommonnodesinbst774d6da4f849.py"
+    }
+  ]
+}
