@@ -1,0 +1,18 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "sum-of-all-sub-sequences-of-a-number3437",
+  "title": "C++ Solution  ||  Easy Approach and Step by Step Explanation",
+  "url": "https://www.geeksforgeeks.org/problems/sum-of-all-sub-sequences-of-a-number3437/1",
+  "difficulty": "Easy",
+  "tags": [],
+  "firstSolvedAt": "2026-11-15T18:22:42.001Z",
+  "lastSolvedAt": "2026-11-15T18:22:42.001Z",
+  "attempts": [
+    {
+      "sid": "sum-of-all-sub-sequences-of-a-number3437-1c1a8b30d32f",
+      "lang": "Python3",
+      "ts": 1794766962001,
+      "file": "solution_20261115_sumofallsubsequencesofanumber34371c1a8b30d32f.py"
+    }
+  ]
+}
