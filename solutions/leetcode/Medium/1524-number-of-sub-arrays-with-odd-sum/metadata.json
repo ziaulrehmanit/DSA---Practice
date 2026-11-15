@@ -1,0 +1,25 @@
+{
+  "platform": "leetcode",
+  "id": "1524",
+  "title": "Number of Sub-arrays With Odd Sum",
+  "url": "https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum/",
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "Math",
+    "Dynamic Programming",
+    "Prefix Sum"
+  ],
+  "firstSolvedAt": "2026-11-15T18:29:39.000Z",
+  "lastSolvedAt": "2026-11-15T18:29:39.000Z",
+  "attempts": [
+    {
+      "sid": "2196832615",
+      "lang": "Python3",
+      "ts": 1794767379000,
+      "file": "solution_20261115_2196832615.py",
+      "runtimeMs": 0,
+      "memoryKb": 23992
+    }
+  ]
+}
