@@ -1,0 +1,18 @@
+{
+  "platform": "takeuforward",
+  "id": "two-sum",
+  "title": "1. Two SumPOTD",
+  "url": "https://takeuforward.org/practice/dsa/two-sum",
+  "difficulty": "Unrated",
+  "tags": [],
+  "firstSolvedAt": "2026-11-15T18:09:33.024Z",
+  "lastSolvedAt": "2026-11-15T18:09:33.024Z",
+  "attempts": [
+    {
+      "sid": "two-sum-b9f9dcaa9a86",
+      "lang": "Python3",
+      "ts": 1794766173024,
+      "file": "solution_20261115_twosumb9f9dcaa9a86.py"
+    }
+  ]
+}
