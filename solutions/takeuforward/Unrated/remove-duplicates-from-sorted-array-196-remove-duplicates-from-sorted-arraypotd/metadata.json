@@ -1,0 +1,18 @@
+{
+  "platform": "takeuforward",
+  "id": "remove-duplicates-from-sorted-array",
+  "title": "196. Remove duplicates from sorted arrayPOTD",
+  "url": "https://takeuforward.org/practice/dsa/remove-duplicates-from-sorted-array",
+  "difficulty": "Unrated",
+  "tags": [],
+  "firstSolvedAt": "2026-11-16T10:40:14.112Z",
+  "lastSolvedAt": "2026-11-16T10:40:14.112Z",
+  "attempts": [
+    {
+      "sid": "remove-duplicates-from-sorted-array-6b21a0f866ef",
+      "lang": "Python3",
+      "ts": 1794825614112,
+      "file": "solution_20261116_removeduplicatesfromsortedarray6b21a0f866ef.py"
+    }
+  ]
+}
