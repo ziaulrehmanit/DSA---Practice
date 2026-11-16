@@ -1,0 +1,23 @@
+{
+  "platform": "leetcode",
+  "id": "2243",
+  "title": "Calculate Digit Sum of a String",
+  "url": "https://leetcode.com/problems/calculate-digit-sum-of-a-string/",
+  "difficulty": "Easy",
+  "tags": [
+    "String",
+    "Simulation"
+  ],
+  "firstSolvedAt": "2026-11-16T13:35:09.000Z",
+  "lastSolvedAt": "2026-11-16T13:35:09.000Z",
+  "attempts": [
+    {
+      "sid": "2197326127",
+      "lang": "Python3",
+      "ts": 1794836109000,
+      "file": "solution_20261116_2197326127.py",
+      "runtimeMs": 0,
+      "memoryKb": 18863
+    }
+  ]
+}
