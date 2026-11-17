@@ -1,0 +1,18 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "the-pattern-matcher",
+  "title": "Repeated Pattern Check",
+  "url": "https://www.geeksforgeeks.org/problems/the-pattern-matcher/1",
+  "difficulty": "Easy",
+  "tags": [],
+  "firstSolvedAt": "2026-11-17T13:38:09.205Z",
+  "lastSolvedAt": "2026-11-17T13:38:09.205Z",
+  "attempts": [
+    {
+      "sid": "the-pattern-matcher-092c6a2f3915",
+      "lang": "Python3",
+      "ts": 1794922689205,
+      "file": "solution_20261117_thepatternmatcher092c6a2f3915.py"
+    }
+  ]
+}
