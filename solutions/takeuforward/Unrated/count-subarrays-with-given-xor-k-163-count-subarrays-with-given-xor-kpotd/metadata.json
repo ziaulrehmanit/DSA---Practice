@@ -1,0 +1,18 @@
+{
+  "platform": "takeuforward",
+  "id": "count-subarrays-with-given-xor-k",
+  "title": "163. Count subarrays with given xor KPOTD",
+  "url": "https://takeuforward.org/practice/dsa/count-subarrays-with-given-xor-k",
+  "difficulty": "Unrated",
+  "tags": [],
+  "firstSolvedAt": "2026-11-18T16:49:14.053Z",
+  "lastSolvedAt": "2026-11-18T16:49:14.053Z",
+  "attempts": [
+    {
+      "sid": "count-subarrays-with-given-xor-k-8b3bb3117df5",
+      "lang": "Python3",
+      "ts": 1795020554053,
+      "file": "solution_20261118_countsubarrayswithgivenxork8b3bb3117df5.py"
+    }
+  ]
+}
