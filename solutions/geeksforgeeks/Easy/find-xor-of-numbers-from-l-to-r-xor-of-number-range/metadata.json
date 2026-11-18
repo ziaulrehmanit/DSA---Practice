@@ -1,0 +1,18 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "find-xor-of-numbers-from-l-to-r",
+  "title": "XOR of Number Range",
+  "url": "https://www.geeksforgeeks.org/problems/find-xor-of-numbers-from-l-to-r/1",
+  "difficulty": "Easy",
+  "tags": [],
+  "firstSolvedAt": "2026-11-18T15:40:38.412Z",
+  "lastSolvedAt": "2026-11-18T15:40:38.412Z",
+  "attempts": [
+    {
+      "sid": "find-xor-of-numbers-from-l-to-r-565461ed5547",
+      "lang": "Python3",
+      "ts": 1795016438412,
+      "file": "solution_20261118_findxorofnumbersfromltor565461ed5547.py"
+    }
+  ]
+}
