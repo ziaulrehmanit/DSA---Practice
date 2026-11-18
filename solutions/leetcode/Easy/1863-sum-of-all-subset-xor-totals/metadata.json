@@ -1,0 +1,27 @@
+{
+  "platform": "leetcode",
+  "id": "1863",
+  "title": "Sum of All Subset XOR Totals",
+  "url": "https://leetcode.com/problems/sum-of-all-subset-xor-totals/",
+  "difficulty": "Easy",
+  "tags": [
+    "Array",
+    "Math",
+    "Backtracking",
+    "Bit Manipulation",
+    "Combinatorics",
+    "Enumeration"
+  ],
+  "firstSolvedAt": "2026-11-18T16:36:36.000Z",
+  "lastSolvedAt": "2026-11-18T16:36:36.000Z",
+  "attempts": [
+    {
+      "sid": "2198818771",
+      "lang": "Python3",
+      "ts": 1795019796000,
+      "file": "solution_20261118_2198818771.py",
+      "runtimeMs": 0,
+      "memoryKb": 18543
+    }
+  ]
+}
