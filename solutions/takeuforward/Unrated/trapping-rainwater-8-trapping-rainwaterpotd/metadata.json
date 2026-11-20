@@ -1,0 +1,18 @@
+{
+  "platform": "takeuforward",
+  "id": "trapping-rainwater",
+  "title": "8. Trapping RainwaterPOTD",
+  "url": "https://takeuforward.org/practice/dsa/trapping-rainwater",
+  "difficulty": "Unrated",
+  "tags": [],
+  "firstSolvedAt": "2026-11-20T15:38:06.080Z",
+  "lastSolvedAt": "2026-11-20T15:38:06.080Z",
+  "attempts": [
+    {
+      "sid": "trapping-rainwater-cec1eab83912",
+      "lang": "Python3",
+      "ts": 1795189086080,
+      "file": "solution_20261120_trappingrainwatercec1eab83912.py"
+    }
+  ]
+}
