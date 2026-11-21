@@ -1,0 +1,24 @@
+{
+  "platform": "leetcode",
+  "id": "566",
+  "title": "Reshape the Matrix",
+  "url": "https://leetcode.com/problems/reshape-the-matrix/",
+  "difficulty": "Easy",
+  "tags": [
+    "Array",
+    "Matrix",
+    "Simulation"
+  ],
+  "firstSolvedAt": "2026-11-21T18:16:31.000Z",
+  "lastSolvedAt": "2026-11-21T18:16:31.000Z",
+  "attempts": [
+    {
+      "sid": "2200764780",
+      "lang": "Python3",
+      "ts": 1795284991000,
+      "file": "solution_20261121_2200764780.py",
+      "runtimeMs": 0,
+      "memoryKb": 19527
+    }
+  ]
+}
