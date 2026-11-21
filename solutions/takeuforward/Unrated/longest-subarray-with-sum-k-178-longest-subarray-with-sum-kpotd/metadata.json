@@ -1,0 +1,18 @@
+{
+  "platform": "takeuforward",
+  "id": "longest-subarray-with-sum-k",
+  "title": "178. Longest subarray with sum KPOTD",
+  "url": "https://takeuforward.org/practice/dsa/longest-subarray-with-sum-k",
+  "difficulty": "Unrated",
+  "tags": [],
+  "firstSolvedAt": "2026-11-21T18:14:52.914Z",
+  "lastSolvedAt": "2026-11-21T18:14:52.914Z",
+  "attempts": [
+    {
+      "sid": "longest-subarray-with-sum-k-f671be268ee8",
+      "lang": "Python3",
+      "ts": 1795284892914,
+      "file": "solution_20261121_longestsubarraywithsumkf671be268ee8.py"
+    }
+  ]
+}
