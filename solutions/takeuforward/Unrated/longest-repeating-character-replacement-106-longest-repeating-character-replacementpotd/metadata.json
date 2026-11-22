@@ -1,0 +1,18 @@
+{
+  "platform": "takeuforward",
+  "id": "longest-repeating-character-replacement",
+  "title": "106. Longest Repeating Character ReplacementPOTD",
+  "url": "https://takeuforward.org/practice/dsa/longest-repeating-character-replacement",
+  "difficulty": "Unrated",
+  "tags": [],
+  "firstSolvedAt": "2026-11-22T14:52:36.036Z",
+  "lastSolvedAt": "2026-11-22T14:52:36.036Z",
+  "attempts": [
+    {
+      "sid": "longest-repeating-character-replacement-8981fb1d5c81",
+      "lang": "Python3",
+      "ts": 1795359156036,
+      "file": "solution_20261122_longestrepeatingcharacterreplacement8981fb1d5c81.py"
+    }
+  ]
+}
