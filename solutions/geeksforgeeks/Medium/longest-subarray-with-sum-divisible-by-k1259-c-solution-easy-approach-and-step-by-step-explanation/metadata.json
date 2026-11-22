@@ -1,0 +1,18 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "longest-subarray-with-sum-divisible-by-k1259",
+  "title": "C++ Solution  ||  Easy Approach and Step by Step Explanation",
+  "url": "https://www.geeksforgeeks.org/problems/longest-subarray-with-sum-divisible-by-k1259/1",
+  "difficulty": "Medium",
+  "tags": [],
+  "firstSolvedAt": "2026-11-22T15:15:30.342Z",
+  "lastSolvedAt": "2026-11-22T15:15:30.342Z",
+  "attempts": [
+    {
+      "sid": "longest-subarray-with-sum-divisible-by-k1259-70b766e359ea",
+      "lang": "Python3",
+      "ts": 1795360530342,
+      "file": "solution_20261122_longestsubarraywithsumdivisiblebyk125970b766e359ea.py"
+    }
+  ]
+}
