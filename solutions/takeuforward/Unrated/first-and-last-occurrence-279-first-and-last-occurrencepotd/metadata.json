@@ -1,0 +1,18 @@
+{
+  "platform": "takeuforward",
+  "id": "first-and-last-occurrence",
+  "title": "279. First and last occurrencePOTD",
+  "url": "https://takeuforward.org/practice/dsa/first-and-last-occurrence",
+  "difficulty": "Unrated",
+  "tags": [],
+  "firstSolvedAt": "2026-11-23T16:04:51.182Z",
+  "lastSolvedAt": "2026-11-23T16:04:51.182Z",
+  "attempts": [
+    {
+      "sid": "first-and-last-occurrence-2538635e37e6",
+      "lang": "Python3",
+      "ts": 1795449891182,
+      "file": "solution_20261123_firstandlastoccurrence2538635e37e6.py"
+    }
+  ]
+}
