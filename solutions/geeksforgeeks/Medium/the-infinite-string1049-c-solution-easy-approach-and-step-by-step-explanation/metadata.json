@@ -1,0 +1,18 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "the-infinite-string1049",
+  "title": "C++ Solution  ||  Easy Approach and Step by Step Explanation",
+  "url": "https://www.geeksforgeeks.org/problems/the-infinite-string1049/1",
+  "difficulty": "Medium",
+  "tags": [],
+  "firstSolvedAt": "2026-11-23T16:51:35.321Z",
+  "lastSolvedAt": "2026-11-23T16:51:35.321Z",
+  "attempts": [
+    {
+      "sid": "the-infinite-string1049-f117e63a7752",
+      "lang": "Python3",
+      "ts": 1795452695321,
+      "file": "solution_20261123_theinfinitestring1049f117e63a7752.py"
+    }
+  ]
+}
