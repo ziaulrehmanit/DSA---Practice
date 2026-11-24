@@ -1,0 +1,26 @@
+{
+  "platform": "leetcode",
+  "id": "3411",
+  "title": "Maximum Subarray With Equal Products",
+  "url": "https://leetcode.com/problems/maximum-subarray-with-equal-products/",
+  "difficulty": "Easy",
+  "tags": [
+    "Array",
+    "Math",
+    "Sliding Window",
+    "Enumeration",
+    "Number Theory"
+  ],
+  "firstSolvedAt": "2026-11-24T21:29:44.000Z",
+  "lastSolvedAt": "2026-11-24T21:29:44.000Z",
+  "attempts": [
+    {
+      "sid": "2202862113",
+      "lang": "Python3",
+      "ts": 1795555784000,
+      "file": "solution_20261124_2202862113.py",
+      "runtimeMs": 0,
+      "memoryKb": 18992
+    }
+  ]
+}
