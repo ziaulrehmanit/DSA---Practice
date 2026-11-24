@@ -1,0 +1,18 @@
+{
+  "platform": "takeuforward",
+  "id": "search-in-rotated-sorted-array-i",
+  "title": "46. Search in rotated sorted array-IPOTD",
+  "url": "https://takeuforward.org/practice/dsa/search-in-rotated-sorted-array-i",
+  "difficulty": "Unrated",
+  "tags": [],
+  "firstSolvedAt": "2026-11-24T16:30:29.140Z",
+  "lastSolvedAt": "2026-11-24T16:30:29.140Z",
+  "attempts": [
+    {
+      "sid": "search-in-rotated-sorted-array-i-e339529684e8",
+      "lang": "Python3",
+      "ts": 1795537829140,
+      "file": "solution_20261124_searchinrotatedsortedarrayie339529684e8.py"
+    }
+  ]
+}
