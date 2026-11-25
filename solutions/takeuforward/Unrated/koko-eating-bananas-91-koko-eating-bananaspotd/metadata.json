@@ -1,0 +1,18 @@
+{
+  "platform": "takeuforward",
+  "id": "koko-eating-bananas",
+  "title": "91. Koko eating bananasPOTD",
+  "url": "https://takeuforward.org/practice/dsa/koko-eating-bananas",
+  "difficulty": "Unrated",
+  "tags": [],
+  "firstSolvedAt": "2026-11-25T13:09:30.763Z",
+  "lastSolvedAt": "2026-11-25T13:09:30.763Z",
+  "attempts": [
+    {
+      "sid": "koko-eating-bananas-5da99020d22c",
+      "lang": "Python3",
+      "ts": 1795612170763,
+      "file": "solution_20261125_kokoeatingbananas5da99020d22c.py"
+    }
+  ]
+}
