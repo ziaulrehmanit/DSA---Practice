@@ -1,0 +1,18 @@
+{
+  "platform": "geeksforgeeks",
+  "id": "range-vowel-count-queries-static",
+  "title": "Range Vowel Count Queries",
+  "url": "https://www.geeksforgeeks.org/problems/range-vowel-count-queries-static/1",
+  "difficulty": "Medium",
+  "tags": [],
+  "firstSolvedAt": "2026-11-26T15:00:22.148Z",
+  "lastSolvedAt": "2026-11-26T15:00:22.148Z",
+  "attempts": [
+    {
+      "sid": "range-vowel-count-queries-static-82606c75a27b",
+      "lang": "Python3",
+      "ts": 1795705222148,
+      "file": "solution_20261126_rangevowelcountqueriesstatic82606c75a27b.py"
+    }
+  ]
+}
