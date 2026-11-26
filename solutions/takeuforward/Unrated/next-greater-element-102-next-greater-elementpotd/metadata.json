@@ -1,0 +1,18 @@
+{
+  "platform": "takeuforward",
+  "id": "next-greater-element",
+  "title": "102. Next Greater ElementPOTD",
+  "url": "https://takeuforward.org/practice/dsa/next-greater-element",
+  "difficulty": "Unrated",
+  "tags": [],
+  "firstSolvedAt": "2026-11-26T14:32:24.015Z",
+  "lastSolvedAt": "2026-11-26T14:32:24.015Z",
+  "attempts": [
+    {
+      "sid": "next-greater-element-dde27c1874cc",
+      "lang": "Python3",
+      "ts": 1795703544015,
+      "file": "solution_20261126_nextgreaterelementdde27c1874cc.py"
+    }
+  ]
+}
