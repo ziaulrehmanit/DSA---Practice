@@ -1,6 +1,6 @@
 # Solutions
 
-**699** problems · **858** accepted submissions
+**699** problems · **859** accepted submissions
 
 | Platform | Problems |
 |---|---:|
@@ -19,7 +19,7 @@
 
 | Date | Platform | Problem | Difficulty | Attempts |
 |---|---|---|---|---:|
-| 2026-11-27 | leetcode | [1652\. Defuse the Bomb](./leetcode/Easy/1652-defuse-the-bomb) | Easy | 1 |
+| 2026-11-27 | leetcode | [1652\. Defuse the Bomb](./leetcode/Easy/1652-defuse-the-bomb) | Easy | 2 |
 | 2026-11-26 | geeksforgeeks | [range\-vowel\-count\-queries\-static\. Range Vowel Count Queries](./geeksforgeeks/Medium/range-vowel-count-queries-static-range-vowel-count-queries) | Medium | 1 |
 | 2026-11-26 | leetcode | [3360\. Stone Removal Game](./leetcode/Easy/3360-stone-removal-game) | Easy | 1 |
 | 2026-11-26 | takeuforward | [next\-greater\-element\. 102\. Next Greater ElementPOTD](./takeuforward/Unrated/next-greater-element-102-next-greater-elementpotd) | Unrated | 1 |
